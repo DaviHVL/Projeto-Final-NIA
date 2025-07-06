@@ -1,0 +1,1802 @@
+fipe_cod,tabela_id,anoref,mesref,tipo,marca_id,marca,modelo_id,modelo,anomod,comb_cod,comb_sigla,comb,valor
+008006-3,322,2025,6,1,6,Audi,65,A3 1.8 Turbo 3p Mec.,1999,1,G,Gasolina,17239
+008181-7,322,2025,6,1,6,Audi,6461,A3 Sport 1.8 16V TFSI S-tronic 3p,2013,1,G,Gasolina,77747
+008007-1,322,2025,6,1,6,Audi,69,A4 1.8  Mec.,1995,1,G,Gasolina,12714
+008120-5,322,2025,6,1,6,Audi,4182,A4 2.0 16V TFSI 200/ 214cv Multitronic,2008,1,G,Gasolina,52636
+008023-3,322,2025,6,1,6,Audi,86,A4 2.8 30V  Tiptronic/ Aut.,1998,1,G,Gasolina,20313
+008036-5,322,2025,6,1,6,Audi,88,A4 2.8 Avant V6 12V,1995,1,G,Gasolina,18543
+008055-1,322,2025,6,1,6,Audi,92,A4 2.8 Avant V6 30V Tiptronic,1999,1,G,Gasolina,29884
+008108-6,322,2025,6,1,6,Audi,99,A4 3.0 Cabriolet 30V 218cv Multitronic,2004,1,G,Gasolina,109601
+008108-6,322,2025,6,1,6,Audi,99,A4 3.0 Cabriolet 30V 218cv Multitronic,2003,1,G,Gasolina,103392
+008123-0,322,2025,6,1,6,Audi,4286,A4 3.2 FSI 24V 255cv Multitronic,2008,1,G,Gasolina,52400
+008124-8,322,2025,6,1,6,Audi,4287,A4 3.2 FSI Avant 24V 255cv Multitronic,2007,1,G,Gasolina,52938
+008135-3,322,2025,6,1,6,Audi,4935,A4 3.2 FSI Avant 24V Quattro S Tronic,2012,1,G,Gasolina,94215
+008135-3,322,2025,6,1,6,Audi,4935,A4 3.2 FSI Avant 24V Quattro S Tronic,2011,1,G,Gasolina,79997
+008135-3,322,2025,6,1,6,Audi,4935,A4 3.2 FSI Avant 24V Quattro S Tronic,2010,1,G,Gasolina,75157
+008135-3,322,2025,6,1,6,Audi,4935,A4 3.2 FSI Avant 24V Quattro S Tronic,2009,1,G,Gasolina,62374
+008125-6,322,2025,6,1,6,Audi,4288,A4 3.2 FSI Cabriolet 24V 255cv Multitron,2007,1,G,Gasolina,121875
+008209-0,322,2025,6,1,6,Audi,7717,A4 Ambiente 2.0 TFSI 190cv S tronic,2018,1,G,Gasolina,116887
+008209-0,322,2025,6,1,6,Audi,7717,A4 Ambiente 2.0 TFSI 190cv S tronic,2017,1,G,Gasolina,110012
+008209-0,322,2025,6,1,6,Audi,7717,A4 Ambiente 2.0 TFSI 190cv S tronic,2016,1,G,Gasolina,103088
+008212-0,322,2025,6,1,6,Audi,7894,A4 Ambition 2.0 TFSI Quattro S tronic,2018,1,G,Gasolina,118745
+008212-0,322,2025,6,1,6,Audi,7894,A4 Ambition 2.0 TFSI Quattro S tronic,2017,1,G,Gasolina,115848
+008208-2,322,2025,6,1,6,Audi,7656,A4 Attraction 2.0 TFSI 190cv S tronic,2018,1,G,Gasolina,103810
+008208-2,322,2025,6,1,6,Audi,7656,A4 Attraction 2.0 TFSI 190cv S tronic,2017,1,G,Gasolina,95423
+008264-3,322,2025,6,1,6,Audi,9223,A4 Perfor. Black 2.0 TFSI Quat. S tronic,2022,1,G,Gasolina,248661
+008245-7,322,2025,6,1,6,Audi,8771,A4 Prestige Plus 2.0 TFSI 190cv S tronic,2022,1,G,Gasolina,207343
+008245-7,322,2025,6,1,6,Audi,8771,A4 Prestige Plus 2.0 TFSI 190cv S tronic,2019,1,G,Gasolina,147652
+008281-3,322,2025,6,1,6,Audi,9824,A4 S Line 2.0  TFSI 204cv S Tonic,2024,1,G,Gasolina,279093
+008281-3,322,2025,6,1,6,Audi,9824,A4 S Line 2.0  TFSI 204cv S Tonic,2023,1,G,Gasolina,220055
+008281-3,322,2025,6,1,6,Audi,9824,A4 S Line 2.0  TFSI 204cv S Tonic,2022,1,G,Gasolina,214500
+008303-8,322,2025,6,1,6,Audi,11037,A4 S Line 2.0 16V TFSI Quattro (Híb.),32000,1,G,Gasolina,310895
+008303-8,322,2025,6,1,6,Audi,11037,A4 S Line 2.0 16V TFSI Quattro (Híb.),2025,1,G,Gasolina,298215
+008303-8,322,2025,6,1,6,Audi,11037,A4 S Line 2.0 16V TFSI Quattro (Híb.),2024,1,G,Gasolina,290461
+008131-0,322,2025,6,1,6,Audi,4798,A5 3.2 FSI 24V 269cv Multitronic,2009,1,G,Gasolina,94706
+008139-6,322,2025,6,1,6,Audi,5126,A5 3.2 FSI V6 24V 269cv Quattro Tiptroni,2011,1,G,Gasolina,97500
+008139-6,322,2025,6,1,6,Audi,5126,A5 3.2 FSI V6 24V 269cv Quattro Tiptroni,2010,1,G,Gasolina,92217
+008165-5,322,2025,6,1,6,Audi,6082,A5 Cabriolet 2.0 TFSI Quattro Stronic,2016,1,G,Gasolina,233755
+008165-5,322,2025,6,1,6,Audi,6082,A5 Cabriolet 2.0 TFSI Quattro Stronic,2015,1,G,Gasolina,183860
+008165-5,322,2025,6,1,6,Audi,6082,A5 Cabriolet 2.0 TFSI Quattro Stronic,2014,1,G,Gasolina,179375
+008165-5,322,2025,6,1,6,Audi,6082,A5 Cabriolet 2.0 TFSI Quattro Stronic,2013,1,G,Gasolina,169084
+008165-5,322,2025,6,1,6,Audi,6082,A5 Cabriolet 2.0 TFSI Quattro Stronic,2012,1,G,Gasolina,164960
+008164-7,322,2025,6,1,6,Audi,6083,A5 Coupê 2.0 TFSI Quattro Stronic,2016,1,G,Gasolina,119173
+008164-7,322,2025,6,1,6,Audi,6083,A5 Coupê 2.0 TFSI Quattro Stronic,2015,1,G,Gasolina,116266
+008164-7,322,2025,6,1,6,Audi,6083,A5 Coupê 2.0 TFSI Quattro Stronic,2014,1,G,Gasolina,102277
+008164-7,322,2025,6,1,6,Audi,6083,A5 Coupê 2.0 TFSI Quattro Stronic,2013,1,G,Gasolina,91353
+008164-7,322,2025,6,1,6,Audi,6083,A5 Coupê 2.0 TFSI Quattro Stronic,2012,1,G,Gasolina,89124
+008169-8,322,2025,6,1,6,Audi,6084,A5 Sportb. 2.0 16V TFSI Quat. S-tronic,2015,1,G,Gasolina,96688
+008169-8,322,2025,6,1,6,Audi,6084,A5 Sportb. 2.0 16V TFSI Quat. S-tronic,2014,1,G,Gasolina,94329
+008300-3,322,2025,6,1,6,Audi,11038,A5 Sportb. Advanc. 2.0 TFSI Quatt. (Híb),2025,1,G,Gasolina,305283
+008301-1,322,2025,6,1,6,Audi,11039,A5 Sportb. S Line 2.0 TFSI Quatt. (Híb.),2024,1,G,Gasolina,310284
+008197-3,322,2025,6,1,6,Audi,7022,A5 Sportback 1.8 TFSI 170cv Multi.,2017,1,G,Gasolina,105147
+008197-3,322,2025,6,1,6,Audi,7022,A5 Sportback 1.8 TFSI 170cv Multi.,2015,1,G,Gasolina,91466
+008052-7,322,2025,6,1,6,Audi,103,A6 2.4 Avant 30V Tip./ Multitronic,2003,1,G,Gasolina,40490
+008052-7,322,2025,6,1,6,Audi,103,A6 2.4 Avant 30V Tip./ Multitronic,2001,1,G,Gasolina,30569
+008052-7,322,2025,6,1,6,Audi,103,A6 2.4 Avant 30V Tip./ Multitronic,2000,1,G,Gasolina,29729
+008052-7,322,2025,6,1,6,Audi,103,A6 2.4 Avant 30V Tip./ Multitronic,1999,1,G,Gasolina,28806
+008058-6,322,2025,6,1,6,Audi,109,A6 2.7 30V Mec.,2000,1,G,Gasolina,30096
+008068-3,322,2025,6,1,6,Audi,110,A6 2.7 Avant Quattro Tiptronic,2002,1,G,Gasolina,43009
+008068-3,322,2025,6,1,6,Audi,110,A6 2.7 Avant Quattro Tiptronic,2001,1,G,Gasolina,40206
+008067-5,322,2025,6,1,6,Audi,111,A6 2.7 Quattro Tiptronic,2004,1,G,Gasolina,45422
+008067-5,322,2025,6,1,6,Audi,111,A6 2.7 Quattro Tiptronic,2003,1,G,Gasolina,44314
+008054-3,322,2025,6,1,6,Audi,117,A6 2.8 Avant 30V Tiptronic,1998,1,G,Gasolina,31175
+008095-0,322,2025,6,1,6,Audi,118,A6 2.8 Avant V6 30V Quattro Mec.,2001,1,G,Gasolina,34088
+008096-9,322,2025,6,1,6,Audi,119,A6 2.8 Avant V6 30V Quattro Tiptronic,2001,1,G,Gasolina,37656
+008179-5,322,2025,6,1,6,Audi,6413,A6 3.0 Avant.TFSI V6 Quattro S tronic 5p,2014,1,G,Gasolina,122911
+008103-5,322,2025,6,1,6,Audi,123,A6 3.0 V6 30V 218cv Multitronic 4p,2006,1,G,Gasolina,45837
+008103-5,322,2025,6,1,6,Audi,123,A6 3.0 V6 30V 218cv Multitronic 4p,2004,1,G,Gasolina,37504
+008060-8,322,2025,6,1,6,Audi,125,A6 4.2 Quattro Tiptronic,2008,1,G,Gasolina,104432
+008060-8,322,2025,6,1,6,Audi,125,A6 4.2 Quattro Tiptronic,2001,1,G,Gasolina,47349
+008180-9,322,2025,6,1,6,Audi,6462,A6 Allroad 3.0 TFSI V6 Quattro S tronic,2017,1,G,Gasolina,193744
+008180-9,322,2025,6,1,6,Audi,6462,A6 Allroad 3.0 TFSI V6 Quattro S tronic,2014,1,G,Gasolina,149767
+008266-0,322,2025,6,1,6,Audi,9298,A6 Perf. Black 3.0 TFSI Quattro S-tronic,2022,1,G,Gasolina,397672
+008253-8,322,2025,6,1,6,Audi,8814,A6 Performance 3.0 TFSI Quattro S.tronic,2020,1,G,Gasolina,262689
+008269-4,322,2025,6,1,6,Audi,9451,A6 Prestige Plus 2.0 TFSI Quattro S-tro.,2022,1,G,Gasolina,317655
+008187-6,322,2025,6,1,6,Audi,6631,A8 4.0 TFSI Quattro Tiptronic,2017,1,G,Gasolina,389901
+008187-6,322,2025,6,1,6,Audi,6631,A8 4.0 TFSI Quattro Tiptronic,2016,1,G,Gasolina,306486
+008187-6,322,2025,6,1,6,Audi,6631,A8 4.0 TFSI Quattro Tiptronic,2015,1,G,Gasolina,253326
+008187-6,322,2025,6,1,6,Audi,6631,A8 4.0 TFSI Quattro Tiptronic,2013,1,G,Gasolina,245726
+008062-4,322,2025,6,1,6,Audi,126,A8 4.2 Quattro Tiptronic,2012,1,G,Gasolina,199824
+008062-4,322,2025,6,1,6,Audi,126,A8 4.2 Quattro Tiptronic,2011,1,G,Gasolina,179458
+008062-4,322,2025,6,1,6,Audi,126,A8 4.2 Quattro Tiptronic,2008,1,G,Gasolina,171215
+008062-4,322,2025,6,1,6,Audi,126,A8 4.2 Quattro Tiptronic,2006,1,G,Gasolina,154750
+008062-4,322,2025,6,1,6,Audi,126,A8 4.2 Quattro Tiptronic,2005,1,G,Gasolina,150534
+008062-4,322,2025,6,1,6,Audi,126,A8 4.2 Quattro Tiptronic,2002,1,G,Gasolina,90521
+008062-4,322,2025,6,1,6,Audi,126,A8 4.2 Quattro Tiptronic,2001,1,G,Gasolina,66796
+008062-4,322,2025,6,1,6,Audi,126,A8 4.2 Quattro Tiptronic,2000,1,G,Gasolina,51322
+008014-4,322,2025,6,1,6,Audi,127,A8 4.2 V8 32V Tiptronic,2000,1,G,Gasolina,48932
+008014-4,322,2025,6,1,6,Audi,127,A8 4.2 V8 32V Tiptronic,1999,1,G,Gasolina,44987
+008014-4,322,2025,6,1,6,Audi,127,A8 4.2 V8 32V Tiptronic,1998,1,G,Gasolina,37851
+008014-4,322,2025,6,1,6,Audi,127,A8 4.2 V8 32V Tiptronic,1997,1,G,Gasolina,31075
+008014-4,322,2025,6,1,6,Audi,127,A8 4.2 V8 32V Tiptronic,1996,1,G,Gasolina,27882
+008014-4,322,2025,6,1,6,Audi,127,A8 4.2 V8 32V Tiptronic,1995,1,G,Gasolina,25556
+008014-4,322,2025,6,1,6,Audi,127,A8 4.2 V8 32V Tiptronic,1994,1,G,Gasolina,21775
+008115-9,322,2025,6,1,6,Audi,3928,A8 6.0 W12 48V 450cv Quattro Tiptronic,2006,1,G,Gasolina,187292
+008156-6,322,2025,6,1,6,Audi,5717,A8 6.3 W12 48V Quattro Tiptronic,2017,1,G,Gasolina,618232
+008156-6,322,2025,6,1,6,Audi,5717,A8 6.3 W12 48V Quattro Tiptronic,2016,1,G,Gasolina,568626
+008156-6,322,2025,6,1,6,Audi,5717,A8 6.3 W12 48V Quattro Tiptronic,2014,1,G,Gasolina,435650
+008079-9,322,2025,6,1,6,Audi,128,Allroad 2.7 30V Quattro Turbo Tiptronic,2005,1,G,Gasolina,58341
+008079-9,322,2025,6,1,6,Audi,128,Allroad 2.7 30V Quattro Turbo Tiptronic,2004,1,G,Gasolina,56918
+008079-9,322,2025,6,1,6,Audi,128,Allroad 2.7 30V Quattro Turbo Tiptronic,2003,1,G,Gasolina,55529
+008079-9,322,2025,6,1,6,Audi,128,Allroad 2.7 30V Quattro Turbo Tiptronic,2002,1,G,Gasolina,54174
+008079-9,322,2025,6,1,6,Audi,128,Allroad 2.7 30V Quattro Turbo Tiptronic,2001,1,G,Gasolina,48856
+008295-3,322,2025,6,1,6,Audi,10814,E-TRON GT Aut. (Elétrico),32000,1,G,Gasolina,765977
+008295-3,322,2025,6,1,6,Audi,10814,E-TRON GT Aut. (Elétrico),2024,1,G,Gasolina,707174
+008295-3,322,2025,6,1,6,Audi,10814,E-TRON GT Aut. (Elétrico),2023,1,G,Gasolina,622754
+008258-9,322,2025,6,1,6,Audi,9077,E-TRON Performa. Black Aut. (Elétrico),32000,1,G,Gasolina,594990
+008258-9,322,2025,6,1,6,Audi,9077,E-TRON Performa. Black Aut. (Elétrico),2023,1,G,Gasolina,411548
+008258-9,322,2025,6,1,6,Audi,9077,E-TRON Performa. Black Aut. (Elétrico),2022,1,G,Gasolina,395632
+008258-9,322,2025,6,1,6,Audi,9077,E-TRON Performa. Black Aut. (Elétrico),2021,1,G,Gasolina,345102
+008258-9,322,2025,6,1,6,Audi,9077,E-TRON Performa. Black Aut. (Elétrico),2020,1,G,Gasolina,310952
+008257-0,322,2025,6,1,6,Audi,9078,E-TRON Performace Aut. (Elétrico),2023,1,G,Gasolina,406487
+008257-0,322,2025,6,1,6,Audi,9078,E-TRON Performace Aut. (Elétrico),2022,1,G,Gasolina,379259
+008257-0,322,2025,6,1,6,Audi,9078,E-TRON Performace Aut. (Elétrico),2021,1,G,Gasolina,344120
+008257-0,322,2025,6,1,6,Audi,9078,E-TRON Performace Aut. (Elétrico),2020,1,G,Gasolina,291914
+008273-2,322,2025,6,1,6,Audi,9605,E-TRON S Sportback Quat. Aut. (Elétrico),2023,1,G,Gasolina,534384
+008273-2,322,2025,6,1,6,Audi,9605,E-TRON S Sportback Quat. Aut. (Elétrico),2022,1,G,Gasolina,453836
+008260-0,322,2025,6,1,6,Audi,9186,E-TRON Sportb. Perf.Black Aut.(Elétrico),32000,1,G,Gasolina,562204
+008260-0,322,2025,6,1,6,Audi,9186,E-TRON Sportb. Perf.Black Aut.(Elétrico),2023,1,G,Gasolina,405415
+008260-0,322,2025,6,1,6,Audi,9186,E-TRON Sportb. Perf.Black Aut.(Elétrico),2021,1,G,Gasolina,366471
+008260-0,322,2025,6,1,6,Audi,9186,E-TRON Sportb. Perf.Black Aut.(Elétrico),2020,1,G,Gasolina,357532
+008259-7,322,2025,6,1,6,Audi,9187,E-TRON Sportback Perf. Aut. (Elétrico),2023,1,G,Gasolina,432469
+008259-7,322,2025,6,1,6,Audi,9187,E-TRON Sportback Perf. Aut. (Elétrico),2022,1,G,Gasolina,376240
+008259-7,322,2025,6,1,6,Audi,9187,E-TRON Sportback Perf. Aut. (Elétrico),2021,1,G,Gasolina,367063
+008259-7,322,2025,6,1,6,Audi,9187,E-TRON Sportback Perf. Aut. (Elétrico),2020,1,G,Gasolina,285999
+008201-5,322,2025,6,1,6,Audi,7255,Q3 1.4 TFSI/TFSI Flex S-tronic 5p,2019,1,G,Gasolina,114817
+008201-5,322,2025,6,1,6,Audi,7255,Q3 1.4 TFSI/TFSI Flex S-tronic 5p,2017,1,G,Gasolina,95848
+008201-5,322,2025,6,1,6,Audi,7255,Q3 1.4 TFSI/TFSI Flex S-tronic 5p,2016,1,G,Gasolina,90204
+008298-8,322,2025,6,1,6,Audi,10888,Q3 2.0 TFSI Anniversary Edition Quattro,2024,1,G,Gasolina,322302
+008159-0,322,2025,6,1,6,Audi,6044,Q3 2.0 TFSI Quat. 170/180cv S-tronic 5p,2018,1,G,Gasolina,123355
+008159-0,322,2025,6,1,6,Audi,6044,Q3 2.0 TFSI Quat. 170/180cv S-tronic 5p,2017,1,G,Gasolina,103065
+008159-0,322,2025,6,1,6,Audi,6044,Q3 2.0 TFSI Quat. 170/180cv S-tronic 5p,2015,1,G,Gasolina,87563
+008159-0,322,2025,6,1,6,Audi,6044,Q3 2.0 TFSI Quat. 170/180cv S-tronic 5p,2014,1,G,Gasolina,82859
+008160-4,322,2025,6,1,6,Audi,6045,Q3 2.0 TFSI Quat. 211/220cv S-tronic 5p,2018,1,G,Gasolina,124197
+008160-4,322,2025,6,1,6,Audi,6045,Q3 2.0 TFSI Quat. 211/220cv S-tronic 5p,2017,1,G,Gasolina,106292
+008160-4,322,2025,6,1,6,Audi,6045,Q3 2.0 TFSI Quat. 211/220cv S-tronic 5p,2016,1,G,Gasolina,95981
+008160-4,322,2025,6,1,6,Audi,6045,Q3 2.0 TFSI Quat. 211/220cv S-tronic 5p,2015,1,G,Gasolina,89560
+008160-4,322,2025,6,1,6,Audi,6045,Q3 2.0 TFSI Quat. 211/220cv S-tronic 5p,2014,1,G,Gasolina,84004
+008225-2,322,2025,6,1,6,Audi,8230,Q3 Black Ed. 1.4 TFSI Flex/Black S-tron.,2022,1,G,Gasolina,212229
+008225-2,322,2025,6,1,6,Audi,8230,Q3 Black Ed. 1.4 TFSI Flex/Black S-tron.,2021,1,G,Gasolina,196686
+008225-2,322,2025,6,1,6,Audi,8230,Q3 Black Ed. 1.4 TFSI Flex/Black S-tron.,2020,1,G,Gasolina,180565
+008225-2,322,2025,6,1,6,Audi,8230,Q3 Black Ed. 1.4 TFSI Flex/Black S-tron.,2019,1,G,Gasolina,123611
+008225-2,322,2025,6,1,6,Audi,8230,Q3 Black Ed. 1.4 TFSI Flex/Black S-tron.,2018,1,G,Gasolina,113139
+008267-8,322,2025,6,1,6,Audi,9304,Q3 Black S Line 1.4 TFSI S-tronic,2021,1,G,Gasolina,204448
+008228-7,322,2025,6,1,6,Audi,8569,Q3 P. Plus 1.4 TFSI Flex/P.Plus S-tronic,2022,1,G,Gasolina,211267
+008228-7,322,2025,6,1,6,Audi,8569,Q3 P. Plus 1.4 TFSI Flex/P.Plus S-tronic,2021,1,G,Gasolina,182694
+008228-7,322,2025,6,1,6,Audi,8569,Q3 P. Plus 1.4 TFSI Flex/P.Plus S-tronic,2019,1,G,Gasolina,120512
+008280-5,322,2025,6,1,6,Audi,9796,Q3 Perf. Black 2.0 TFSI Tiptr. Quattro,32000,1,G,Gasolina,360699
+008280-5,322,2025,6,1,6,Audi,9796,Q3 Perf. Black 2.0 TFSI Tiptr. Quattro,2024,1,G,Gasolina,309377
+008280-5,322,2025,6,1,6,Audi,9796,Q3 Perf. Black 2.0 TFSI Tiptr. Quattro,2023,1,G,Gasolina,268277
+008280-5,322,2025,6,1,6,Audi,9796,Q3 Perf. Black 2.0 TFSI Tiptr. Quattro,2022,1,G,Gasolina,257145
+008304-6,322,2025,6,1,6,Audi,11135,Q3 Perf. Black.Plus 2.0 TFSI Tip. Quat.,32000,1,G,Gasolina,366527
+008304-6,322,2025,6,1,6,Audi,11135,Q3 Perf. Black.Plus 2.0 TFSI Tip. Quat.,2025,1,G,Gasolina,336690
+008304-6,322,2025,6,1,6,Audi,11135,Q3 Perf. Black.Plus 2.0 TFSI Tip. Quat.,2024,1,G,Gasolina,305442
+008284-8,322,2025,6,1,6,Audi,9871,Q3 Performance 2.0 TFSI Tiptr. Quattro,32000,1,G,Gasolina,338061
+008284-8,322,2025,6,1,6,Audi,9871,Q3 Performance 2.0 TFSI Tiptr. Quattro,2025,1,G,Gasolina,308874
+008284-8,322,2025,6,1,6,Audi,9871,Q3 Performance 2.0 TFSI Tiptr. Quattro,2024,1,G,Gasolina,296824
+008284-8,322,2025,6,1,6,Audi,9871,Q3 Performance 2.0 TFSI Tiptr. Quattro,2022,1,G,Gasolina,225586
+008227-9,322,2025,6,1,6,Audi,8568,Q3 Prest. 1.4 TFSI Flex/Prest. S-tronic,2022,1,G,Gasolina,199615
+008227-9,322,2025,6,1,6,Audi,8568,Q3 Prest. 1.4 TFSI Flex/Prest. S-tronic,2021,1,G,Gasolina,175358
+008227-9,322,2025,6,1,6,Audi,8568,Q3 Prest. 1.4 TFSI Flex/Prest. S-tronic,2020,1,G,Gasolina,156822
+008227-9,322,2025,6,1,6,Audi,8568,Q3 Prest. 1.4 TFSI Flex/Prest. S-tronic,2019,1,G,Gasolina,114933
+008289-9,322,2025,6,1,6,Audi,10111,Q3 Prestige 2.0 TFSI Tiptr.Quatro,32000,1,G,Gasolina,301046
+008289-9,322,2025,6,1,6,Audi,10111,Q3 Prestige 2.0 TFSI Tiptr.Quatro,2025,1,G,Gasolina,282174
+008289-9,322,2025,6,1,6,Audi,10111,Q3 Prestige 2.0 TFSI Tiptr.Quatro,2023,1,G,Gasolina,233436
+008289-9,322,2025,6,1,6,Audi,10111,Q3 Prestige 2.0 TFSI Tiptr.Quatro,2022,1,G,Gasolina,220292
+008305-4,322,2025,6,1,6,Audi,11136,Q3 SPB Perf.Black Plus 2.0 TFSI Tip.Quat,32000,1,G,Gasolina,386303
+008305-4,322,2025,6,1,6,Audi,11136,Q3 SPB Perf.Black Plus 2.0 TFSI Tip.Quat,2025,1,G,Gasolina,360750
+008282-1,322,2025,6,1,6,Audi,9836,Q3 SPB Performance 2.0 TFSI Tipt. Quatt.,2025,1,G,Gasolina,310927
+008282-1,322,2025,6,1,6,Audi,9836,Q3 SPB Performance 2.0 TFSI Tipt. Quatt.,2023,1,G,Gasolina,262646
+008299-6,322,2025,6,1,6,Audi,10889,Q3 Sportb. 2.0 TFSI Anniv. Edit. Quattro,2024,1,G,Gasolina,335855
+008134-5,322,2025,6,1,6,Audi,4936,Q5 2.0 16V TFSI Quattro S Tronic,2012,1,G,Gasolina,77279
+008134-5,322,2025,6,1,6,Audi,4936,Q5 2.0 16V TFSI Quattro S Tronic,2010,1,G,Gasolina,65112
+008134-5,322,2025,6,1,6,Audi,4936,Q5 2.0 16V TFSI Quattro S Tronic,2009,1,G,Gasolina,49572
+008182-5,322,2025,6,1,6,Audi,6486,Q5 3.0 V6 TFSI 272cv Quattro Tiptronic,2014,1,G,Gasolina,113043
+008137-0,322,2025,6,1,6,Audi,4959,Q5 3.2 FSI V6 Quattro S Tronic,2011,1,G,Gasolina,75730
+008137-0,322,2025,6,1,6,Audi,4959,Q5 3.2 FSI V6 Quattro S Tronic,2009,1,G,Gasolina,53730
+008218-0,322,2025,6,1,6,Audi,8037,Q5 Ambition 2.0 TFSI Quattro S tronic,2018,1,G,Gasolina,162271
+008219-8,322,2025,6,1,6,Audi,8038,Q5 Attraction 2.0 TFSI Quattro S tronic,2018,1,G,Gasolina,151673
+008240-6,322,2025,6,1,6,Audi,8583,Q5 Black 2.0 TFSI Quattro S tronic,2020,1,G,Gasolina,193697
+008240-6,322,2025,6,1,6,Audi,8583,Q5 Black 2.0 TFSI Quattro S tronic,2019,1,G,Gasolina,174804
+008285-6,322,2025,6,1,6,Audi,10045,Q5 Perf. Black 2.0 TFSIe S.Tr. Qt (Hib.),32000,1,G,Gasolina,485767
+008285-6,322,2025,6,1,6,Audi,10045,Q5 Perf. Black 2.0 TFSIe S.Tr. Qt (Hib.),2025,1,G,Gasolina,448871
+008285-6,322,2025,6,1,6,Audi,10045,Q5 Perf. Black 2.0 TFSIe S.Tr. Qt (Hib.),2023,1,G,Gasolina,347986
+008288-0,322,2025,6,1,6,Audi,10046,Q5 Performance 2.0 TFSIe S.Tr. Qt (Hib.),32000,1,G,Gasolina,463823
+008288-0,322,2025,6,1,6,Audi,10046,Q5 Performance 2.0 TFSIe S.Tr. Qt (Hib.),2025,1,G,Gasolina,422463
+008288-0,322,2025,6,1,6,Audi,10046,Q5 Performance 2.0 TFSIe S.Tr. Qt (Hib.),2024,1,G,Gasolina,388588
+008288-0,322,2025,6,1,6,Audi,10046,Q5 Performance 2.0 TFSIe S.Tr. Qt (Hib.),2023,1,G,Gasolina,348983
+008288-0,322,2025,6,1,6,Audi,10046,Q5 Performance 2.0 TFSIe S.Tr. Qt (Hib.),2022,1,G,Gasolina,321652
+008239-2,322,2025,6,1,6,Audi,8585,Q5 Prestige Plus 2.0 TFSI Quat. S tronic,2020,1,G,Gasolina,190132
+008239-2,322,2025,6,1,6,Audi,8585,Q5 Prestige Plus 2.0 TFSI Quat. S tronic,2019,1,G,Gasolina,169189
+008287-2,322,2025,6,1,6,Audi,10047,Q5 SB P Black. 2.0 TFSIe S.Tr. Qt (Hib.),32000,1,G,Gasolina,517076
+008287-2,322,2025,6,1,6,Audi,10047,Q5 SB P Black. 2.0 TFSIe S.Tr. Qt (Hib.),2025,1,G,Gasolina,459198
+008287-2,322,2025,6,1,6,Audi,10047,Q5 SB P Black. 2.0 TFSIe S.Tr. Qt (Hib.),2024,1,G,Gasolina,406989
+008287-2,322,2025,6,1,6,Audi,10047,Q5 SB P Black. 2.0 TFSIe S.Tr. Qt (Hib.),2023,1,G,Gasolina,343165
+008287-2,322,2025,6,1,6,Audi,10047,Q5 SB P Black. 2.0 TFSIe S.Tr. Qt (Hib.),2022,1,G,Gasolina,309692
+008286-4,322,2025,6,1,6,Audi,10048,Q5 SB Perf. 2.0 TFSIe S.Tr. Qt (Hib.),2025,1,G,Gasolina,449944
+008286-4,322,2025,6,1,6,Audi,10048,Q5 SB Perf. 2.0 TFSIe S.Tr. Qt (Hib.),2023,1,G,Gasolina,349182
+008286-4,322,2025,6,1,6,Audi,10048,Q5 SB Perf. 2.0 TFSIe S.Tr. Qt (Hib.),2022,1,G,Gasolina,328024
+008248-1,322,2025,6,1,6,Audi,8773,Q5 S-Line 2.0 TFSI Quattro S-tronic,32000,1,G,Gasolina,427159
+008248-1,322,2025,6,1,6,Audi,8773,Q5 S-Line 2.0 TFSI Quattro S-tronic,2025,1,G,Gasolina,389025
+008248-1,322,2025,6,1,6,Audi,8773,Q5 S-Line 2.0 TFSI Quattro S-tronic,2024,1,G,Gasolina,368452
+008248-1,322,2025,6,1,6,Audi,8773,Q5 S-Line 2.0 TFSI Quattro S-tronic,2023,1,G,Gasolina,298876
+008248-1,322,2025,6,1,6,Audi,8773,Q5 S-Line 2.0 TFSI Quattro S-tronic,2022,1,G,Gasolina,269180
+008248-1,322,2025,6,1,6,Audi,8773,Q5 S-Line 2.0 TFSI Quattro S-tronic,2021,1,G,Gasolina,242174
+008248-1,322,2025,6,1,6,Audi,8773,Q5 S-Line 2.0 TFSI Quattro S-tronic,2020,1,G,Gasolina,184002
+008248-1,322,2025,6,1,6,Audi,8773,Q5 S-Line 2.0 TFSI Quattro S-tronic,2019,1,G,Gasolina,168440
+008272-4,322,2025,6,1,6,Audi,9526,Q5 SPB. S-Line Black 2.0 TFSI Qua.S-Tron,2022,1,G,Gasolina,298324
+008272-4,322,2025,6,1,6,Audi,9526,Q5 SPB. S-Line Black 2.0 TFSI Qua.S-Tron,2021,1,G,Gasolina,275810
+008271-6,322,2025,6,1,6,Audi,9527,Q5 Sportback S-Line 2.0 TFSI Quat.S-Tron,2022,1,G,Gasolina,290544
+008271-6,322,2025,6,1,6,Audi,9527,Q5 Sportback S-Line 2.0 TFSI Quat.S-Tron,2021,1,G,Gasolina,259845
+008309-7,322,2025,6,1,6,Audi,11325,Q6 E-TRON Quattro Perf. Black (Elétrico),32000,1,G,Gasolina,571090
+008309-7,322,2025,6,1,6,Audi,11325,Q6 E-TRON Quattro Perf. Black (Elétrico),2025,1,G,Gasolina,542542
+008310-0,322,2025,6,1,6,Audi,11326,Q6 E-TRON Quattro Performance (Elétrico),32000,1,G,Gasolina,531090
+008310-0,322,2025,6,1,6,Audi,11326,Q6 E-TRON Quattro Performance (Elétrico),2025,1,G,Gasolina,503307
+008213-9,322,2025,6,1,6,Audi,7917,Q7 3.0 V6 TDI Quat.Tip. 5p Die./Perfor.,2019,3,D,Diesel,253889
+008213-9,322,2025,6,1,6,Audi,7917,Q7 3.0 V6 TDI Quat.Tip. 5p Die./Perfor.,2018,3,D,Diesel,236502
+008213-9,322,2025,6,1,6,Audi,7917,Q7 3.0 V6 TDI Quat.Tip. 5p Die./Perfor.,2017,3,D,Diesel,201020
+008152-3,322,2025,6,1,6,Audi,10049,Q7 3.0 V6 TFSI  Quat.Tip.5p/ Perf.(Híb.),2023,1,G,Gasolina,488686
+008152-3,322,2025,6,1,6,Audi,10049,Q7 3.0 V6 TFSI  Quat.Tip.5p/ Perf.(Híb.),2022,1,G,Gasolina,403171
+008152-3,322,2025,6,1,6,Audi,10049,Q7 3.0 V6 TFSI  Quat.Tip.5p/ Perf.(Híb.),2021,1,G,Gasolina,322479
+008152-3,322,2025,6,1,6,Audi,10049,Q7 3.0 V6 TFSI  Quat.Tip.5p/ Perf.(Híb.),2019,1,G,Gasolina,253463
+008152-3,322,2025,6,1,6,Audi,10049,Q7 3.0 V6 TFSI  Quat.Tip.5p/ Perf.(Híb.),2018,1,G,Gasolina,239752
+008152-3,322,2025,6,1,6,Audi,10049,Q7 3.0 V6 TFSI  Quat.Tip.5p/ Perf.(Híb.),2017,1,G,Gasolina,217212
+008152-3,322,2025,6,1,6,Audi,10049,Q7 3.0 V6 TFSI  Quat.Tip.5p/ Perf.(Híb.),2016,1,G,Gasolina,181111
+008152-3,322,2025,6,1,6,Audi,10049,Q7 3.0 V6 TFSI  Quat.Tip.5p/ Perf.(Híb.),2015,1,G,Gasolina,126648
+008152-3,322,2025,6,1,6,Audi,10049,Q7 3.0 V6 TFSI  Quat.Tip.5p/ Perf.(Híb.),2014,1,G,Gasolina,119140
+008152-3,322,2025,6,1,6,Audi,10049,Q7 3.0 V6 TFSI  Quat.Tip.5p/ Perf.(Híb.),2013,1,G,Gasolina,102103
+008152-3,322,2025,6,1,6,Audi,10049,Q7 3.0 V6 TFSI  Quat.Tip.5p/ Perf.(Híb.),2012,1,G,Gasolina,96182
+008152-3,322,2025,6,1,6,Audi,10049,Q7 3.0 V6 TFSI  Quat.Tip.5p/ Perf.(Híb.),2011,1,G,Gasolina,81677
+008129-9,322,2025,6,1,6,Audi,4694,Q7 3.6 V6 284cv Quattro Tiptronic,2010,1,G,Gasolina,81453
+008129-9,322,2025,6,1,6,Audi,4694,Q7 3.6 V6 284cv Quattro Tiptronic,2009,1,G,Gasolina,73558
+008129-9,322,2025,6,1,6,Audi,4694,Q7 3.6 V6 284cv Quattro Tiptronic,2008,1,G,Gasolina,71678
+008122-1,322,2025,6,1,6,Audi,4184,Q7 4.2 V8 40V 350cv Quattro Tiptronic,2010,1,G,Gasolina,86101
+008122-1,322,2025,6,1,6,Audi,4184,Q7 4.2 V8 40V 350cv Quattro Tiptronic,2009,1,G,Gasolina,76200
+008122-1,322,2025,6,1,6,Audi,4184,Q7 4.2 V8 40V 350cv Quattro Tiptronic,2008,1,G,Gasolina,73563
+008122-1,322,2025,6,1,6,Audi,4184,Q7 4.2 V8 40V 350cv Quattro Tiptronic,2007,1,G,Gasolina,56013
+008243-0,322,2025,6,1,6,Audi,10050,Q7 Perf. Black 3.0 TFSI Quat.Tip.(Híb.),32000,1,G,Gasolina,639510
+008243-0,322,2025,6,1,6,Audi,10050,Q7 Perf. Black 3.0 TFSI Quat.Tip.(Híb.),2023,1,G,Gasolina,440100
+008243-0,322,2025,6,1,6,Audi,10050,Q7 Perf. Black 3.0 TFSI Quat.Tip.(Híb.),2022,1,G,Gasolina,411007
+008243-0,322,2025,6,1,6,Audi,10050,Q7 Perf. Black 3.0 TFSI Quat.Tip.(Híb.),2019,1,G,Gasolina,281321
+008244-9,322,2025,6,1,6,Audi,8658,Q7 Perf.Black 3.0 TDI Quat.Tip.5p Dies.,2019,3,D,Diesel,276567
+008308-9,322,2025,6,1,6,Audi,11297,Q7 S-Line 3.0 V6 TFSI Qua. Tip. (Híb.),32000,1,G,Gasolina,702991
+008308-9,322,2025,6,1,6,Audi,11297,Q7 S-Line 3.0 V6 TFSI Qua. Tip. (Híb.),2025,1,G,Gasolina,617749
+008261-9,322,2025,6,1,6,Audi,9205,Q7 S-Line 3.0 V6 TFSI Quattro Tiptronic,2022,1,G,Gasolina,409845
+008261-9,322,2025,6,1,6,Audi,9205,Q7 S-Line 3.0 V6 TFSI Quattro Tiptronic,2021,1,G,Gasolina,345824
+008261-9,322,2025,6,1,6,Audi,9205,Q7 S-Line 3.0 V6 TFSI Quattro Tiptronic,2020,1,G,Gasolina,337389
+008297-0,322,2025,6,1,6,Audi,10869,Q8 E-TRON Launch Edition (Elétrico),32000,1,G,Gasolina,692636
+008297-0,322,2025,6,1,6,Audi,10869,Q8 E-TRON Launch Edition (Elétrico),2024,1,G,Gasolina,579646
+008296-1,322,2025,6,1,6,Audi,10870,Q8 E-TRON Performance Black (Elétrico),32000,1,G,Gasolina,682148
+008296-1,322,2025,6,1,6,Audi,10870,Q8 E-TRON Performance Black (Elétrico),2024,1,G,Gasolina,446779
+008293-7,322,2025,6,1,6,Audi,10786,Q8 E-TRON Sportb. Perf. Black (Elétrico),32000,1,G,Gasolina,712891
+008294-5,322,2025,6,1,6,Audi,10827,Q8 E-TRON Sportb.Launch Edt. (Elétrico),32000,1,G,Gasolina,714019
+008294-5,322,2025,6,1,6,Audi,10827,Q8 E-TRON Sportb.Launch Edt. (Elétrico),2024,1,G,Gasolina,587242
+008250-3,322,2025,6,1,6,Audi,10996,Q8 Perf.Black 3.0 TFSI Quat. S-tr/(Híb.),32000,1,G,Gasolina,787590
+008250-3,322,2025,6,1,6,Audi,10996,Q8 Perf.Black 3.0 TFSI Quat. S-tr/(Híb.),2025,1,G,Gasolina,718745
+008250-3,322,2025,6,1,6,Audi,10996,Q8 Perf.Black 3.0 TFSI Quat. S-tr/(Híb.),2022,1,G,Gasolina,477358
+008250-3,322,2025,6,1,6,Audi,10996,Q8 Perf.Black 3.0 TFSI Quat. S-tr/(Híb.),2020,1,G,Gasolina,407755
+008250-3,322,2025,6,1,6,Audi,10996,Q8 Perf.Black 3.0 TFSI Quat. S-tr/(Híb.),2019,1,G,Gasolina,384465
+008251-1,322,2025,6,1,6,Audi,10997,Q8 Perfo. 3.0 TFSI Quattro S-tron/(Híb.),2023,1,G,Gasolina,531987
+008251-1,322,2025,6,1,6,Audi,10997,Q8 Perfo. 3.0 TFSI Quattro S-tron/(Híb.),2022,1,G,Gasolina,437071
+008251-1,322,2025,6,1,6,Audi,10997,Q8 Perfo. 3.0 TFSI Quattro S-tron/(Híb.),2021,1,G,Gasolina,411419
+008251-1,322,2025,6,1,6,Audi,10997,Q8 Perfo. 3.0 TFSI Quattro S-tron/(Híb.),2020,1,G,Gasolina,385152
+008251-1,322,2025,6,1,6,Audi,10997,Q8 Perfo. 3.0 TFSI Quattro S-tron/(Híb.),2019,1,G,Gasolina,375758
+008147-7,322,2025,6,1,6,Audi,5235,R8 4.2 V8 426cv Quattro R-tronic,2012,1,G,Gasolina,612356
+008147-7,322,2025,6,1,6,Audi,5235,R8 4.2 V8 426cv Quattro R-tronic,2011,1,G,Gasolina,545384
+008147-7,322,2025,6,1,6,Audi,5235,R8 4.2 V8 426cv Quattro R-tronic,2010,1,G,Gasolina,447764
+008147-7,322,2025,6,1,6,Audi,5235,R8 4.2 V8 426cv Quattro R-tronic,2009,1,G,Gasolina,426843
+008147-7,322,2025,6,1,6,Audi,5235,R8 4.2 V8 426cv Quattro R-tronic,2008,1,G,Gasolina,416432
+008146-9,322,2025,6,1,6,Audi,5236,R8 5.2 V10 Quattro R-tronic/S-tronic,2022,1,G,Gasolina,2069831
+008146-9,322,2025,6,1,6,Audi,5236,R8 5.2 V10 Quattro R-tronic/S-tronic,2021,1,G,Gasolina,1636129
+008146-9,322,2025,6,1,6,Audi,5236,R8 5.2 V10 Quattro R-tronic/S-tronic,2018,1,G,Gasolina,1257506
+008146-9,322,2025,6,1,6,Audi,5236,R8 5.2 V10 Quattro R-tronic/S-tronic,2017,1,G,Gasolina,1122777
+008146-9,322,2025,6,1,6,Audi,5236,R8 5.2 V10 Quattro R-tronic/S-tronic,2015,1,G,Gasolina,818611
+008146-9,322,2025,6,1,6,Audi,5236,R8 5.2 V10 Quattro R-tronic/S-tronic,2014,1,G,Gasolina,798644
+008146-9,322,2025,6,1,6,Audi,5236,R8 5.2 V10 Quattro R-tronic/S-tronic,2012,1,G,Gasolina,637170
+008146-9,322,2025,6,1,6,Audi,5236,R8 5.2 V10 Quattro R-tronic/S-tronic,2011,1,G,Gasolina,616200
+008146-9,322,2025,6,1,6,Audi,5236,R8 5.2 V10 Quattro R-tronic/S-tronic,2010,1,G,Gasolina,536250
+008155-8,322,2025,6,1,6,Audi,5550,R8 Spyder 5.2 Quattro R-tronic/S-tronic,2016,1,G,Gasolina,935208
+008155-8,322,2025,6,1,6,Audi,5550,R8 Spyder 5.2 Quattro R-tronic/S-tronic,2015,1,G,Gasolina,859158
+008155-8,322,2025,6,1,6,Audi,5550,R8 Spyder 5.2 Quattro R-tronic/S-tronic,2014,1,G,Gasolina,809934
+008155-8,322,2025,6,1,6,Audi,5550,R8 Spyder 5.2 Quattro R-tronic/S-tronic,2013,1,G,Gasolina,790179
+008155-8,322,2025,6,1,6,Audi,5550,R8 Spyder 5.2 Quattro R-tronic/S-tronic,2012,1,G,Gasolina,710167
+008155-8,322,2025,6,1,6,Audi,5550,R8 Spyder 5.2 Quattro R-tronic/S-tronic,2011,1,G,Gasolina,692845
+008155-8,322,2025,6,1,6,Audi,5550,R8 Spyder 5.2 Quattro R-tronic/S-tronic,2010,1,G,Gasolina,582681
+008193-0,322,2025,6,1,6,Audi,6865,RS Q3 2.5 TFSI Quattro S-tronic 5p,2022,1,G,Gasolina,439127
+008193-0,322,2025,6,1,6,Audi,6865,RS Q3 2.5 TFSI Quattro S-tronic 5p,2021,1,G,Gasolina,428416
+008193-0,322,2025,6,1,6,Audi,6865,RS Q3 2.5 TFSI Quattro S-tronic 5p,2017,1,G,Gasolina,199939
+008193-0,322,2025,6,1,6,Audi,6865,RS Q3 2.5 TFSI Quattro S-tronic 5p,2016,1,G,Gasolina,193751
+008193-0,322,2025,6,1,6,Audi,6865,RS Q3 2.5 TFSI Quattro S-tronic 5p,2014,1,G,Gasolina,143571
+008265-1,322,2025,6,1,6,Audi,9292,RS Q3 Sportback 2.5 TFSI Quattro S-tron.,2022,1,G,Gasolina,443088
+008265-1,322,2025,6,1,6,Audi,9292,RS Q3 Sportback 2.5 TFSI Quattro S-tron.,2021,1,G,Gasolina,416294
+008262-7,322,2025,6,1,6,Audi,9224,RS Q8 4.0 Bi-TB V8 FSI Quattro Tiptronic,32000,1,G,Gasolina,1322490
+008262-7,322,2025,6,1,6,Audi,9224,RS Q8 4.0 Bi-TB V8 FSI Quattro Tiptronic,2023,1,G,Gasolina,1062128
+008262-7,322,2025,6,1,6,Audi,9224,RS Q8 4.0 Bi-TB V8 FSI Quattro Tiptronic,2022,1,G,Gasolina,959750
+008262-7,322,2025,6,1,6,Audi,9224,RS Q8 4.0 Bi-TB V8 FSI Quattro Tiptronic,2021,1,G,Gasolina,752050
+008221-0,322,2025,6,1,6,Audi,8175,RS3 Sedan 2.5 TFSI Quattro S-tronic,2018,1,G,Gasolina,401503
+008221-0,322,2025,6,1,6,Audi,8175,RS3 Sedan 2.5 TFSI Quattro S-tronic,2017,1,G,Gasolina,300789
+008157-4,322,2025,6,1,6,Audi,5922,RS3 Sportback 2.5 TFSI Quattro S-tronic,2018,1,G,Gasolina,403602
+008157-4,322,2025,6,1,6,Audi,5922,RS3 Sportback 2.5 TFSI Quattro S-tronic,2016,1,G,Gasolina,249846
+008157-4,322,2025,6,1,6,Audi,5922,RS3 Sportback 2.5 TFSI Quattro S-tronic,2012,1,G,Gasolina,178327
+008242-2,322,2025,6,1,6,Audi,8628,RS4 2.9 Avant V6 TFSI Quattro Tiptronic,2021,1,G,Gasolina,535203
+008242-2,322,2025,6,1,6,Audi,8628,RS4 2.9 Avant V6 TFSI Quattro Tiptronic,2019,1,G,Gasolina,428474
+008183-3,322,2025,6,1,6,Audi,6487,RS4 4.2 Avant 32V FSI Quattro S-tronic,2015,1,G,Gasolina,385027
+008183-3,322,2025,6,1,6,Audi,6487,RS4 4.2 Avant 32V FSI Quattro S-tronic,2014,1,G,Gasolina,351685
+008183-3,322,2025,6,1,6,Audi,6487,RS4 4.2 Avant 32V FSI Quattro S-tronic,2013,1,G,Gasolina,282232
+008151-5,322,2025,6,1,6,Audi,5410,RS5 4.2 FSI V8 450cv Quattro S-Tron. 2p,2015,1,G,Gasolina,292078
+008151-5,322,2025,6,1,6,Audi,5410,RS5 4.2 FSI V8 450cv Quattro S-Tron. 2p,2014,1,G,Gasolina,284954
+008151-5,322,2025,6,1,6,Audi,5410,RS5 4.2 FSI V8 450cv Quattro S-Tron. 2p,2013,1,G,Gasolina,263039
+008151-5,322,2025,6,1,6,Audi,5410,RS5 4.2 FSI V8 450cv Quattro S-Tron. 2p,2012,1,G,Gasolina,234164
+008151-5,322,2025,6,1,6,Audi,5410,RS5 4.2 FSI V8 450cv Quattro S-Tron. 2p,2011,1,G,Gasolina,227504
+008291-0,322,2025,6,1,6,Audi,10681,RS5 SPB. C.Plus Track 2.9 Quat. S-tronic,2024,1,G,Gasolina,779285
+008291-0,322,2025,6,1,6,Audi,10681,RS5 SPB. C.Plus Track 2.9 Quat. S-tronic,2023,1,G,Gasolina,633740
+008290-2,322,2025,6,1,6,Audi,10682,RS5 SPB. Compet. Plus 2.9 Quat. S-tronic,32000,1,G,Gasolina,849149
+008290-2,322,2025,6,1,6,Audi,10682,RS5 SPB. Compet. Plus 2.9 Quat. S-tronic,2023,1,G,Gasolina,659135
+008263-5,322,2025,6,1,6,Audi,9247,RS5 Sportback 2.9 V6 TFSI Quattro Tip.,2023,1,G,Gasolina,606705
+008263-5,322,2025,6,1,6,Audi,9247,RS5 Sportback 2.9 V6 TFSI Quattro Tip.,2022,1,G,Gasolina,515833
+008263-5,322,2025,6,1,6,Audi,9247,RS5 Sportback 2.9 V6 TFSI Quattro Tip.,2021,1,G,Gasolina,503251
+008189-2,322,2025,6,1,6,Audi,10227,RS6 4.0 Avant TFSI BI-TB Quat.Tip.(Hib.),32000,1,G,Gasolina,1190235
+008189-2,322,2025,6,1,6,Audi,10227,RS6 4.0 Avant TFSI BI-TB Quat.Tip.(Hib.),2024,1,G,Gasolina,1137825
+008189-2,322,2025,6,1,6,Audi,10227,RS6 4.0 Avant TFSI BI-TB Quat.Tip.(Hib.),2023,1,G,Gasolina,1082006
+008189-2,322,2025,6,1,6,Audi,10227,RS6 4.0 Avant TFSI BI-TB Quat.Tip.(Hib.),2022,1,G,Gasolina,943347
+008189-2,322,2025,6,1,6,Audi,10227,RS6 4.0 Avant TFSI BI-TB Quat.Tip.(Hib.),2021,1,G,Gasolina,795173
+008189-2,322,2025,6,1,6,Audi,10227,RS6 4.0 Avant TFSI BI-TB Quat.Tip.(Hib.),2018,1,G,Gasolina,513844
+008189-2,322,2025,6,1,6,Audi,10227,RS6 4.0 Avant TFSI BI-TB Quat.Tip.(Hib.),2017,1,G,Gasolina,473825
+008189-2,322,2025,6,1,6,Audi,10227,RS6 4.0 Avant TFSI BI-TB Quat.Tip.(Hib.),2016,1,G,Gasolina,397147
+008189-2,322,2025,6,1,6,Audi,10227,RS6 4.0 Avant TFSI BI-TB Quat.Tip.(Hib.),2015,1,G,Gasolina,365036
+008189-2,322,2025,6,1,6,Audi,10227,RS6 4.0 Avant TFSI BI-TB Quat.Tip.(Hib.),2014,1,G,Gasolina,353867
+008307-0,322,2025,6,1,6,Audi,11236,RS6 4.0 Avant.Perf TFSI Quat.Tip.(Hib),32000,1,G,Gasolina,1292156
+008307-0,322,2025,6,1,6,Audi,11236,RS6 4.0 Avant.Perf TFSI Quat.Tip.(Hib),2025,1,G,Gasolina,1198726
+008307-0,322,2025,6,1,6,Audi,11236,RS6 4.0 Avant.Perf TFSI Quat.Tip.(Hib),2024,1,G,Gasolina,1167640
+008112-4,322,2025,6,1,6,Audi,131,RS6 4.2 450cv BI-TB Quattro Tiptronic 4p,2004,1,G,Gasolina,109552
+008112-4,322,2025,6,1,6,Audi,131,RS6 4.2 450cv BI-TB Quattro Tiptronic 4p,2003,1,G,Gasolina,90916
+008111-6,322,2025,6,1,6,Audi,132,RS6 4.2 Avant  BI-TB Quattro Tiptron. 5p,2004,1,G,Gasolina,113189
+008111-6,322,2025,6,1,6,Audi,132,RS6 4.2 Avant  BI-TB Quattro Tiptron. 5p,2003,1,G,Gasolina,97511
+008149-3,322,2025,6,1,6,Audi,5335,RS6 5.0 Avant.FSI V10 Bi-TB Quattro Tip.,2011,1,G,Gasolina,392212
+008149-3,322,2025,6,1,6,Audi,5335,RS6 5.0 Avant.FSI V10 Bi-TB Quattro Tip.,2010,1,G,Gasolina,370066
+008148-5,322,2025,6,1,6,Audi,5336,RS6 5.0 FSI V10 Bi-TB Quattro Tip.,2011,1,G,Gasolina,329990
+008148-5,322,2025,6,1,6,Audi,5336,RS6 5.0 FSI V10 Bi-TB Quattro Tip.,2010,1,G,Gasolina,308466
+008194-9,322,2025,6,1,6,Audi,6883,RS7 Sportback 4.0 TFSI Quattro Tiptronic,2022,1,G,Gasolina,1088526
+008194-9,322,2025,6,1,6,Audi,6883,RS7 Sportback 4.0 TFSI Quattro Tiptronic,2021,1,G,Gasolina,810140
+008194-9,322,2025,6,1,6,Audi,6883,RS7 Sportback 4.0 TFSI Quattro Tiptronic,2018,1,G,Gasolina,515575
+008194-9,322,2025,6,1,6,Audi,6883,RS7 Sportback 4.0 TFSI Quattro Tiptronic,2017,1,G,Gasolina,478042
+008194-9,322,2025,6,1,6,Audi,6883,RS7 Sportback 4.0 TFSI Quattro Tiptronic,2016,1,G,Gasolina,432067
+008194-9,322,2025,6,1,6,Audi,6883,RS7 Sportback 4.0 TFSI Quattro Tiptronic,2015,1,G,Gasolina,406662
+008194-9,322,2025,6,1,6,Audi,6883,RS7 Sportback 4.0 TFSI Quattro Tiptronic,2014,1,G,Gasolina,363306
+008191-4,322,2025,6,1,6,Audi,6769,S Q5 3.0 V6 TFSI 354cv Quattro Tiptronic,2020,1,G,Gasolina,268659
+008191-4,322,2025,6,1,6,Audi,6769,S Q5 3.0 V6 TFSI 354cv Quattro Tiptronic,2019,1,G,Gasolina,262106
+008191-4,322,2025,6,1,6,Audi,6769,S Q5 3.0 V6 TFSI 354cv Quattro Tiptronic,2018,1,G,Gasolina,249751
+008191-4,322,2025,6,1,6,Audi,6769,S Q5 3.0 V6 TFSI 354cv Quattro Tiptronic,2017,1,G,Gasolina,243659
+008191-4,322,2025,6,1,6,Audi,6769,S Q5 3.0 V6 TFSI 354cv Quattro Tiptronic,2016,1,G,Gasolina,197027
+008191-4,322,2025,6,1,6,Audi,6769,S Q5 3.0 V6 TFSI 354cv Quattro Tiptronic,2015,1,G,Gasolina,142381
+008191-4,322,2025,6,1,6,Audi,6769,S Q5 3.0 V6 TFSI 354cv Quattro Tiptronic,2014,1,G,Gasolina,126652
+008066-7,322,2025,6,1,6,Audi,133,S3 1.8 225cv Turbo Quattro,2003,1,G,Gasolina,87076
+008066-7,322,2025,6,1,6,Audi,133,S3 1.8 225cv Turbo Quattro,2002,1,G,Gasolina,84952
+008066-7,322,2025,6,1,6,Audi,133,S3 1.8 225cv Turbo Quattro,2001,1,G,Gasolina,76594
+008066-7,322,2025,6,1,6,Audi,133,S3 1.8 225cv Turbo Quattro,2000,1,G,Gasolina,63901
+008066-7,322,2025,6,1,6,Audi,133,S3 1.8 225cv Turbo Quattro,1999,1,G,Gasolina,47614
+008196-5,322,2025,6,1,6,Audi,6951,S3 Sedan 2.0 TFSI Quattro 286cv S-tronic,2016,1,G,Gasolina,212308
+008196-5,322,2025,6,1,6,Audi,6951,S3 Sedan 2.0 TFSI Quattro 286cv S-tronic,2014,1,G,Gasolina,165699
+008140-0,322,2025,6,1,6,Audi,5127,S3 Sportback 2.0 TFSI Quattro S Tronic,2016,1,G,Gasolina,211748
+008140-0,322,2025,6,1,6,Audi,5127,S3 Sportback 2.0 TFSI Quattro S Tronic,2015,1,G,Gasolina,196278
+008140-0,322,2025,6,1,6,Audi,5127,S3 Sportback 2.0 TFSI Quattro S Tronic,2014,1,G,Gasolina,169411
+008140-0,322,2025,6,1,6,Audi,5127,S3 Sportback 2.0 TFSI Quattro S Tronic,2013,1,G,Gasolina,150049
+008140-0,322,2025,6,1,6,Audi,5127,S3 Sportback 2.0 TFSI Quattro S Tronic,2012,1,G,Gasolina,111980
+008140-0,322,2025,6,1,6,Audi,5127,S3 Sportback 2.0 TFSI Quattro S Tronic,2011,1,G,Gasolina,109248
+008140-0,322,2025,6,1,6,Audi,5127,S3 Sportback 2.0 TFSI Quattro S Tronic,2010,1,G,Gasolina,104755
+008069-1,322,2025,6,1,6,Audi,134,S4 2.7 Avant Turbo Quattro,2001,1,G,Gasolina,49057
+008069-1,322,2025,6,1,6,Audi,134,S4 2.7 Avant Turbo Quattro,2000,1,G,Gasolina,47712
+008063-2,322,2025,6,1,6,Audi,135,S4 2.7 Turbo Quattro Mec.,2001,1,G,Gasolina,45767
+008063-2,322,2025,6,1,6,Audi,135,S4 2.7 Turbo Quattro Mec.,2000,1,G,Gasolina,39450
+008063-2,322,2025,6,1,6,Audi,135,S4 2.7 Turbo Quattro Mec.,1999,1,G,Gasolina,31540
+008163-9,322,2025,6,1,6,Audi,6085,S4 3.0 Avant TFSI V6 24V Quattro Stronic,2014,1,G,Gasolina,219773
+008163-9,322,2025,6,1,6,Audi,6085,S4 3.0 Avant TFSI V6 24V Quattro Stronic,2013,1,G,Gasolina,193050
+008163-9,322,2025,6,1,6,Audi,6085,S4 3.0 Avant TFSI V6 24V Quattro Stronic,2012,1,G,Gasolina,177444
+008162-0,322,2025,6,1,6,Audi,6086,S4 3.0 TFSI V6 24V Quattro Stronic,2014,1,G,Gasolina,217376
+008162-0,322,2025,6,1,6,Audi,6086,S4 3.0 TFSI V6 24V Quattro Stronic,2013,1,G,Gasolina,207842
+008162-0,322,2025,6,1,6,Audi,6086,S4 3.0 TFSI V6 24V Quattro Stronic,2012,1,G,Gasolina,152774
+008162-0,322,2025,6,1,6,Audi,6086,S4 3.0 TFSI V6 24V Quattro Stronic,2011,1,G,Gasolina,123056
+008114-0,322,2025,6,1,6,Audi,136,S4 4.2 Avant V8 40V 344cv Quattro Tipt.,2005,1,G,Gasolina,103351
+008114-0,322,2025,6,1,6,Audi,136,S4 4.2 Avant V8 40V 344cv Quattro Tipt.,2004,1,G,Gasolina,90493
+008113-2,322,2025,6,1,6,Audi,137,S4 4.2 V8 40V 344cv Quattro Tiptronic,2005,1,G,Gasolina,93084
+008113-2,322,2025,6,1,6,Audi,137,S4 4.2 V8 40V 344cv Quattro Tiptronic,2004,1,G,Gasolina,83013
+008168-0,322,2025,6,1,6,Audi,6087,S5 Cabriolet 3.0 TFSI Quattro Stronic,2013,1,G,Gasolina,239794
+008168-0,322,2025,6,1,6,Audi,6087,S5 Cabriolet 3.0 TFSI Quattro Stronic,2012,1,G,Gasolina,228160
+008167-1,322,2025,6,1,6,Audi,6088,S5 Coupê 3.0 TFSI Quattro Stronic,2013,1,G,Gasolina,247349
+008167-1,322,2025,6,1,6,Audi,6088,S5 Coupê 3.0 TFSI Quattro Stronic,2012,1,G,Gasolina,233337
+008166-3,322,2025,6,1,6,Audi,6089,S5 Sportback 3.0 TFSI Quattro Stronic,2014,1,G,Gasolina,229712
+008166-3,322,2025,6,1,6,Audi,6089,S5 Sportback 3.0 TFSI Quattro Stronic,2012,1,G,Gasolina,196544
+008078-0,322,2025,6,1,6,Audi,139,S6 2.2 Avant 20V TB,1997,1,G,Gasolina,20998
+008078-0,322,2025,6,1,6,Audi,139,S6 2.2 Avant 20V TB,1995,1,G,Gasolina,18732
+008202-3,322,2025,6,1,6,Audi,7302,S6 4.0 TFSI Quattro S-Tronic 4p,2016,1,G,Gasolina,335208
+008202-3,322,2025,6,1,6,Audi,7302,S6 4.0 TFSI Quattro S-Tronic 4p,2014,1,G,Gasolina,232569
+008202-3,322,2025,6,1,6,Audi,7302,S6 4.0 TFSI Quattro S-Tronic 4p,2013,1,G,Gasolina,221075
+008097-7,322,2025,6,1,6,Audi,140,S6 4.2 Avant V8 40V Quattro Tiptronic,2001,1,G,Gasolina,50980
+008099-3,322,2025,6,1,6,Audi,141,S6 4.2 V8 40V Quattro Mec,2001,1,G,Gasolina,44078
+008098-5,322,2025,6,1,6,Audi,142,S6 4.2 V8 40V Quattro Tiptronic,2003,1,G,Gasolina,68722
+008098-5,322,2025,6,1,6,Audi,142,S6 4.2 V8 40V Quattro Tiptronic,2002,1,G,Gasolina,57181
+008098-5,322,2025,6,1,6,Audi,142,S6 4.2 V8 40V Quattro Tiptronic,2001,1,G,Gasolina,48973
+008144-2,322,2025,6,1,6,Audi,5186,S6 5.2 Avant FSI V10 435cv Quattro Tiptr,2010,1,G,Gasolina,203445
+008143-4,322,2025,6,1,6,Audi,5187,S6 5.2 FSI V10 435cv Quattro Tiptronic,2011,1,G,Gasolina,210406
+008143-4,322,2025,6,1,6,Audi,5187,S6 5.2 FSI V10 435cv Quattro Tiptronic,2010,1,G,Gasolina,177378
+008039-0,322,2025,6,1,6,Audi,144,S6 Plus 4.2 V8 32V,1998,1,G,Gasolina,28647
+008039-0,322,2025,6,1,6,Audi,144,S6 Plus 4.2 V8 32V,1997,1,G,Gasolina,24250
+008198-1,322,2025,6,1,6,Audi,7128,S8 4.0 TFSI Quattro Tiptronic 4p,2017,1,G,Gasolina,650507
+008198-1,322,2025,6,1,6,Audi,7128,S8 4.0 TFSI Quattro Tiptronic 4p,2016,1,G,Gasolina,542998
+008198-1,322,2025,6,1,6,Audi,7128,S8 4.0 TFSI Quattro Tiptronic 4p,2015,1,G,Gasolina,478191
+008198-1,322,2025,6,1,6,Audi,7128,S8 4.0 TFSI Quattro Tiptronic 4p,2013,1,G,Gasolina,301521
+008028-4,322,2025,6,1,6,Audi,145,S8 4.2 Mec,1998,1,G,Gasolina,39310
+008028-4,322,2025,6,1,6,Audi,145,S8 4.2 Mec,1997,1,G,Gasolina,36384
+008028-4,322,2025,6,1,6,Audi,145,S8 4.2 Mec,1996,1,G,Gasolina,31209
+008064-0,322,2025,6,1,6,Audi,146,S8 4.2 Quattro Mec.,2000,1,G,Gasolina,61792
+008065-9,322,2025,6,1,6,Audi,147,S8 4.2 Quattro Tiptronic,2000,1,G,Gasolina,70699
+008029-2,322,2025,6,1,6,Audi,148,S8 4.2 Tiptronic,2001,1,G,Gasolina,71731
+008029-2,322,2025,6,1,6,Audi,148,S8 4.2 Tiptronic,2000,1,G,Gasolina,66187
+008029-2,322,2025,6,1,6,Audi,148,S8 4.2 Tiptronic,1998,1,G,Gasolina,40054
+008306-2,322,2025,6,1,6,Audi,11197,SQ8 Sportback E-Tron Quattro (Elétrico),32000,1,G,Gasolina,856951
+008306-2,322,2025,6,1,6,Audi,11197,SQ8 Sportback E-Tron Quattro (Elétrico),2024,1,G,Gasolina,759562
+008034-9,322,2025,6,1,6,Audi,149,TT 1.8 TB 180cv,2006,1,G,Gasolina,98767
+008034-9,322,2025,6,1,6,Audi,149,TT 1.8 TB 180cv,2005,1,G,Gasolina,96358
+008034-9,322,2025,6,1,6,Audi,149,TT 1.8 TB 180cv,2004,1,G,Gasolina,93014
+008034-9,322,2025,6,1,6,Audi,149,TT 1.8 TB 180cv,2003,1,G,Gasolina,90745
+008034-9,322,2025,6,1,6,Audi,149,TT 1.8 TB 180cv,2002,1,G,Gasolina,88531
+008034-9,322,2025,6,1,6,Audi,149,TT 1.8 TB 180cv,2001,1,G,Gasolina,85686
+008034-9,322,2025,6,1,6,Audi,149,TT 1.8 TB 180cv,2000,1,G,Gasolina,83596
+008035-7,322,2025,6,1,6,Audi,150,TT 1.8 TB Quattro 225cv,2005,1,G,Gasolina,105897
+008035-7,322,2025,6,1,6,Audi,150,TT 1.8 TB Quattro 225cv,2004,1,G,Gasolina,103314
+008035-7,322,2025,6,1,6,Audi,150,TT 1.8 TB Quattro 225cv,2002,1,G,Gasolina,98335
+008035-7,322,2025,6,1,6,Audi,150,TT 1.8 TB Quattro 225cv,2001,1,G,Gasolina,87119
+008035-7,322,2025,6,1,6,Audi,150,TT 1.8 TB Quattro 225cv,1999,1,G,Gasolina,59657
+008126-4,322,2025,6,1,6,Audi,4330,TT 2.0 16v TFSI S-Tronic,2018,1,G,Gasolina,289132
+008126-4,322,2025,6,1,6,Audi,4330,TT 2.0 16v TFSI S-Tronic,2017,1,G,Gasolina,253402
+008126-4,322,2025,6,1,6,Audi,4330,TT 2.0 16v TFSI S-Tronic,2016,1,G,Gasolina,242013
+008126-4,322,2025,6,1,6,Audi,4330,TT 2.0 16v TFSI S-Tronic,2015,1,G,Gasolina,226495
+008126-4,322,2025,6,1,6,Audi,4330,TT 2.0 16v TFSI S-Tronic,2014,1,G,Gasolina,162781
+008126-4,322,2025,6,1,6,Audi,4330,TT 2.0 16v TFSI S-Tronic,2013,1,G,Gasolina,155902
+008126-4,322,2025,6,1,6,Audi,4330,TT 2.0 16v TFSI S-Tronic,2011,1,G,Gasolina,144864
+008126-4,322,2025,6,1,6,Audi,4330,TT 2.0 16v TFSI S-Tronic,2010,1,G,Gasolina,141330
+008126-4,322,2025,6,1,6,Audi,4330,TT 2.0 16v TFSI S-Tronic,2009,1,G,Gasolina,124123
+008126-4,322,2025,6,1,6,Audi,4330,TT 2.0 16v TFSI S-Tronic,2008,1,G,Gasolina,121095
+008126-4,322,2025,6,1,6,Audi,4330,TT 2.0 16v TFSI S-Tronic,2007,1,G,Gasolina,107250
+008075-6,322,2025,6,1,6,Audi,151,TT Roadster 1.8 TB Quattro 225cv (Conv.),2006,1,G,Gasolina,125697
+008075-6,322,2025,6,1,6,Audi,151,TT Roadster 1.8 TB Quattro 225cv (Conv.),2005,1,G,Gasolina,108176
+008075-6,322,2025,6,1,6,Audi,151,TT Roadster 1.8 TB Quattro 225cv (Conv.),2004,1,G,Gasolina,103550
+008075-6,322,2025,6,1,6,Audi,151,TT Roadster 1.8 TB Quattro 225cv (Conv.),2003,1,G,Gasolina,101024
+008075-6,322,2025,6,1,6,Audi,151,TT Roadster 1.8 TB Quattro 225cv (Conv.),2002,1,G,Gasolina,98560
+008075-6,322,2025,6,1,6,Audi,151,TT Roadster 1.8 TB Quattro 225cv (Conv.),2001,1,G,Gasolina,94184
+008075-6,322,2025,6,1,6,Audi,151,TT Roadster 1.8 TB Quattro 225cv (Conv.),2000,1,G,Gasolina,91886
+008127-2,322,2025,6,1,6,Audi,4431,TT Roadster 2.0 16v TFSI S-Tronic,2018,1,G,Gasolina,314196
+008127-2,322,2025,6,1,6,Audi,4431,TT Roadster 2.0 16v TFSI S-Tronic,2017,1,G,Gasolina,306532
+008127-2,322,2025,6,1,6,Audi,4431,TT Roadster 2.0 16v TFSI S-Tronic,2016,1,G,Gasolina,261797
+008127-2,322,2025,6,1,6,Audi,4431,TT Roadster 2.0 16v TFSI S-Tronic,2014,1,G,Gasolina,185624
+008127-2,322,2025,6,1,6,Audi,4431,TT Roadster 2.0 16v TFSI S-Tronic,2013,1,G,Gasolina,181096
+008127-2,322,2025,6,1,6,Audi,4431,TT Roadster 2.0 16v TFSI S-Tronic,2012,1,G,Gasolina,167309
+008127-2,322,2025,6,1,6,Audi,4431,TT Roadster 2.0 16v TFSI S-Tronic,2011,1,G,Gasolina,157552
+008127-2,322,2025,6,1,6,Audi,4431,TT Roadster 2.0 16v TFSI S-Tronic,2009,1,G,Gasolina,141277
+008127-2,322,2025,6,1,6,Audi,4431,TT Roadster 2.0 16v TFSI S-Tronic,2008,1,G,Gasolina,132278
+008176-0,322,2025,6,1,6,Audi,6258,TTRS 2.5 TFSI QUATTRO S Tronic,2022,1,G,Gasolina,604446
+008176-0,322,2025,6,1,6,Audi,6258,TTRS 2.5 TFSI QUATTRO S Tronic,2021,1,G,Gasolina,577768
+008176-0,322,2025,6,1,6,Audi,6258,TTRS 2.5 TFSI QUATTRO S Tronic,2018,1,G,Gasolina,504209
+008176-0,322,2025,6,1,6,Audi,6258,TTRS 2.5 TFSI QUATTRO S Tronic,2014,1,G,Gasolina,270356
+008176-0,322,2025,6,1,6,Audi,6258,TTRS 2.5 TFSI QUATTRO S Tronic,2013,1,G,Gasolina,257858
+008176-0,322,2025,6,1,6,Audi,6258,TTRS 2.5 TFSI QUATTRO S Tronic,2012,1,G,Gasolina,227147
+008175-2,322,2025,6,1,6,Audi,6259,TTRS Roadster 2.5 TB FSI Quat. S Tronic,2014,1,G,Gasolina,276675
+008175-2,322,2025,6,1,6,Audi,6259,TTRS Roadster 2.5 TB FSI Quat. S Tronic,2013,1,G,Gasolina,265337
+008175-2,322,2025,6,1,6,Audi,6259,TTRS Roadster 2.5 TB FSI Quat. S Tronic,2012,1,G,Gasolina,250944
+008141-8,322,2025,6,1,6,Audi,5128,TTS 2.0 TFSI QUATTRO S Tronic,2018,1,G,Gasolina,329013
+008141-8,322,2025,6,1,6,Audi,5128,TTS 2.0 TFSI QUATTRO S Tronic,2017,1,G,Gasolina,319702
+008141-8,322,2025,6,1,6,Audi,5128,TTS 2.0 TFSI QUATTRO S Tronic,2016,1,G,Gasolina,267406
+008141-8,322,2025,6,1,6,Audi,5128,TTS 2.0 TFSI QUATTRO S Tronic,2014,1,G,Gasolina,186495
+008141-8,322,2025,6,1,6,Audi,5128,TTS 2.0 TFSI QUATTRO S Tronic,2013,1,G,Gasolina,181946
+008141-8,322,2025,6,1,6,Audi,5128,TTS 2.0 TFSI QUATTRO S Tronic,2012,1,G,Gasolina,167669
+008141-8,322,2025,6,1,6,Audi,5128,TTS 2.0 TFSI QUATTRO S Tronic,2011,1,G,Gasolina,163579
+008141-8,322,2025,6,1,6,Audi,5128,TTS 2.0 TFSI QUATTRO S Tronic,2010,1,G,Gasolina,152416
+008142-6,322,2025,6,1,6,Audi,5129,TTS Roadster 2.0 TB FSI Quattro S Tronic,2018,1,G,Gasolina,349212
+008142-6,322,2025,6,1,6,Audi,5129,TTS Roadster 2.0 TB FSI Quattro S Tronic,2017,1,G,Gasolina,340694
+008142-6,322,2025,6,1,6,Audi,5129,TTS Roadster 2.0 TB FSI Quattro S Tronic,2016,1,G,Gasolina,271646
+008142-6,322,2025,6,1,6,Audi,5129,TTS Roadster 2.0 TB FSI Quattro S Tronic,2014,1,G,Gasolina,206886
+008142-6,322,2025,6,1,6,Audi,5129,TTS Roadster 2.0 TB FSI Quattro S Tronic,2013,1,G,Gasolina,188672
+008142-6,322,2025,6,1,6,Audi,5129,TTS Roadster 2.0 TB FSI Quattro S Tronic,2012,1,G,Gasolina,174869
+008142-6,322,2025,6,1,6,Audi,5129,TTS Roadster 2.0 TB FSI Quattro S Tronic,2011,1,G,Gasolina,170603
+008142-6,322,2025,6,1,6,Audi,5129,TTS Roadster 2.0 TB FSI Quattro S Tronic,2010,1,G,Gasolina,166441
+040001-7,322,2025,6,1,207,Baby,8274,Buggy 1.6 2-Lug.,1997,1,G,Gasolina,4681
+040001-7,322,2025,6,1,207,Baby,8274,Buggy 1.6 2-Lug.,1996,1,G,Gasolina,4505
+040001-7,322,2025,6,1,207,Baby,8274,Buggy 1.6 2-Lug.,1995,1,G,Gasolina,4240
+040001-7,322,2025,6,1,207,Baby,8274,Buggy 1.6 2-Lug.,1994,1,G,Gasolina,4054
+040001-7,322,2025,6,1,207,Baby,8274,Buggy 1.6 2-Lug.,1993,1,G,Gasolina,3751
+040001-7,322,2025,6,1,207,Baby,8274,Buggy 1.6 2-Lug.,1992,1,G,Gasolina,3573
+040001-7,322,2025,6,1,207,Baby,8274,Buggy 1.6 2-Lug.,1990,1,G,Gasolina,3281
+040001-7,322,2025,6,1,207,Baby,8274,Buggy 1.6 2-Lug.,1989,1,G,Gasolina,2827
+040001-7,322,2025,6,1,207,Baby,8274,Buggy 1.6 2-Lug.,1988,1,G,Gasolina,2219
+040002-5,322,2025,6,1,207,Baby,8275,Buggy 1.6/ TST/ RS 1.6 4-Lug.,32000,1,G,Gasolina,65000
+040002-5,322,2025,6,1,207,Baby,8275,Buggy 1.6/ TST/ RS 1.6 4-Lug.,2025,1,G,Gasolina,54470
+040002-5,322,2025,6,1,207,Baby,8275,Buggy 1.6/ TST/ RS 1.6 4-Lug.,2024,1,G,Gasolina,50136
+040002-5,322,2025,6,1,207,Baby,8275,Buggy 1.6/ TST/ RS 1.6 4-Lug.,2023,1,G,Gasolina,44705
+040002-5,322,2025,6,1,207,Baby,8275,Buggy 1.6/ TST/ RS 1.6 4-Lug.,2022,1,G,Gasolina,40695
+040002-5,322,2025,6,1,207,Baby,8275,Buggy 1.6/ TST/ RS 1.6 4-Lug.,2021,1,G,Gasolina,36170
+040002-5,322,2025,6,1,207,Baby,8275,Buggy 1.6/ TST/ RS 1.6 4-Lug.,2020,1,G,Gasolina,30883
+040002-5,322,2025,6,1,207,Baby,8275,Buggy 1.6/ TST/ RS 1.6 4-Lug.,2019,1,G,Gasolina,29798
+040002-5,322,2025,6,1,207,Baby,8275,Buggy 1.6/ TST/ RS 1.6 4-Lug.,2018,1,G,Gasolina,28006
+040002-5,322,2025,6,1,207,Baby,8275,Buggy 1.6/ TST/ RS 1.6 4-Lug.,2017,1,G,Gasolina,25028
+040002-5,322,2025,6,1,207,Baby,8275,Buggy 1.6/ TST/ RS 1.6 4-Lug.,2016,1,G,Gasolina,24346
+040002-5,322,2025,6,1,207,Baby,8275,Buggy 1.6/ TST/ RS 1.6 4-Lug.,2015,1,G,Gasolina,23097
+040002-5,322,2025,6,1,207,Baby,8275,Buggy 1.6/ TST/ RS 1.6 4-Lug.,2012,1,G,Gasolina,17685
+040002-5,322,2025,6,1,207,Baby,8275,Buggy 1.6/ TST/ RS 1.6 4-Lug.,2011,1,G,Gasolina,15735
+040002-5,322,2025,6,1,207,Baby,8275,Buggy 1.6/ TST/ RS 1.6 4-Lug.,2010,1,G,Gasolina,12991
+040002-5,322,2025,6,1,207,Baby,8275,Buggy 1.6/ TST/ RS 1.6 4-Lug.,2009,1,G,Gasolina,12427
+040002-5,322,2025,6,1,207,Baby,8275,Buggy 1.6/ TST/ RS 1.6 4-Lug.,2008,1,G,Gasolina,11115
+040002-5,322,2025,6,1,207,Baby,8275,Buggy 1.6/ TST/ RS 1.6 4-Lug.,2007,1,G,Gasolina,8874
+040002-5,322,2025,6,1,207,Baby,8275,Buggy 1.6/ TST/ RS 1.6 4-Lug.,2006,1,G,Gasolina,8657
+040002-5,322,2025,6,1,207,Baby,8275,Buggy 1.6/ TST/ RS 1.6 4-Lug.,2005,1,G,Gasolina,7737
+040002-5,322,2025,6,1,207,Baby,8275,Buggy 1.6/ TST/ RS 1.6 4-Lug.,1999,1,G,Gasolina,6575
+040002-5,322,2025,6,1,207,Baby,8275,Buggy 1.6/ TST/ RS 1.6 4-Lug.,1998,1,G,Gasolina,5554
+040002-5,322,2025,6,1,207,Baby,8275,Buggy 1.6/ TST/ RS 1.6 4-Lug.,1997,1,G,Gasolina,4914
+040002-5,322,2025,6,1,207,Baby,8275,Buggy 1.6/ TST/ RS 1.6 4-Lug.,1996,1,G,Gasolina,4756
+040002-5,322,2025,6,1,207,Baby,8275,Buggy 1.6/ TST/ RS 1.6 4-Lug.,1995,1,G,Gasolina,4575
+040002-5,322,2025,6,1,207,Baby,8275,Buggy 1.6/ TST/ RS 1.6 4-Lug.,1994,1,G,Gasolina,4229
+040002-5,322,2025,6,1,207,Baby,8275,Buggy 1.6/ TST/ RS 1.6 4-Lug.,1993,1,G,Gasolina,4125
+040002-5,322,2025,6,1,207,Baby,8275,Buggy 1.6/ TST/ RS 1.6 4-Lug.,1992,1,G,Gasolina,3816
+040002-5,322,2025,6,1,207,Baby,8275,Buggy 1.6/ TST/ RS 1.6 4-Lug.,1991,1,G,Gasolina,3691
+040002-5,322,2025,6,1,207,Baby,8275,Buggy 1.6/ TST/ RS 1.6 4-Lug.,1990,1,G,Gasolina,3566
+040002-5,322,2025,6,1,207,Baby,8275,Buggy 1.6/ TST/ RS 1.6 4-Lug.,1989,1,G,Gasolina,3313
+040002-5,322,2025,6,1,207,Baby,8275,Buggy 1.6/ TST/ RS 1.6 4-Lug.,1988,1,G,Gasolina,3187
+040002-5,322,2025,6,1,207,Baby,8275,Buggy 1.6/ TST/ RS 1.6 4-Lug.,1987,1,G,Gasolina,3109
+040002-5,322,2025,6,1,207,Baby,8275,Buggy 1.6/ TST/ RS 1.6 4-Lug.,1986,1,G,Gasolina,3004
+040002-5,322,2025,6,1,207,Baby,8275,Buggy 1.6/ TST/ RS 1.6 4-Lug.,1985,1,G,Gasolina,2736
+040003-3,322,2025,6,1,207,Baby,8276,Buggy RS Evolution 1.8 8V,32000,1,G,Gasolina,80000
+040003-3,322,2025,6,1,207,Baby,8276,Buggy RS Evolution 1.8 8V,2025,1,G,Gasolina,64154
+040003-3,322,2025,6,1,207,Baby,8276,Buggy RS Evolution 1.8 8V,2024,1,G,Gasolina,58377
+040003-3,322,2025,6,1,207,Baby,8276,Buggy RS Evolution 1.8 8V,2023,1,G,Gasolina,56436
+040003-3,322,2025,6,1,207,Baby,8276,Buggy RS Evolution 1.8 8V,2022,1,G,Gasolina,49469
+040003-3,322,2025,6,1,207,Baby,8276,Buggy RS Evolution 1.8 8V,2021,1,G,Gasolina,48262
+040003-3,322,2025,6,1,207,Baby,8276,Buggy RS Evolution 1.8 8V,2020,1,G,Gasolina,43298
+040003-3,322,2025,6,1,207,Baby,8276,Buggy RS Evolution 1.8 8V,2019,1,G,Gasolina,41501
+040003-3,322,2025,6,1,207,Baby,8276,Buggy RS Evolution 1.8 8V,2018,1,G,Gasolina,36125
+009171-5,322,2025,6,1,7,BMW,6146,116iA 1.6 TB 16V 136cv 5p,2015,1,G,Gasolina,78407
+009171-5,322,2025,6,1,7,BMW,6146,116iA 1.6 TB 16V 136cv 5p,2014,1,G,Gasolina,71896
+009171-5,322,2025,6,1,7,BMW,6146,116iA 1.6 TB 16V 136cv 5p,2013,1,G,Gasolina,70142
+009171-5,322,2025,6,1,7,BMW,6146,116iA 1.6 TB 16V 136cv 5p,2012,1,G,Gasolina,58621
+009298-3,322,2025,6,1,7,BMW,9955,118i M Sport 1.5 TB 12V Aut. 5p,32000,1,G,Gasolina,320942
+009298-3,322,2025,6,1,7,BMW,9955,118i M Sport 1.5 TB 12V Aut. 5p,2024,1,G,Gasolina,260763
+009298-3,322,2025,6,1,7,BMW,9955,118i M Sport 1.5 TB 12V Aut. 5p,2023,1,G,Gasolina,217087
+009258-4,322,2025,6,1,7,BMW,8946,118i Sport 1.5 TB 12V Aut. 5p,2024,1,G,Gasolina,272362
+009258-4,322,2025,6,1,7,BMW,8946,118i Sport 1.5 TB 12V Aut. 5p,2023,1,G,Gasolina,224152
+009258-4,322,2025,6,1,7,BMW,8946,118i Sport 1.5 TB 12V Aut. 5p,2022,1,G,Gasolina,215792
+009258-4,322,2025,6,1,7,BMW,8946,118i Sport 1.5 TB 12V Aut. 5p,2021,1,G,Gasolina,196686
+009258-4,322,2025,6,1,7,BMW,8946,118i Sport 1.5 TB 12V Aut. 5p,2020,1,G,Gasolina,143792
+009152-9,322,2025,6,1,7,BMW,5576,118iA 2.0 16V 136cv 3p,2012,1,G,Gasolina,54421
+009152-9,322,2025,6,1,7,BMW,5576,118iA 2.0 16V 136cv 3p,2011,1,G,Gasolina,50557
+009136-7,322,2025,6,1,7,BMW,4960,118iA 2.0 16V 136cv 5p,2012,1,G,Gasolina,55378
+009136-7,322,2025,6,1,7,BMW,4960,118iA 2.0 16V 136cv 5p,2011,1,G,Gasolina,52171
+009136-7,322,2025,6,1,7,BMW,4960,118iA 2.0 16V 136cv 5p,2010,1,G,Gasolina,49688
+009169-3,322,2025,6,1,7,BMW,6147,118iA Full 1.6 TB 16V 170cv 5p,2014,1,G,Gasolina,76814
+009169-3,322,2025,6,1,7,BMW,6147,118iA Full 1.6 TB 16V 170cv 5p,2013,1,G,Gasolina,74940
+009169-3,322,2025,6,1,7,BMW,6147,118iA Full 1.6 TB 16V 170cv 5p,2012,1,G,Gasolina,65987
+009159-6,322,2025,6,1,7,BMW,5923,118iA/ Urban/Sport 1.6 TB 16V 170cv 5p,2015,1,G,Gasolina,83328
+009159-6,322,2025,6,1,7,BMW,5923,118iA/ Urban/Sport 1.6 TB 16V 170cv 5p,2014,1,G,Gasolina,75076
+009159-6,322,2025,6,1,7,BMW,5923,118iA/ Urban/Sport 1.6 TB 16V 170cv 5p,2013,1,G,Gasolina,73244
+009159-6,322,2025,6,1,7,BMW,5923,118iA/ Urban/Sport 1.6 TB 16V 170cv 5p,2012,1,G,Gasolina,63104
+009106-5,322,2025,6,1,7,BMW,152,120i 2.0 16V 150cv/ 156cv 5p,2009,1,G,Gasolina,50217
+009106-5,322,2025,6,1,7,BMW,152,120i 2.0 16V 150cv/ 156cv 5p,2008,1,G,Gasolina,47823
+009106-5,322,2025,6,1,7,BMW,152,120i 2.0 16V 150cv/ 156cv 5p,2007,1,G,Gasolina,42858
+009106-5,322,2025,6,1,7,BMW,152,120i 2.0 16V 150cv/ 156cv 5p,2006,1,G,Gasolina,40933
+009106-5,322,2025,6,1,7,BMW,152,120i 2.0 16V 150cv/ 156cv 5p,2005,1,G,Gasolina,36914
+009105-7,322,2025,6,1,7,BMW,153,120iA 2.0 16V 150cv/ 156cv 5p,2012,1,G,Gasolina,57319
+009105-7,322,2025,6,1,7,BMW,153,120iA 2.0 16V 150cv/ 156cv 5p,2011,1,G,Gasolina,55154
+009105-7,322,2025,6,1,7,BMW,153,120iA 2.0 16V 150cv/ 156cv 5p,2010,1,G,Gasolina,52151
+009105-7,322,2025,6,1,7,BMW,153,120iA 2.0 16V 150cv/ 156cv 5p,2009,1,G,Gasolina,50780
+009105-7,322,2025,6,1,7,BMW,153,120iA 2.0 16V 150cv/ 156cv 5p,2008,1,G,Gasolina,49241
+009105-7,322,2025,6,1,7,BMW,153,120iA 2.0 16V 150cv/ 156cv 5p,2007,1,G,Gasolina,43218
+009105-7,322,2025,6,1,7,BMW,153,120iA 2.0 16V 150cv/ 156cv 5p,2006,1,G,Gasolina,42052
+009105-7,322,2025,6,1,7,BMW,153,120iA 2.0 16V 150cv/ 156cv 5p,2005,1,G,Gasolina,37230
+009129-4,322,2025,6,1,7,BMW,4700,120iA 2.0 16V 156cv 3p,2009,1,G,Gasolina,50651
+009129-4,322,2025,6,1,7,BMW,4700,120iA 2.0 16V 156cv 3p,2008,1,G,Gasolina,47979
+009130-8,322,2025,6,1,7,BMW,4683,120iA Cabrio 2.0 16V 156cv 2p,2012,1,G,Gasolina,137886
+009130-8,322,2025,6,1,7,BMW,4683,120iA Cabrio 2.0 16V 156cv 2p,2011,1,G,Gasolina,123710
+009130-8,322,2025,6,1,7,BMW,4683,120iA Cabrio 2.0 16V 156cv 2p,2010,1,G,Gasolina,120692
+009130-8,322,2025,6,1,7,BMW,4683,120iA Cabrio 2.0 16V 156cv 2p,2009,1,G,Gasolina,117748
+009212-6,322,2025,6,1,7,BMW,7178,120iA Sport 2.0/ActiveFlex 16V Aut.,2019,1,G,Gasolina,135896
+009212-6,322,2025,6,1,7,BMW,7178,120iA Sport 2.0/ActiveFlex 16V Aut.,2016,1,G,Gasolina,100800
+009212-6,322,2025,6,1,7,BMW,7178,120iA Sport 2.0/ActiveFlex 16V Aut.,2015,1,G,Gasolina,84711
+009176-6,322,2025,6,1,7,BMW,6377,125i M Sport/Active Flex 2.0 TB Aut. 5p,2019,1,G,Gasolina,165652
+009176-6,322,2025,6,1,7,BMW,6377,125i M Sport/Active Flex 2.0 TB Aut. 5p,2016,1,G,Gasolina,140318
+009176-6,322,2025,6,1,7,BMW,6377,125i M Sport/Active Flex 2.0 TB Aut. 5p,2015,1,G,Gasolina,123818
+009176-6,322,2025,6,1,7,BMW,6377,125i M Sport/Active Flex 2.0 TB Aut. 5p,2014,1,G,Gasolina,111049
+009176-6,322,2025,6,1,7,BMW,6377,125i M Sport/Active Flex 2.0 TB Aut. 5p,2013,1,G,Gasolina,99201
+009109-0,322,2025,6,1,7,BMW,3879,130i 3.0 24V 265cv 5p,2009,1,G,Gasolina,82633
+009109-0,322,2025,6,1,7,BMW,3879,130i 3.0 24V 265cv 5p,2008,1,G,Gasolina,80617
+009109-0,322,2025,6,1,7,BMW,3879,130i 3.0 24V 265cv 5p,2007,1,G,Gasolina,78650
+009109-0,322,2025,6,1,7,BMW,3879,130i 3.0 24V 265cv 5p,2006,1,G,Gasolina,76731
+009126-0,322,2025,6,1,7,BMW,4473,130iA 3.0 24V 265cv 3p,2009,1,G,Gasolina,84404
+009126-0,322,2025,6,1,7,BMW,4473,130iA 3.0 24V 265cv 3p,2008,1,G,Gasolina,82345
+009117-0,322,2025,6,1,7,BMW,4199,130iA 3.0 24V 265cv 5p,2012,1,G,Gasolina,97973
+009117-0,322,2025,6,1,7,BMW,4199,130iA 3.0 24V 265cv 5p,2011,1,G,Gasolina,89163
+009117-0,322,2025,6,1,7,BMW,4199,130iA 3.0 24V 265cv 5p,2010,1,G,Gasolina,86988
+009117-0,322,2025,6,1,7,BMW,4199,130iA 3.0 24V 265cv 5p,2009,1,G,Gasolina,82974
+009117-0,322,2025,6,1,7,BMW,4199,130iA 3.0 24V 265cv 5p,2008,1,G,Gasolina,80950
+009117-0,322,2025,6,1,7,BMW,4199,130iA 3.0 24V 265cv 5p,2007,1,G,Gasolina,78975
+009135-9,322,2025,6,1,7,BMW,4961,135iA Coupé 3.0 24V 306cv,2012,1,G,Gasolina,174427
+009135-9,322,2025,6,1,7,BMW,4961,135iA Coupé 3.0 24V 306cv,2011,1,G,Gasolina,169290
+009135-9,322,2025,6,1,7,BMW,4961,135iA Coupé 3.0 24V 306cv,2010,1,G,Gasolina,163050
+009135-9,322,2025,6,1,7,BMW,4961,135iA Coupé 3.0 24V 306cv,2009,1,G,Gasolina,159073
+009321-1,322,2025,6,1,7,BMW,11119,218i Gran Coupe M Sport 1.5 Bi-Turbo,32000,1,G,Gasolina,320220
+009321-1,322,2025,6,1,7,BMW,11119,218i Gran Coupe M Sport 1.5 Bi-Turbo,2024,1,G,Gasolina,268742
+009264-9,322,2025,6,1,7,BMW,9036,218i Gran Coupe Sport GP 1.5 Bi-Turbo,32000,1,G,Gasolina,315367
+009264-9,322,2025,6,1,7,BMW,9036,218i Gran Coupe Sport GP 1.5 Bi-Turbo,2024,1,G,Gasolina,275056
+009264-9,322,2025,6,1,7,BMW,9036,218i Gran Coupe Sport GP 1.5 Bi-Turbo,2023,1,G,Gasolina,223783
+009264-9,322,2025,6,1,7,BMW,9036,218i Gran Coupe Sport GP 1.5 Bi-Turbo,2022,1,G,Gasolina,189654
+009264-9,322,2025,6,1,7,BMW,9036,218i Gran Coupe Sport GP 1.5 Bi-Turbo,2021,1,G,Gasolina,167410
+009264-9,322,2025,6,1,7,BMW,9036,218i Gran Coupe Sport GP 1.5 Bi-Turbo,2020,1,G,Gasolina,163326
+009217-7,322,2025,6,1,7,BMW,7448,220i Tourer Active Flex 2.0 TB Aut.,2018,1,G,Gasolina,98906
+009217-7,322,2025,6,1,7,BMW,7448,220i Tourer Active Flex 2.0 TB Aut.,2017,1,G,Gasolina,92975
+009217-7,322,2025,6,1,7,BMW,7448,220i Tourer Active Flex 2.0 TB Aut.,2016,1,G,Gasolina,87514
+009208-8,322,2025,6,1,7,BMW,7129,225i Active Tourer Sport 2.0 TB Aut.,2016,1,G,Gasolina,91182
+009208-8,322,2025,6,1,7,BMW,7129,225i Active Tourer Sport 2.0 TB Aut.,2015,1,G,Gasolina,88958
+009059-0,322,2025,6,1,7,BMW,154,316 (todas),1995,1,G,Gasolina,13595
+009059-0,322,2025,6,1,7,BMW,154,316 (todas),1994,1,G,Gasolina,12253
+009059-0,322,2025,6,1,7,BMW,154,316 (todas),1993,1,G,Gasolina,11253
+009059-0,322,2025,6,1,7,BMW,154,316 (todas),1992,1,G,Gasolina,10978
+009059-0,322,2025,6,1,7,BMW,154,316 (todas),1991,1,G,Gasolina,10710
+009059-0,322,2025,6,1,7,BMW,154,316 (todas),1990,1,G,Gasolina,10448
+009059-0,322,2025,6,1,7,BMW,154,316 (todas),1987,1,G,Gasolina,8861
+009059-0,322,2025,6,1,7,BMW,154,316 (todas),1986,1,G,Gasolina,8098
+009189-8,322,2025,6,1,7,BMW,6660,316i 1.6 TB 16V 136cv 4p,2015,1,G,Gasolina,87194
+009062-0,322,2025,6,1,7,BMW,155,318i Cabrio 1.8 16V,1995,1,G,Gasolina,31776
+009062-0,322,2025,6,1,7,BMW,155,318i Cabrio 1.8 16V,1994,1,G,Gasolina,22639
+009001-8,322,2025,6,1,7,BMW,156,318i/iA 1.8 16V,1998,1,G,Gasolina,27793
+009001-8,322,2025,6,1,7,BMW,156,318i/iA 1.8 16V,1997,1,G,Gasolina,24221
+009001-8,322,2025,6,1,7,BMW,156,318i/iA 1.8 16V,1996,1,G,Gasolina,23630
+009001-8,322,2025,6,1,7,BMW,156,318i/iA 1.8 16V,1995,1,G,Gasolina,23053
+009001-8,322,2025,6,1,7,BMW,156,318i/iA 1.8 16V,1994,1,G,Gasolina,22300
+009001-8,322,2025,6,1,7,BMW,156,318i/iA 1.8 16V,1993,1,G,Gasolina,21756
+009001-8,322,2025,6,1,7,BMW,156,318i/iA 1.8 16V,1992,1,G,Gasolina,18857
+009001-8,322,2025,6,1,7,BMW,156,318i/iA 1.8 16V,1991,1,G,Gasolina,13474
+009061-1,322,2025,6,1,7,BMW,157,318i/iA Compact 1.8 16V,1997,1,G,Gasolina,31335
+009061-1,322,2025,6,1,7,BMW,157,318i/iA Compact 1.8 16V,1996,1,G,Gasolina,30570
+009061-1,322,2025,6,1,7,BMW,157,318i/iA Compact 1.8 16V,1995,1,G,Gasolina,29824
+009061-1,322,2025,6,1,7,BMW,157,318i/iA Compact 1.8 16V,1994,1,G,Gasolina,23176
+009155-3,322,2025,6,1,7,BMW,5607,318iA 2.0 16V 136cv 5p,2012,1,G,Gasolina,62070
+009155-3,322,2025,6,1,7,BMW,5607,318iA 2.0 16V 136cv 5p,2011,1,G,Gasolina,52787
+009002-6,322,2025,6,1,7,BMW,158,318iS/ISA 1.9 16V,1998,1,G,Gasolina,29071
+009002-6,322,2025,6,1,7,BMW,158,318iS/ISA 1.9 16V,1997,1,G,Gasolina,26732
+009002-6,322,2025,6,1,7,BMW,158,318iS/ISA 1.9 16V,1996,1,G,Gasolina,20609
+009002-6,322,2025,6,1,7,BMW,158,318iS/ISA 1.9 16V,1995,1,G,Gasolina,20106
+009002-6,322,2025,6,1,7,BMW,158,318iS/ISA 1.9 16V,1994,1,G,Gasolina,19615
+009002-6,322,2025,6,1,7,BMW,158,318iS/ISA 1.9 16V,1993,1,G,Gasolina,17200
+009003-4,322,2025,6,1,7,BMW,159,318Ti Compact Mec,1998,1,G,Gasolina,42193
+009003-4,322,2025,6,1,7,BMW,159,318Ti Compact Mec,1997,1,G,Gasolina,37889
+009003-4,322,2025,6,1,7,BMW,159,318Ti Compact Mec,1996,1,G,Gasolina,30303
+009003-4,322,2025,6,1,7,BMW,159,318Ti Compact Mec,1995,1,G,Gasolina,29563
+009060-3,322,2025,6,1,7,BMW,160,318Ti/TiA Compact 1.9 16V,1999,1,G,Gasolina,35659
+009060-3,322,2025,6,1,7,BMW,160,318Ti/TiA Compact 1.9 16V,1998,1,G,Gasolina,34789
+009060-3,322,2025,6,1,7,BMW,160,318Ti/TiA Compact 1.9 16V,1997,1,G,Gasolina,31715
+009060-3,322,2025,6,1,7,BMW,160,318Ti/TiA Compact 1.9 16V,1996,1,G,Gasolina,30941
+009060-3,322,2025,6,1,7,BMW,160,318Ti/TiA Compact 1.9 16V,1995,1,G,Gasolina,30186
+009038-7,322,2025,6,1,7,BMW,161,320i,2007,1,G,Gasolina,50171
+009038-7,322,2025,6,1,7,BMW,161,320i,2006,1,G,Gasolina,48947
+009038-7,322,2025,6,1,7,BMW,161,320i,1993,1,G,Gasolina,14677
+009038-7,322,2025,6,1,7,BMW,161,320i,1992,1,G,Gasolina,12932
+009038-7,322,2025,6,1,7,BMW,161,320i,1991,1,G,Gasolina,11658
+009039-5,322,2025,6,1,7,BMW,162,320iA,2012,1,G,Gasolina,64544
+009039-5,322,2025,6,1,7,BMW,162,320iA,2011,1,G,Gasolina,62969
+009039-5,322,2025,6,1,7,BMW,162,320iA,2010,1,G,Gasolina,61433
+009039-5,322,2025,6,1,7,BMW,162,320iA,2009,1,G,Gasolina,59934
+009039-5,322,2025,6,1,7,BMW,162,320iA,2008,1,G,Gasolina,58472
+009039-5,322,2025,6,1,7,BMW,162,320iA,2007,1,G,Gasolina,57045
+009039-5,322,2025,6,1,7,BMW,162,320iA,2006,1,G,Gasolina,54695
+009039-5,322,2025,6,1,7,BMW,162,320iA,2004,1,G,Gasolina,41917
+009039-5,322,2025,6,1,7,BMW,162,320iA,2003,1,G,Gasolina,40894
+009039-5,322,2025,6,1,7,BMW,162,320iA,2002,1,G,Gasolina,39896
+009039-5,322,2025,6,1,7,BMW,162,320iA,2001,1,G,Gasolina,38922
+009039-5,322,2025,6,1,7,BMW,162,320iA,1993,1,G,Gasolina,17167
+009039-5,322,2025,6,1,7,BMW,162,320iA,1992,1,G,Gasolina,14293
+009213-4,322,2025,6,1,7,BMW,7256,320iA 2.0 TB M Sport A.Flex/M.Sport 4p,32000,1,G,Gasolina,386962
+009213-4,322,2025,6,1,7,BMW,7256,320iA 2.0 TB M Sport A.Flex/M.Sport 4p,2025,1,G,Gasolina,354703
+009213-4,322,2025,6,1,7,BMW,7256,320iA 2.0 TB M Sport A.Flex/M.Sport 4p,2024,1,G,Gasolina,311896
+009213-4,322,2025,6,1,7,BMW,7256,320iA 2.0 TB M Sport A.Flex/M.Sport 4p,2023,1,G,Gasolina,289201
+009213-4,322,2025,6,1,7,BMW,7256,320iA 2.0 TB M Sport A.Flex/M.Sport 4p,2022,1,G,Gasolina,238220
+009213-4,322,2025,6,1,7,BMW,7256,320iA 2.0 TB M Sport A.Flex/M.Sport 4p,2021,1,G,Gasolina,220831
+009213-4,322,2025,6,1,7,BMW,7256,320iA 2.0 TB M Sport A.Flex/M.Sport 4p,2020,1,G,Gasolina,201074
+009213-4,322,2025,6,1,7,BMW,7256,320iA 2.0 TB M Sport A.Flex/M.Sport 4p,2018,1,G,Gasolina,131454
+009213-4,322,2025,6,1,7,BMW,7256,320iA 2.0 TB M Sport A.Flex/M.Sport 4p,2017,1,G,Gasolina,120530
+009213-4,322,2025,6,1,7,BMW,7256,320iA 2.0 TB M Sport A.Flex/M.Sport 4p,2016,1,G,Gasolina,110113
+009213-4,322,2025,6,1,7,BMW,7256,320iA 2.0 TB M Sport A.Flex/M.Sport 4p,2015,1,G,Gasolina,100577
+009164-2,322,2025,6,1,7,BMW,6090,320iA 2.0 Turbo/ActiveFlex 16V/GP  4p,32000,1,G,Gasolina,345832
+009164-2,322,2025,6,1,7,BMW,6090,320iA 2.0 Turbo/ActiveFlex 16V/GP  4p,2025,1,G,Gasolina,300672
+009164-2,322,2025,6,1,7,BMW,6090,320iA 2.0 Turbo/ActiveFlex 16V/GP  4p,2024,1,G,Gasolina,274608
+009164-2,322,2025,6,1,7,BMW,6090,320iA 2.0 Turbo/ActiveFlex 16V/GP  4p,2023,1,G,Gasolina,257675
+009164-2,322,2025,6,1,7,BMW,6090,320iA 2.0 Turbo/ActiveFlex 16V/GP  4p,2022,1,G,Gasolina,209775
+009164-2,322,2025,6,1,7,BMW,6090,320iA 2.0 Turbo/ActiveFlex 16V/GP  4p,2021,1,G,Gasolina,192878
+009164-2,322,2025,6,1,7,BMW,6090,320iA 2.0 Turbo/ActiveFlex 16V/GP  4p,2015,1,G,Gasolina,97420
+009164-2,322,2025,6,1,7,BMW,6090,320iA 2.0 Turbo/ActiveFlex 16V/GP  4p,2014,1,G,Gasolina,90197
+009164-2,322,2025,6,1,7,BMW,6090,320iA 2.0 Turbo/ActiveFlex 16V/GP  4p,2013,1,G,Gasolina,85228
+009185-5,322,2025,6,1,7,BMW,6609,320iA GT Sport 2.0 Turbo 16V 184cv 5p,2017,1,G,Gasolina,134526
+009185-5,322,2025,6,1,7,BMW,6609,320iA GT Sport 2.0 Turbo 16V 184cv 5p,2016,1,G,Gasolina,110817
+009185-5,322,2025,6,1,7,BMW,6609,320iA GT Sport 2.0 Turbo 16V 184cv 5p,2015,1,G,Gasolina,100690
+009185-5,322,2025,6,1,7,BMW,6609,320iA GT Sport 2.0 Turbo 16V 184cv 5p,2014,1,G,Gasolina,92218
+009165-0,322,2025,6,1,7,BMW,6091,320iA Modern/Sport TB 2.0/A.Flex/GP 4p,32000,1,G,Gasolina,365195
+009165-0,322,2025,6,1,7,BMW,6091,320iA Modern/Sport TB 2.0/A.Flex/GP 4p,2025,1,G,Gasolina,341902
+009165-0,322,2025,6,1,7,BMW,6091,320iA Modern/Sport TB 2.0/A.Flex/GP 4p,2024,1,G,Gasolina,298226
+009165-0,322,2025,6,1,7,BMW,6091,320iA Modern/Sport TB 2.0/A.Flex/GP 4p,2023,1,G,Gasolina,274944
+009165-0,322,2025,6,1,7,BMW,6091,320iA Modern/Sport TB 2.0/A.Flex/GP 4p,2022,1,G,Gasolina,223685
+009165-0,322,2025,6,1,7,BMW,6091,320iA Modern/Sport TB 2.0/A.Flex/GP 4p,2021,1,G,Gasolina,204332
+009165-0,322,2025,6,1,7,BMW,6091,320iA Modern/Sport TB 2.0/A.Flex/GP 4p,2020,1,G,Gasolina,189297
+009165-0,322,2025,6,1,7,BMW,6091,320iA Modern/Sport TB 2.0/A.Flex/GP 4p,2019,1,G,Gasolina,161869
+009165-0,322,2025,6,1,7,BMW,6091,320iA Modern/Sport TB 2.0/A.Flex/GP 4p,2017,1,G,Gasolina,118332
+009165-0,322,2025,6,1,7,BMW,6091,320iA Modern/Sport TB 2.0/A.Flex/GP 4p,2016,1,G,Gasolina,110085
+009165-0,322,2025,6,1,7,BMW,6091,320iA Modern/Sport TB 2.0/A.Flex/GP 4p,2014,1,G,Gasolina,90694
+009165-0,322,2025,6,1,7,BMW,6091,320iA Modern/Sport TB 2.0/A.Flex/GP 4p,2013,1,G,Gasolina,88481
+009057-3,322,2025,6,1,7,BMW,163,323Ci Coupê,2000,1,G,Gasolina,40439
+009057-3,322,2025,6,1,7,BMW,163,323Ci Coupê,1999,1,G,Gasolina,35777
+009058-1,322,2025,6,1,7,BMW,164,323CiA Coupê,2000,1,G,Gasolina,40794
+009058-1,322,2025,6,1,7,BMW,164,323CiA Coupê,1999,1,G,Gasolina,35871
+009063-8,322,2025,6,1,7,BMW,165,323i 2.5 24V,2001,1,G,Gasolina,45821
+009063-8,322,2025,6,1,7,BMW,165,323i 2.5 24V,2000,1,G,Gasolina,42643
+009063-8,322,2025,6,1,7,BMW,165,323i 2.5 24V,1999,1,G,Gasolina,35302
+009063-8,322,2025,6,1,7,BMW,165,323i 2.5 24V,1998,1,G,Gasolina,28072
+009083-2,322,2025,6,1,7,BMW,167,323i Sport,1998,1,G,Gasolina,38426
+009042-5,322,2025,6,1,7,BMW,172,323i/iA Exclusive,2000,1,G,Gasolina,33207
+009042-5,322,2025,6,1,7,BMW,172,323i/iA Exclusive,1997,1,G,Gasolina,24889
+009064-6,322,2025,6,1,7,BMW,169,323iA 2.5 24V,2001,1,G,Gasolina,45129
+009064-6,322,2025,6,1,7,BMW,169,323iA 2.5 24V,2000,1,G,Gasolina,39356
+009064-6,322,2025,6,1,7,BMW,169,323iA 2.5 24V,1999,1,G,Gasolina,28670
+009064-6,322,2025,6,1,7,BMW,169,323iA 2.5 24V,1998,1,G,Gasolina,25251
+009041-7,322,2025,6,1,7,BMW,170,323iA Confort,2000,1,G,Gasolina,39105
+009041-7,322,2025,6,1,7,BMW,170,323iA Confort,1998,1,G,Gasolina,32372
+009043-3,322,2025,6,1,7,BMW,173,323iA Sport,2001,1,G,Gasolina,46463
+009043-3,322,2025,6,1,7,BMW,173,323iA Sport,1999,1,G,Gasolina,40259
+009056-5,322,2025,6,1,7,BMW,174,323iA Top Sedan,2000,1,G,Gasolina,37646
+009056-5,322,2025,6,1,7,BMW,174,323iA Top Sedan,1999,1,G,Gasolina,36692
+009044-1,322,2025,6,1,7,BMW,175,323iA Touring,1999,1,G,Gasolina,33043
+009044-1,322,2025,6,1,7,BMW,175,323iA Touring,1998,1,G,Gasolina,30725
+009031-0,322,2025,6,1,7,BMW,176,323Ti Compact,2000,1,G,Gasolina,28120
+009031-0,322,2025,6,1,7,BMW,176,323Ti Compact,1999,1,G,Gasolina,26479
+009031-0,322,2025,6,1,7,BMW,176,323Ti Compact,1998,1,G,Gasolina,25833
+009033-6,322,2025,6,1,7,BMW,178,323TiA Compact Top,1999,1,G,Gasolina,47396
+009033-6,322,2025,6,1,7,BMW,178,323TiA Compact Top,1998,1,G,Gasolina,46240
+009004-2,322,2025,6,1,7,BMW,179,325i,2001,1,G,Gasolina,48292
+009004-2,322,2025,6,1,7,BMW,179,325i,1996,1,G,Gasolina,42852
+009004-2,322,2025,6,1,7,BMW,179,325i,1995,1,G,Gasolina,41806
+009004-2,322,2025,6,1,7,BMW,179,325i,1994,1,G,Gasolina,40786
+009004-2,322,2025,6,1,7,BMW,179,325i,1993,1,G,Gasolina,36861
+009004-2,322,2025,6,1,7,BMW,179,325i,1992,1,G,Gasolina,26584
+009004-2,322,2025,6,1,7,BMW,179,325i,1991,1,G,Gasolina,17914
+009004-2,322,2025,6,1,7,BMW,179,325i,1990,1,G,Gasolina,14830
+009004-2,322,2025,6,1,7,BMW,179,325i,1989,1,G,Gasolina,12657
+009004-2,322,2025,6,1,7,BMW,179,325i,1988,1,G,Gasolina,10679
+009004-2,322,2025,6,1,7,BMW,179,325i,1987,1,G,Gasolina,10418
+009004-2,322,2025,6,1,7,BMW,179,325i,1986,1,G,Gasolina,7895
+009005-0,322,2025,6,1,7,BMW,180,325i/iA Cabrio,1996,1,G,Gasolina,61066
+009005-0,322,2025,6,1,7,BMW,180,325i/iA Cabrio,1995,1,G,Gasolina,59576
+009005-0,322,2025,6,1,7,BMW,180,325i/iA Cabrio,1994,1,G,Gasolina,58122
+009005-0,322,2025,6,1,7,BMW,180,325i/iA Cabrio,1993,1,G,Gasolina,39975
+009036-0,322,2025,6,1,7,BMW,181,325iA,2012,1,G,Gasolina,73175
+009036-0,322,2025,6,1,7,BMW,181,325iA,2011,1,G,Gasolina,71390
+009036-0,322,2025,6,1,7,BMW,181,325iA,2006,1,G,Gasolina,63096
+009036-0,322,2025,6,1,7,BMW,181,325iA,2002,1,G,Gasolina,51855
+009036-0,322,2025,6,1,7,BMW,181,325iA,2001,1,G,Gasolina,50590
+009036-0,322,2025,6,1,7,BMW,181,325iA,1996,1,G,Gasolina,47539
+009036-0,322,2025,6,1,7,BMW,181,325iA,1994,1,G,Gasolina,45247
+009036-0,322,2025,6,1,7,BMW,181,325iA,1993,1,G,Gasolina,42414
+009036-0,322,2025,6,1,7,BMW,181,325iA,1992,1,G,Gasolina,31196
+009036-0,322,2025,6,1,7,BMW,181,325iA,1991,1,G,Gasolina,21862
+009036-0,322,2025,6,1,7,BMW,181,325iA,1990,1,G,Gasolina,16495
+009091-3,322,2025,6,1,7,BMW,183,325iA Coupé 2.5 24V 2p,2002,1,G,Gasolina,43928
+009034-4,322,2025,6,1,7,BMW,185,328i Touring/Sport,1996,1,G,Gasolina,30987
+009006-9,322,2025,6,1,7,BMW,186,328i/iA (modelo antigo),1998,1,G,Gasolina,51234
+009006-9,322,2025,6,1,7,BMW,186,328i/iA (modelo antigo),1997,1,G,Gasolina,47897
+009006-9,322,2025,6,1,7,BMW,186,328i/iA (modelo antigo),1996,1,G,Gasolina,46728
+009215-0,322,2025,6,1,7,BMW,7303,328iA M Sport 2.0 16V Flex 4p,2017,1,G,Gasolina,145165
+009163-4,322,2025,6,1,7,BMW,6048,328iA Plus 2.0 TB 16V 245cv 4p,2013,1,G,Gasolina,103518
+009065-4,322,2025,6,1,7,BMW,190,328iA Touring/Sport,1999,1,G,Gasolina,35707
+009065-4,322,2025,6,1,7,BMW,190,328iA Touring/Sport,1996,1,G,Gasolina,31185
+009093-0,322,2025,6,1,7,BMW,191,330Ci Cabriolet,2004,1,G,Gasolina,75488
+009093-0,322,2025,6,1,7,BMW,191,330Ci Cabriolet,2003,1,G,Gasolina,69187
+009093-0,322,2025,6,1,7,BMW,191,330Ci Cabriolet,2000,1,G,Gasolina,53044
+009087-5,322,2025,6,1,7,BMW,192,330CiA Cabriolet,2006,1,G,Gasolina,101470
+009087-5,322,2025,6,1,7,BMW,192,330CiA Cabriolet,2005,1,G,Gasolina,98995
+009087-5,322,2025,6,1,7,BMW,192,330CiA Cabriolet,2004,1,G,Gasolina,77437
+009087-5,322,2025,6,1,7,BMW,192,330CiA Cabriolet,2002,1,G,Gasolina,73705
+009087-5,322,2025,6,1,7,BMW,192,330CiA Cabriolet,2001,1,G,Gasolina,71907
+009266-5,322,2025,6,1,7,BMW,9956,330e M Sport 2.0 Turbo Aut. (Híbrido),2024,1,G,Gasolina,351923
+009266-5,322,2025,6,1,7,BMW,9956,330e M Sport 2.0 Turbo Aut. (Híbrido),2022,1,G,Gasolina,257020
+009244-4,322,2025,6,1,7,BMW,8688,330i Sport 2.0 TB 16V 4p,2020,1,G,Gasolina,214823
+009088-3,322,2025,6,1,7,BMW,194,330iA MotorSport 4p,2002,1,G,Gasolina,64350
+009088-3,322,2025,6,1,7,BMW,194,330iA MotorSport 4p,2001,1,G,Gasolina,60534
+009122-7,322,2025,6,1,7,BMW,4272,335iA 3.0 24V 306cv,2011,1,G,Gasolina,116707
+009124-3,322,2025,6,1,7,BMW,4416,335iA Cabriolet 3.0 24V 306cv,2009,1,G,Gasolina,170221
+009290-8,322,2025,6,1,7,BMW,9785,420i Cabriolet M Sport 2.0 TB 16V 2p.,32000,1,G,Gasolina,503089
+009290-8,322,2025,6,1,7,BMW,9785,420i Cabriolet M Sport 2.0 TB 16V 2p.,2025,1,G,Gasolina,451630
+009203-7,322,2025,6,1,7,BMW,7083,420i Cabriolet Sport 2.0 TB 184cv 2p,2016,1,G,Gasolina,191253
+009201-0,322,2025,6,1,7,BMW,7084,428i Gran Coupe M Sport 2.0 TB 245cv,2016,1,G,Gasolina,143256
+009201-0,322,2025,6,1,7,BMW,7084,428i Gran Coupe M Sport 2.0 TB 245cv,2015,1,G,Gasolina,138752
+009202-9,322,2025,6,1,7,BMW,7085,428i Gran Coupe Sport 2.0 TB 245cv,2015,1,G,Gasolina,136333
+009190-1,322,2025,6,1,7,BMW,6691,435iA M Sport Coupe 3.0 24V 306cv 2p,2014,1,G,Gasolina,192943
+009023-9,322,2025,6,1,7,BMW,200,528iA High,2001,1,G,Gasolina,40178
+009023-9,322,2025,6,1,7,BMW,200,528iA High,2000,1,G,Gasolina,34742
+009023-9,322,2025,6,1,7,BMW,200,528iA High,1999,1,G,Gasolina,32517
+009023-9,322,2025,6,1,7,BMW,200,528iA High,1998,1,G,Gasolina,31723
+009023-9,322,2025,6,1,7,BMW,200,528iA High,1997,1,G,Gasolina,28666
+009183-9,322,2025,6,1,7,BMW,6514,528iA M Sport 2.0 Turbo 16V 245cv 4p,2016,1,G,Gasolina,131461
+009183-9,322,2025,6,1,7,BMW,6514,528iA M Sport 2.0 Turbo 16V 245cv 4p,2013,1,G,Gasolina,108655
+009251-7,322,2025,6,1,7,BMW,8816,530i Security,2008,1,G,Gasolina,70919
+009009-3,322,2025,6,1,7,BMW,202,530i/iA,2007,1,G,Gasolina,66875
+009009-3,322,2025,6,1,7,BMW,202,530i/iA,2004,1,G,Gasolina,59596
+009009-3,322,2025,6,1,7,BMW,202,530i/iA,2003,1,G,Gasolina,58142
+009009-3,322,2025,6,1,7,BMW,202,530i/iA,1996,1,G,Gasolina,27036
+009009-3,322,2025,6,1,7,BMW,202,530i/iA,1995,1,G,Gasolina,25735
+009009-3,322,2025,6,1,7,BMW,202,530i/iA,1994,1,G,Gasolina,23909
+009009-3,322,2025,6,1,7,BMW,202,530i/iA,1992,1,G,Gasolina,15574
+009069-7,322,2025,6,1,7,BMW,203,530i/iA Touring,1993,1,G,Gasolina,20241
+009069-7,322,2025,6,1,7,BMW,203,530i/iA Touring,1992,1,G,Gasolina,16338
+009146-4,322,2025,6,1,7,BMW,5267,535iA 3.0 24V 306cv Bi-Turbo,2013,1,G,Gasolina,112303
+009146-4,322,2025,6,1,7,BMW,5267,535iA 3.0 24V 306cv Bi-Turbo,2012,1,G,Gasolina,98902
+009146-4,322,2025,6,1,7,BMW,5267,535iA 3.0 24V 306cv Bi-Turbo,2011,1,G,Gasolina,94261
+009010-7,322,2025,6,1,7,BMW,205,540i,1998,1,G,Gasolina,31770
+009010-7,322,2025,6,1,7,BMW,205,540i,1993,1,G,Gasolina,20385
+009102-2,322,2025,6,1,7,BMW,211,545iA 4.4 32V V8 333cv,2005,1,G,Gasolina,71041
+009102-2,322,2025,6,1,7,BMW,211,545iA 4.4 32V V8 333cv,2004,1,G,Gasolina,58467
+009147-2,322,2025,6,1,7,BMW,5268,550iA 4.4 32V 407cv Bi-Turbo,2012,1,G,Gasolina,131148
+009147-2,322,2025,6,1,7,BMW,5268,550iA 4.4 32V 407cv Bi-Turbo,2010,1,G,Gasolina,90109
+009103-0,322,2025,6,1,7,BMW,212,645iA 4.4 V8 32V 333cv,2005,1,G,Gasolina,145275
+009114-6,322,2025,6,1,7,BMW,4125,650iA 4.8 V8 32V 360cv,2007,1,G,Gasolina,122007
+009114-6,322,2025,6,1,7,BMW,4125,650iA 4.8 V8 32V 360cv,2006,1,G,Gasolina,117758
+009011-5,322,2025,6,1,7,BMW,216,740i,1993,1,G,Gasolina,26748
+009072-7,322,2025,6,1,7,BMW,218,740iL/iLA Highline 4.4 32V,1996,1,G,Gasolina,31782
+009053-0,322,2025,6,1,7,BMW,219,740iLA Protection,1999,1,G,Gasolina,42168
+009012-3,322,2025,6,1,7,BMW,221,750i,1995,1,G,Gasolina,27526
+009012-3,322,2025,6,1,7,BMW,221,750i,1992,1,G,Gasolina,20384
+009012-3,322,2025,6,1,7,BMW,221,750i,1991,1,G,Gasolina,17001
+009071-9,322,2025,6,1,7,BMW,223,750iL Highline 5.4 24V,1998,1,G,Gasolina,66262
+009071-9,322,2025,6,1,7,BMW,223,750iL Highline 5.4 24V,1997,1,G,Gasolina,48450
+009071-9,322,2025,6,1,7,BMW,223,750iL Highline 5.4 24V,1994,1,G,Gasolina,31870
+009050-6,322,2025,6,1,7,BMW,225,840Ci,1996,1,G,Gasolina,44032
+009050-6,322,2025,6,1,7,BMW,225,840Ci,1995,1,G,Gasolina,41481
+009050-6,322,2025,6,1,7,BMW,225,840Ci,1994,1,G,Gasolina,35109
+009050-6,322,2025,6,1,7,BMW,225,840Ci,1992,1,G,Gasolina,30753
+009077-8,322,2025,6,1,7,BMW,227,850Ci/CiA 5.0 24V,1993,1,G,Gasolina,76451
+009077-8,322,2025,6,1,7,BMW,227,850Ci/CiA 5.0 24V,1992,1,G,Gasolina,52084
+009077-8,322,2025,6,1,7,BMW,227,850Ci/CiA 5.0 24V,1991,1,G,Gasolina,46762
+009078-6,322,2025,6,1,7,BMW,228,850Ci/CiA 5.4 24V,1997,1,G,Gasolina,72832
+009076-0,322,2025,6,1,7,BMW,229,850CSi 5.6 24V,1995,1,G,Gasolina,79325
+009076-0,322,2025,6,1,7,BMW,229,850CSi 5.6 24V,1994,1,G,Gasolina,65411
+009076-0,322,2025,6,1,7,BMW,229,850CSi 5.6 24V,1993,1,G,Gasolina,62792
+009076-0,322,2025,6,1,7,BMW,229,850CSi 5.6 24V,1992,1,G,Gasolina,60295
+009013-1,322,2025,6,1,7,BMW,230,850i 5.0 24V,1992,1,G,Gasolina,51578
+009013-1,322,2025,6,1,7,BMW,230,850i 5.0 24V,1991,1,G,Gasolina,50320
+009247-9,322,2025,6,1,7,BMW,8734,i3 Rex E Drive Connected Aut. (Elétrico),2020,1,G,Gasolina,192868
+009195-2,322,2025,6,1,7,BMW,7024,i3 Rex E Drive Full 170cv Aut.(Elétrico),2021,1,G,Gasolina,202857
+009306-8,322,2025,6,1,7,BMW,10668,i4 e-Drive 35 M Sport (Elétrico),2023,1,G,Gasolina,360652
+009197-9,322,2025,6,1,7,BMW,10019,i8 e-Drive 1.5 TB 12V  Aut. (Híbrido),2020,1,G,Gasolina,700037
+009197-9,322,2025,6,1,7,BMW,10019,i8 e-Drive 1.5 TB 12V  Aut. (Híbrido),2016,1,G,Gasolina,616660
+009318-1,322,2025,6,1,7,BMW,11103,iX 1 eDrive20 X-Line Aut. (Elétrico),2024,1,G,Gasolina,331857
+009309-2,322,2025,6,1,7,BMW,10755,iX 1 xDrive 30 M Sport (Elétrico),2025,1,G,Gasolina,382678
+009309-2,322,2025,6,1,7,BMW,10755,iX 1 xDrive 30 M Sport (Elétrico),2024,1,G,Gasolina,322486
+009312-2,322,2025,6,1,7,BMW,10782,iX M60 (Elétrico),2023,1,G,Gasolina,796859
+009261-4,322,2025,6,1,7,BMW,10785,M 135i XDRIVE 2.0 TB 306cv Aut.,2022,1,G,Gasolina,269646
+009261-4,322,2025,6,1,7,BMW,10785,M 135i XDRIVE 2.0 TB 306cv Aut.,2021,1,G,Gasolina,256665
+009157-0,322,2025,6,1,7,BMW,5719,M1 Coupe 3.0 24V 340cv,2012,1,G,Gasolina,568717
+009157-0,322,2025,6,1,7,BMW,5719,M1 Coupe 3.0 24V 340cv,2011,1,G,Gasolina,433116
+009222-3,322,2025,6,1,7,BMW,7823,M140i 3.0  24V 340cv 5p,2019,1,G,Gasolina,261690
+009222-3,322,2025,6,1,7,BMW,7823,M140i 3.0  24V 340cv 5p,2018,1,G,Gasolina,238578
+009234-7,322,2025,6,1,7,BMW,8439,M2 Competition 3.0 Bi-Turbo 410cv Aut.,2021,1,G,Gasolina,439687
+009268-1,322,2025,6,1,7,BMW,9103,M2 Competition Ed. Espe. 3.0 Bi-TB Mec.,2020,1,G,Gasolina,394292
+009276-2,322,2025,6,1,7,BMW,9339,M2 CS Coupe 3.0 Bi-Turbo 450cv,2021,1,G,Gasolina,830806
+009270-3,322,2025,6,1,7,BMW,9104,M235i XDRIVE Gran Coupé 2.0 Aut.,2022,1,G,Gasolina,279773
+009270-3,322,2025,6,1,7,BMW,9104,M235i XDRIVE Gran Coupé 2.0 Aut.,2020,1,G,Gasolina,260904
+009280-0,322,2025,6,1,7,BMW,9482,M3 Competition M 3.0 Bi-TB 510cv,2025,1,G,Gasolina,770250
+009280-0,322,2025,6,1,7,BMW,9482,M3 Competition M 3.0 Bi-TB 510cv,2023,1,G,Gasolina,638194
+009280-0,322,2025,6,1,7,BMW,9482,M3 Competition M 3.0 Bi-TB 510cv,2022,1,G,Gasolina,580830
+009029-8,322,2025,6,1,7,BMW,235,M3 Coupê 3.0 V6 24V 282cv,1994,1,G,Gasolina,29396
+009242-8,322,2025,6,1,7,BMW,8661,M3 CS Sedan 3.0 Bi-Turbo 460cv 4p,2018,1,G,Gasolina,363935
+009133-2,322,2025,6,1,7,BMW,4823,M3 Sedan 4.0 32V,2012,1,G,Gasolina,261199
+009133-2,322,2025,6,1,7,BMW,4823,M3 Sedan 4.0 32V,2009,1,G,Gasolina,232424
+009206-1,322,2025,6,1,7,BMW,7116,M4 Coupe 3.0 Bi-Turbo 24V 431cv 2p,2020,1,G,Gasolina,481660
+009206-1,322,2025,6,1,7,BMW,7116,M4 Coupe 3.0 Bi-Turbo 24V 431cv 2p,2019,1,G,Gasolina,469912
+009206-1,322,2025,6,1,7,BMW,7116,M4 Coupe 3.0 Bi-Turbo 24V 431cv 2p,2015,1,G,Gasolina,334048
+009015-8,322,2025,6,1,7,BMW,236,M5 3.8/Touring 3.8 24V,1993,1,G,Gasolina,41442
+009173-1,322,2025,6,1,7,BMW,6260,M5 4.4 560cv Bi-Turbo Aut.,2012,1,G,Gasolina,262413
+009304-1,322,2025,6,1,7,BMW,10414,X1 SDRIVE 18i GP 1.5 TB Aut.,2024,1,G,Gasolina,263055
+009255-0,322,2025,6,1,7,BMW,8820,X2 M35i 2.0 Turbo 306cv Aut.,2020,1,G,Gasolina,237636
+009227-4,322,2025,6,1,7,BMW,9797,X3 M40i 3.0 Turbo V6  Aut.,2019,1,G,Gasolina,275584
+009081-6,322,2025,6,1,7,BMW,242,X5 3.0 4x4,2004,1,G,Gasolina,46947
+009081-6,322,2025,6,1,7,BMW,242,X5 3.0 4x4,2001,1,G,Gasolina,28215
+009149-9,322,2025,6,1,7,BMW,5356,X5 XDRIVE 35i 3.0 306cv Bi-Turbo,2011,1,G,Gasolina,89463
+009207-0,322,2025,6,1,7,BMW,7117,X5 XDRIVE M50d 3.0 Diesel,2018,3,D,Diesel,250589
+009144-8,322,2025,6,1,7,BMW,5189,X6 M 4.4 4x4 V8 32V Bi-Turbo Aut.,2014,1,G,Gasolina,172787
+009018-2,322,2025,6,1,7,BMW,250,Z3 Roadster M 3.2,1998,1,G,Gasolina,105054
+093004-0,322,2025,6,1,245,Caoa Chery,9681,Tiggo 7 Pro 1.6 Turbo 16V Aut.,2023,1,G,Gasolina,140314
+073011-4,322,2025,6,1,161,Caoa Chery/Chery,7225,QQ 1.0 Look FL 12V/1.0 12V Flex 5p,2018,1,G,Gasolina,33945
+073011-4,322,2025,6,1,161,Caoa Chery/Chery,7225,QQ 1.0 Look FL 12V/1.0 12V Flex 5p,2015,1,G,Gasolina,24425
+073018-1,322,2025,6,1,161,Caoa Chery/Chery,8339,Tiggo 2 ACT 1.5 16V Flex Aut.5p,2022,1,G,Gasolina,72567
+073018-1,322,2025,6,1,161,Caoa Chery/Chery,8339,Tiggo 2 ACT 1.5 16V Flex Aut.5p,2020,1,G,Gasolina,68193
+073018-1,322,2025,6,1,161,Caoa Chery/Chery,8339,Tiggo 2 ACT 1.5 16V Flex Aut.5p,2019,1,G,Gasolina,65397
+073017-3,322,2025,6,1,161,Caoa Chery/Chery,8279,Tiggo 2 Look 1.5 16V Flex Mec. 5p,2020,1,G,Gasolina,61439
+073009-2,322,2025,6,1,161,Caoa Chery/Chery,6661,Tiggo 2.0 16V Aut. 5p,2013,1,G,Gasolina,33370
+073022-0,322,2025,6,1,161,Caoa Chery/Chery,8572,Tiggo 5X TXS 1.5 16V Turbo Flex Aut.,2019,1,G,Gasolina,81800
+073024-6,322,2025,6,1,161,Caoa Chery/Chery,8586,Tiggo 7 T 1.5 16V Turbo Flex Aut.,2021,1,G,Gasolina,88898
+073024-6,322,2025,6,1,161,Caoa Chery/Chery,8586,Tiggo 7 T 1.5 16V Turbo Flex Aut.,2020,1,G,Gasolina,83111
+064002-6,322,2025,6,1,136,CHANA,4392,Cargo 1.0 8V 53cv (Pick-Up),2007,1,G,Gasolina,10100
+064002-6,322,2025,6,1,136,CHANA,4392,Cargo 1.0 8V 53cv (Pick-Up),2005,1,G,Gasolina,7440
+064004-2,322,2025,6,1,136,CHANA,4393,Cargo CD 1.0 8V 53cv (Pick-Up),2012,1,G,Gasolina,20444
+064004-2,322,2025,6,1,136,CHANA,4393,Cargo CD 1.0 8V 53cv (Pick-Up),2011,1,G,Gasolina,19611
+064004-2,322,2025,6,1,136,CHANA,4393,Cargo CD 1.0 8V 53cv (Pick-Up),2010,1,G,Gasolina,15868
+064004-2,322,2025,6,1,136,CHANA,4393,Cargo CD 1.0 8V 53cv (Pick-Up),2007,1,G,Gasolina,10550
+064003-4,322,2025,6,1,136,CHANA,4394,Cargo CE 1.0 8V 53cv (Pick-Up),2011,1,G,Gasolina,19363
+064003-4,322,2025,6,1,136,CHANA,4394,Cargo CE 1.0 8V 53cv (Pick-Up),2007,1,G,Gasolina,10365
+064001-8,322,2025,6,1,136,CHANA,4395,Family 1.0 8V 53cv (Perua),2008,1,G,Gasolina,12376
+064001-8,322,2025,6,1,136,CHANA,4395,Family 1.0 8V 53cv (Perua),2006,1,G,Gasolina,9507
+064005-0,322,2025,6,1,136,CHANA,4396,Utility 1.0 8V 53cv  (Furgão),2008,1,G,Gasolina,10876
+064005-0,322,2025,6,1,136,CHANA,4396,Utility 1.0 8V 53cv  (Furgão),2007,1,G,Gasolina,9268
+010027-7,322,2025,6,1,12,Chrysler,4186,300 C SRT8 6.1 V8 16V 431cv Aut,2007,1,G,Gasolina,309167
+010014-5,322,2025,6,1,12,Chrysler,261,300 M 3.5,1999,1,G,Gasolina,39000
+010007-2,322,2025,6,1,12,Chrysler,267,Grand Caravan LE 3.3 Aut,1996,1,G,Gasolina,18492
+010016-1,322,2025,6,1,12,Chrysler,266,Grand Caravan SE 3.3 V6,2004,1,G,Gasolina,27708
+010016-1,322,2025,6,1,12,Chrysler,266,Grand Caravan SE 3.3 V6,1993,1,G,Gasolina,9613
+010018-8,322,2025,6,1,12,Chrysler,271,LE Baron 3.0 V6 Conv.,1993,1,G,Gasolina,14458
+010002-1,322,2025,6,1,12,Chrysler,273,Neon LE/Highline 2.0,1999,1,G,Gasolina,11812
+010002-1,322,2025,6,1,12,Chrysler,273,Neon LE/Highline 2.0,1995,1,G,Gasolina,6117
+010019-6,322,2025,6,1,12,Chrysler,275,PT Cruiser Limited 2.0 16V 4p,2001,1,G,Gasolina,23524
+010005-6,322,2025,6,1,12,Chrysler,280,Stratus LX 2.5 Aut,2000,1,G,Gasolina,18763
+010005-6,322,2025,6,1,12,Chrysler,280,Stratus LX 2.5 Aut,1996,1,G,Gasolina,11447
+011123-6,322,2025,6,1,13,Citroën,6421,AIRCROSS GLX ATACAMA 1.6 Flex 16V 5p Mec,2014,1,G,Gasolina,38567
+011026-4,322,2025,6,1,13,Citroën,284,Berlingo MultSpace GLX 1.8i 3p,1998,1,G,Gasolina,8476
+011232-1,322,2025,6,1,13,Citroën,10962,C3 AIRCROSS Feel 1.0 Flex Turbo 200 Aut.,2024,1,G,Gasolina,74696
+011119-8,322,2025,6,1,13,Citroën,6152,C3 Excl. 1.6 VTi Flex Start 16V 5p Aut.,2020,1,G,Gasolina,63490
+011119-8,322,2025,6,1,13,Citroën,6152,C3 Excl. 1.6 VTi Flex Start 16V 5p Aut.,2018,1,G,Gasolina,56640
+011119-8,322,2025,6,1,13,Citroën,6152,C3 Excl. 1.6 VTi Flex Start 16V 5p Aut.,2013,1,G,Gasolina,37015
+011071-0,322,2025,6,1,13,Citroën,289,C3 Exclus./Excl.Solaris 1.6 Flex 16V Mec,2011,1,G,Gasolina,27446
+011071-0,322,2025,6,1,13,Citroën,289,C3 Exclus./Excl.Solaris 1.6 Flex 16V Mec,2007,1,G,Gasolina,18284
+011071-0,322,2025,6,1,13,Citroën,289,C3 Exclus./Excl.Solaris 1.6 Flex 16V Mec,2005,1,G,Gasolina,12754
+011071-0,322,2025,6,1,13,Citroën,289,C3 Exclus./Excl.Solaris 1.6 Flex 16V Mec,2003,1,G,Gasolina,10455
+011076-0,322,2025,6,1,13,Citroën,292,C3 Ocimar Versolato 1.6 16V 110cv 5p,2005,1,G,Gasolina,14581
+011106-6,322,2025,6,1,13,Citroën,5553,C3 Picasso GLX 1.6 Flex 16V 5p Mec.,2011,1,G,Gasolina,27004
+011139-2,322,2025,6,1,13,Citroën,6775,C3 Picasso Tendance 1.6 Flex 16V 5p Aut.,2012,1,G,Gasolina,26901
+011176-7,322,2025,6,1,13,Citroën,7731,C3 Style Edition 1.6 Flex 16V Aut.,2017,1,G,Gasolina,52326
+011237-2,322,2025,6,1,13,Citroën,11176,C3 YOU! 1.0 Flex Turbo 200 Aut.,32000,1,G,Gasolina,99521
+011200-3,322,2025,6,1,13,Citroën,8470,C4 CACTUS LIVE 1.6 16V Flex Mec.,2020,1,G,Gasolina,69452
+011195-3,322,2025,6,1,13,Citroën,8472,C4 CACTUS SHINE Pack 1.6 Turbo Flex Aut.,2023,1,G,Gasolina,99435
+011195-3,322,2025,6,1,13,Citroën,8472,C4 CACTUS SHINE Pack 1.6 Turbo Flex Aut.,2022,1,G,Gasolina,88080
+011215-1,322,2025,6,1,13,Citroën,9609,C4 CACTUS X-Series 1.6 16V Flex Aut.,2022,1,G,Gasolina,78435
+011097-3,322,2025,6,1,13,Citroën,4888,C4 Excl./Excl. Solar. 2.0 Flex 16V Mec.,2009,1,G,Gasolina,19392
+011132-5,322,2025,6,1,13,Citroën,6575,C4 LOUNGE Exclusive 1.6 Turbo 4p Aut.,2015,1,G,Gasolina,49049
+011132-5,322,2025,6,1,13,Citroën,6575,C4 LOUNGE Exclusive 1.6 Turbo 4p Aut.,2014,1,G,Gasolina,46301
+011188-0,322,2025,6,1,13,Citroën,8234,C4 LOUNGE Feel 1.6 Turbo Flex Aut.,2018,1,G,Gasolina,65265
+011203-8,322,2025,6,1,13,Citroën,8515,C4 LOUNGE Live 1.6 Turbo Flex Aut.,2019,1,G,Gasolina,67325
+011203-8,322,2025,6,1,13,Citroën,8515,C4 LOUNGE Live 1.6 Turbo Flex Aut.,2018,1,G,Gasolina,55845
+011173-2,322,2025,6,1,13,Citroën,7684,C4 LOUNGE Origine 1.6 Turbo Flex  Aut.,2017,1,G,Gasolina,55052
+011187-2,322,2025,6,1,13,Citroën,8235,C4 LOUNGE Shine 1.6 Turbo Flex Aut.,2018,1,G,Gasolina,65519
+011157-0,322,2025,6,1,13,Citroën,7118,C4 LOUNGE Tendance 1.6 Turbo Flex Aut.,2017,1,G,Gasolina,55421
+011088-4,322,2025,6,1,13,Citroën,4397,C4 PAL.Excl/Excl(Tech.) 2.0/2.0 Flex Aut,2010,1,G,Gasolina,24569
+011087-6,322,2025,6,1,13,Citroën,4398,C4 PALLAS Exclusive 2.0/2.0 Flex 16V Mec,2008,1,G,Gasolina,19037
+011160-0,322,2025,6,1,13,Citroën,7426,C4 Picasso Intensive 1.6 Turbo 16V Aut.,2019,1,G,Gasolina,93263
+011160-0,322,2025,6,1,13,Citroën,7426,C4 Picasso Intensive 1.6 Turbo 16V Aut.,2016,1,G,Gasolina,73907
+011081-7,322,2025,6,1,13,Citroën,4159,C4 VTR 2.0 16V 143cv,2007,1,G,Gasolina,23832
+011098-1,322,2025,6,1,13,Citroën,4937,C5 Tourer Exclusive 2.0 16V 5p Aut.,2008,1,G,Gasolina,35669
+011154-6,322,2025,6,1,13,Citroën,7096,DS5 1.6 So Chic Turbo 16V 5p Aut.,2016,1,G,Gasolina,82125
+011027-2,322,2025,6,1,13,Citroën,299,Evasion  GLX 2.0 16V,2000,1,G,Gasolina,13689
+011168-6,322,2025,6,1,13,Citroën,7588,Grand C4 Picasso Intensive 1.6 TB Aut.,2017,1,G,Gasolina,89651
+011167-8,322,2025,6,1,13,Citroën,7589,Grand C4 Picasso Seduction 1.6 TB Aut.,2018,1,G,Gasolina,85312
+011099-0,322,2025,6,1,13,Citroën,5103,Jumper 2.3 15/16Lug. TB Diesel,2017,3,D,Diesel,134709
+011099-0,322,2025,6,1,13,Citroën,5103,Jumper 2.3 15/16Lug. TB Diesel,2013,3,D,Diesel,81808
+011099-0,322,2025,6,1,13,Citroën,5103,Jumper 2.3 15/16Lug. TB Diesel,2011,3,D,Diesel,68493
+011100-7,322,2025,6,1,13,Citroën,5140,Jumper 2.3 Furgão TB Diesel,2015,3,D,Diesel,92887
+011100-7,322,2025,6,1,13,Citroën,5140,Jumper 2.3 Furgão TB Diesel,2014,3,D,Diesel,90621
+011100-7,322,2025,6,1,13,Citroën,5140,Jumper 2.3 Furgão TB Diesel,2011,3,D,Diesel,68652
+011112-0,322,2025,6,1,13,Citroën,5659,Jumper 2.3 Vetrato Exec. 16Lug. TB Dies.,2013,3,D,Diesel,86855
+011112-0,322,2025,6,1,13,Citroën,5659,Jumper 2.3 Vetrato Exec. 16Lug. TB Dies.,2011,3,D,Diesel,59301
+011050-7,322,2025,6,1,13,Citroën,302,Jumper 2.8 16Lug.  Diesel,2009,3,D,Diesel,53217
+011050-7,322,2025,6,1,13,Citroën,302,Jumper 2.8 16Lug.  Diesel,2008,3,D,Diesel,49662
+011050-7,322,2025,6,1,13,Citroën,302,Jumper 2.8 16Lug.  Diesel,2006,3,D,Diesel,35968
+011050-7,322,2025,6,1,13,Citroën,302,Jumper 2.8 16Lug.  Diesel,2003,3,D,Diesel,29019
+011050-7,322,2025,6,1,13,Citroën,302,Jumper 2.8 16Lug.  Diesel,2000,3,D,Diesel,21983
+011051-5,322,2025,6,1,13,Citroën,304,Jumper 2.8 Furgão 35MH Diesel,2000,3,D,Diesel,19892
+011186-4,322,2025,6,1,13,Citroën,8078,Jumpy 1.6  Furgão Pack Turbo Diesel,2020,3,D,Diesel,117884
+011189-9,322,2025,6,1,13,Citroën,8342,Jumpy 1.6 Minibus Turbo Diesel,2021,3,D,Diesel,149674
+011079-5,322,2025,6,1,13,Citroën,3930,Xsara Picasso Exclus. 1.6/ 1.6 Flex 16V,2007,1,G,Gasolina,13911
+097001-8,322,2025,6,1,241,D2D Motors,10626,Buggy SKY 1.6 Flex 16V Mec.,2021,1,G,Gasolina,106668
+013036-2,322,2025,6,1,17,Dodge,6954,JOURNEY RT 3.6 AWD V6 Aut.,2014,1,G,Gasolina,60364
+013002-8,322,2025,6,1,17,Dodge,408,Ram Laramie/SLT 5.2 V8,1995,1,G,Gasolina,27972
+066016-7,322,2025,6,1,147,EFFA,9041,V25 Furgão 1.3 16V 5p,2020,1,G,Gasolina,64252
+031005-0,322,2025,6,1,20,Ferrari,432,456 GT,1996,1,G,Gasolina,174026
+031039-5,322,2025,6,1,20,Ferrari,7876,488 Spider 3.9 V8 670cv,2019,1,G,Gasolina,3405138
+031039-5,322,2025,6,1,20,Ferrari,7876,488 Spider 3.9 V8 670cv,2016,1,G,Gasolina,2759179
+031023-9,322,2025,6,1,20,Ferrari,436,575M Maranello F1 V12 515cv,2004,1,G,Gasolina,782068
+031026-3,322,2025,6,1,20,Ferrari,3932,612 Scaglietti F1 V12 540cv,2008,1,G,Gasolina,1384899
+031026-3,322,2025,6,1,20,Ferrari,3932,612 Scaglietti F1 V12 540cv,2006,1,G,Gasolina,1141353
+031026-3,322,2025,6,1,20,Ferrari,3932,612 Scaglietti F1 V12 540cv,2005,1,G,Gasolina,848264
+031050-6,322,2025,6,1,20,Ferrari,9447,812 GTS 6.5 V12 800cv,2022,1,G,Gasolina,6264009
+031042-5,322,2025,6,1,20,Ferrari,8343,812 SUPERFAST V12 800cv,2019,1,G,Gasolina,5358326
+031042-5,322,2025,6,1,20,Ferrari,8343,812 SUPERFAST V12 800cv,2018,1,G,Gasolina,5227636
+031036-0,322,2025,6,1,20,Ferrari,7179,California 3.9 Turbo F1 V8 560cv,2015,1,G,Gasolina,1761411
+031027-1,322,2025,6,1,20,Ferrari,4055,F430 Spider F1,2006,1,G,Gasolina,1482061
+031033-6,322,2025,6,1,20,Ferrari,6156,F458 Spider F1 4.5 V8 570cv,2015,1,G,Gasolina,3141243
+031033-6,322,2025,6,1,20,Ferrari,6156,F458 Spider F1 4.5 V8 570cv,2012,1,G,Gasolina,2792233
+031047-6,322,2025,6,1,20,Ferrari,9193,F8 TRIBUTO 3.9 V8 720cv,2020,1,G,Gasolina,3794895
+031052-2,322,2025,6,1,20,Ferrari,9665,PORTOFINO M 3.9 V8 620cv,2023,1,G,Gasolina,3207750
+031052-2,322,2025,6,1,20,Ferrari,9665,PORTOFINO M 3.9 V8 620cv,2022,1,G,Gasolina,3022500
+036002-3,322,2025,6,1,249,FEVER,11232,NEXTEM FN1000 PickUp (Elétrico),2024,1,G,Gasolina,186018
+001362-5,322,2025,6,1,21,Fiat,5613,500 Cult 1.4 Flex 8V EVO Dualogic,2014,1,G,Gasolina,46490
+001362-5,322,2025,6,1,21,Fiat,5613,500 Cult 1.4 Flex 8V EVO Dualogic,2012,1,G,Gasolina,42010
+001509-1,322,2025,6,1,21,Fiat,11401,ARGO 1.0 6V Flex,2024,1,G,Gasolina,69304
+001509-1,322,2025,6,1,21,Fiat,11401,ARGO 1.0 6V Flex,2019,1,G,Gasolina,51151
+001493-1,322,2025,6,1,21,Fiat,7966,ARGO DRIVE 1.3 8V Flex,2020,1,G,Gasolina,57918
+001493-1,322,2025,6,1,21,Fiat,7966,ARGO DRIVE 1.3 8V Flex,2018,1,G,Gasolina,51151
+001492-3,322,2025,6,1,21,Fiat,7967,ARGO DRIVE GSR 1.3 8V Flex,2020,1,G,Gasolina,60327
+001562-8,322,2025,6,1,21,Fiat,10393,ARGO TREKKING 1.3 8V Flex Aut.,2024,1,G,Gasolina,89245
+001109-6,322,2025,6,1,21,Fiat,442,Brava SX 1.6 16V 4p,2000,1,G,Gasolina,7727
+001434-6,322,2025,6,1,21,Fiat,7133,Bravo BlackMotion 1.8 Flex 16v 5p,2016,1,G,Gasolina,48862
+001434-6,322,2025,6,1,21,Fiat,7133,Bravo BlackMotion 1.8 Flex 16v 5p,2015,1,G,Gasolina,46653
+001337-4,322,2025,6,1,21,Fiat,5448,Bravo ESSENCE 1.8 Flex 16V 5p,2014,1,G,Gasolina,36317
+001384-6,322,2025,6,1,21,Fiat,6052,Bravo SPORTING 1.8 Flex 16V 5p,2013,1,G,Gasolina,39729
+001554-7,322,2025,6,1,21,Fiat,9990,CRONOS DRIVE 1.3 8V Flex Aut.,32000,1,G,Gasolina,106903
+001554-7,322,2025,6,1,21,Fiat,9990,CRONOS DRIVE 1.3 8V Flex Aut.,2024,1,G,Gasolina,86644
+001302-1,322,2025,6,1,21,Fiat,5105,Doblo  Cargo 1.4 mpi Fire Flex 8V 3p,2012,1,G,Gasolina,39514
+001169-0,322,2025,6,1,21,Fiat,448,Doblo Cargo 1.6 16V 4/5p,2002,1,G,Gasolina,16856
+001167-3,322,2025,6,1,21,Fiat,452,Doblo EX 1.3 Fire 16V 80cv 4/5p,2004,1,G,Gasolina,21181
+001563-6,322,2025,6,1,21,Fiat,10659,Ducato Cargo 2.2 Diesel (E6),32000,3,D,Diesel,257862
+001563-6,322,2025,6,1,21,Fiat,10659,Ducato Cargo 2.2 Diesel (E6),2025,3,D,Diesel,221703
+001563-6,322,2025,6,1,21,Fiat,10659,Ducato Cargo 2.2 Diesel (E6),2024,3,D,Diesel,206634
+001190-8,322,2025,6,1,21,Fiat,453,Ducato Cargo 2.8 Curto/Longo TB Diesel,2007,3,D,Diesel,55496
+001282-3,322,2025,6,1,21,Fiat,5022,Ducato Cargo Curto 2.3 ME Diesel,2013,3,D,Diesel,81860
+001098-7,322,2025,6,1,21,Fiat,454,Ducato Combinato 2.8 Diesel,1998,3,D,Diesel,20649
+001500-8,322,2025,6,1,21,Fiat,8207,Ducato MaxiCargo 2.3 16V Diesel,2020,3,D,Diesel,172084
+001159-2,322,2025,6,1,21,Fiat,460,Ducato Mult/ Vetrato 2.8 T.Alto TB Dies.,2005,3,D,Diesel,46851
+001565-2,322,2025,6,1,21,Fiat,10663,Ducato Multi 2.2 Diesel (E6),2024,3,D,Diesel,242960
+001499-0,322,2025,6,1,21,Fiat,8209,Ducato Multi 2.3 16V Diesel,2018,3,D,Diesel,160664
+001129-0,322,2025,6,1,21,Fiat,467,Duna 1.6ie,1995,1,G,Gasolina,8081
+001568-7,322,2025,6,1,21,Fiat,10754,Fastback 1.0 200 Turbo Flex Aut,2024,1,G,Gasolina,108909
+001558-0,322,2025,6,1,21,Fiat,10101,Fastback Audace 1.0 200 T. Flex Aut,2025,1,G,Gasolina,122919
+001558-0,322,2025,6,1,21,Fiat,10101,Fastback Audace 1.0 200 T. Flex Aut,2024,1,G,Gasolina,115435
+001027-8,322,2025,6,1,21,Fiat,473,Fiorino Furg.1.5/1.3/1.3 Fire/1.3 F.Flex,2009,1,G,Gasolina,29460
+001027-8,322,2025,6,1,21,Fiat,473,Fiorino Furg.1.5/1.3/1.3 Fire/1.3 F.Flex,2008,1,G,Gasolina,27219
+001027-8,322,2025,6,1,21,Fiat,473,Fiorino Furg.1.5/1.3/1.3 Fire/1.3 F.Flex,2005,1,G,Gasolina,23290
+001027-8,322,2025,6,1,21,Fiat,473,Fiorino Furg.1.5/1.3/1.3 Fire/1.3 F.Flex,2003,1,G,Gasolina,17190
+001027-8,322,2025,6,1,21,Fiat,473,Fiorino Furg.1.5/1.3/1.3 Fire/1.3 F.Flex,1993,1,G,Gasolina,10163
+001027-8,322,2025,6,1,21,Fiat,473,Fiorino Furg.1.5/1.3/1.3 Fire/1.3 F.Flex,1990,1,G,Gasolina,7424
+001027-8,322,2025,6,1,21,Fiat,473,Fiorino Furg.1.5/1.3/1.3 Fire/1.3 F.Flex,1987,1,G,Gasolina,5790
+001027-8,322,2025,6,1,21,Fiat,473,Fiorino Furg.1.5/1.3/1.3 Fire/1.3 F.Flex,1986,1,G,Gasolina,4739
+001028-6,322,2025,6,1,21,Fiat,475,Fiorino Pick-Up 1.0,1993,1,G,Gasolina,7597
+001003-0,322,2025,6,1,21,Fiat,478,Fiorino Pick-Up Trekking 1.5 mpi / i.e.,1996,1,G,Gasolina,13985
+001002-2,322,2025,6,1,21,Fiat,479,Fiorino Pick-Up Working 1.5 mpi / i.e.,1999,1,G,Gasolina,15679
+001002-2,322,2025,6,1,21,Fiat,479,Fiorino Pick-Up Working 1.5 mpi / i.e.,1998,1,G,Gasolina,14631
+001002-2,322,2025,6,1,21,Fiat,479,Fiorino Pick-Up Working 1.5 mpi / i.e.,1997,1,G,Gasolina,13761
+001002-2,322,2025,6,1,21,Fiat,479,Fiorino Pick-Up Working 1.5 mpi / i.e.,1996,1,G,Gasolina,11883
+001532-6,322,2025,6,1,21,Fiat,9210,Grand Siena 1.4 EVO Flex 8V 4p,2021,1,G,Gasolina,55585
+001378-1,322,2025,6,1,21,Fiat,5925,Grand Siena ATTRAC. 1.4 EVO F.Flex 8V,2014,1,G,Gasolina,33958
+001481-8,322,2025,6,1,21,Fiat,7824,Grand Siena ATTRACTIVE 1.0 Flex 8V 4p,2021,1,G,Gasolina,50974
+001481-8,322,2025,6,1,21,Fiat,7824,Grand Siena ATTRACTIVE 1.0 Flex 8V 4p,2018,1,G,Gasolina,43986
+001379-0,322,2025,6,1,21,Fiat,5926,Grand Siena ESSENCE 1.6 Flex 16V,2014,1,G,Gasolina,36620
+001381-1,322,2025,6,1,21,Fiat,5928,Grand Siena TETRAFUEL 1.4 Evo F. Flex 8V,2014,1,G,Gasolina,34221
+001381-1,322,2025,6,1,21,Fiat,5928,Grand Siena TETRAFUEL 1.4 Evo F. Flex 8V,2013,1,G,Gasolina,33386
+001242-4,322,2025,6,1,21,Fiat,4160,Idea Advent./ Adv.LOCKER 1.8 mpi Flex 5p,2012,1,G,Gasolina,32179
+001328-5,322,2025,6,1,21,Fiat,5340,Idea ATTRACTIVE 1.4 Fire Flex 8V 5p,2011,1,G,Gasolina,29890
+001326-9,322,2025,6,1,21,Fiat,5341,Idea ESSENCE 1.6 Flex 16V 5p,2015,1,G,Gasolina,37370
+001416-8,322,2025,6,1,21,Fiat,6711,Idea ESSENCE SUBLIME 1.6 Flex 16V 5p,2014,1,G,Gasolina,37394
+001463-0,322,2025,6,1,21,Fiat,7538,MOBI EASY 1.0 Fire Flex 5p.,2017,1,G,Gasolina,36356
+001177-0,322,2025,6,1,21,Fiat,506,Palio 1.0/ Trofeo 1.0 Fire/ Fire Flex 4p,2006,1,G,Gasolina,17482
+001244-0,322,2025,6,1,21,Fiat,4290,Palio 1.8R mpi Flex 8V 2p,2008,1,G,Gasolina,23821
+001237-8,322,2025,6,1,21,Fiat,3965,Palio Celebration 1.0 Fire Flex 8V 2p,2007,1,G,Gasolina,18143
+001031-6,322,2025,6,1,21,Fiat,517,Palio EL 1.5 mpi 2p e 4p,2000,1,G,Gasolina,10584
+001031-6,322,2025,6,1,21,Fiat,517,Palio EL 1.5 mpi 2p e 4p,1997,2,Á,Álcool,8081
+001066-9,322,2025,6,1,21,Fiat,519,Palio ELX 1.0/ 1.0 Fire Flex 8V 2p,1999,1,G,Gasolina,8334
+001325-0,322,2025,6,1,21,Fiat,5294,Palio ESSENCE Dualogic 1.6 Flex 16V 5p,2012,1,G,Gasolina,32532
+001419-2,322,2025,6,1,21,Fiat,6837,Palio Way Celebration 1.0 F. Flex 8V 5p,2015,1,G,Gasolina,32982
+001460-5,322,2025,6,1,21,Fiat,7544,Palio Weekend Adv. Loc.Ext.1.8 Dual.Flex,2016,1,G,Gasolina,48352
+001255-6,322,2025,6,1,21,Fiat,4673,Palio Weekend Adventure LOCKER 1.8 Flex,2014,1,G,Gasolina,41438
+001032-4,322,2025,6,1,21,Fiat,571,Premio S 1.5 i.e./ 1.5 / 1.3,1987,1,G,Gasolina,2831
+001546-6,322,2025,6,1,21,Fiat,9649,PULSE IMPETUS 1.0 TURBO 200 Flex Aut.,2024,1,G,Gasolina,114721
+001249-1,322,2025,6,1,21,Fiat,4421,Punto  ELX 1.4 Fire Flex 8V 5p,2009,1,G,Gasolina,26852
+001248-3,322,2025,6,1,21,Fiat,4422,Punto 1.4 Fire Flex 8V 5p,2010,1,G,Gasolina,27730
+001248-3,322,2025,6,1,21,Fiat,4422,Punto 1.4 Fire Flex 8V 5p,2009,1,G,Gasolina,24412
+001408-7,322,2025,6,1,21,Fiat,6561,Punto BLACKMOTION Dual. 1.8 Flex 16v 5p,2017,1,G,Gasolina,57305
+001408-7,322,2025,6,1,21,Fiat,6561,Punto BLACKMOTION Dual. 1.8 Flex 16v 5p,2014,1,G,Gasolina,42502
+001437-0,322,2025,6,1,21,Fiat,7182,Punto ESSENCE SP 1.6 Flex 16V 5p,2015,1,G,Gasolina,42693
+001437-0,322,2025,6,1,21,Fiat,7182,Punto ESSENCE SP 1.6 Flex 16V 5p,2014,1,G,Gasolina,39506
+001442-7,322,2025,6,1,21,Fiat,7226,Punto ESSENCE SP Dualogic 1.6 Flex 16V,2016,1,G,Gasolina,44254
+001250-5,322,2025,6,1,21,Fiat,4423,Punto HLX 1.8 Flex 8V 5p,2008,1,G,Gasolina,26538
+001551-2,322,2025,6,1,21,Fiat,9920,Scudo Multi 1.5 16 V Turbo Diesel,2025,3,D,Diesel,202897
+001175-4,322,2025,6,1,21,Fiat,577,Siena 1.0/ EX 1.0 mpi Fire/ Fire Flex 8v,2011,1,G,Gasolina,26612
+001175-4,322,2025,6,1,21,Fiat,577,Siena 1.0/ EX 1.0 mpi Fire/ Fire Flex 8v,2008,1,G,Gasolina,22583
+001175-4,322,2025,6,1,21,Fiat,577,Siena 1.0/ EX 1.0 mpi Fire/ Fire Flex 8v,2005,1,G,Gasolina,16170
+001175-4,322,2025,6,1,21,Fiat,577,Siena 1.0/ EX 1.0 mpi Fire/ Fire Flex 8v,2002,1,G,Gasolina,11986
+001321-8,322,2025,6,1,21,Fiat,5300,Siena ATTRACTIVE 1.4 Fire Flex 8V 4p,2011,1,G,Gasolina,26978
+001014-6,322,2025,6,1,21,Fiat,581,Siena EL 1.6 spi,1999,1,G,Gasolina,9879
+001273-4,322,2025,6,1,21,Fiat,4861,Siena EL Celeb. 1.0 mpi Fire Flex 8V 4p,2010,1,G,Gasolina,28160
+001211-4,322,2025,6,1,21,Fiat,583,Siena ELX 1.0 mpi Fire/Fire Flex 8V 4p,2005,1,G,Gasolina,16644
+001243-2,322,2025,6,1,21,Fiat,4187,Stilo 1.8 SP Flex 8V 5p,2011,1,G,Gasolina,23920
+001243-2,322,2025,6,1,21,Fiat,4187,Stilo 1.8 SP Flex 8V 5p,2009,1,G,Gasolina,21705
+001243-2,322,2025,6,1,21,Fiat,4187,Stilo 1.8 SP Flex 8V 5p,2008,1,G,Gasolina,20565
+001183-5,322,2025,6,1,21,Fiat,601,Strada 1.3 mpi Fire 8V 67cv CS,2004,1,G,Gasolina,23400
+001364-1,322,2025,6,1,21,Fiat,5621,Strada Adv.1.8 16V LOCKER Dualo. Flex CD,2015,1,G,Gasolina,60588
+001277-7,322,2025,6,1,21,Fiat,4970,Strada Adventure1.8/ 1.8 LOCKER Flex CD,2017,1,G,Gasolina,66176
+001277-7,322,2025,6,1,21,Fiat,4970,Strada Adventure1.8/ 1.8 LOCKER Flex CD,2012,1,G,Gasolina,47772
+001569-5,322,2025,6,1,21,Fiat,11109,Strada Endurance 1.3 Flex 8V CS Plus,2024,1,G,Gasolina,84099
+001518-0,322,2025,6,1,21,Fiat,8544,Strada Freedom 1.4 Flex 8V CS,2020,1,G,Gasolina,65569
+001518-0,322,2025,6,1,21,Fiat,8544,Strada Freedom 1.4 Flex 8V CS,2019,1,G,Gasolina,61868
+001233-5,322,2025,6,1,21,Fiat,3884,Strada Trekking 1.4 mpi Fire Flex 8V CE,2009,1,G,Gasolina,35287
+001233-5,322,2025,6,1,21,Fiat,3884,Strada Trekking 1.4 mpi Fire Flex 8V CE,2007,1,G,Gasolina,30460
+001293-9,322,2025,6,1,21,Fiat,5066,Strada Working 1.4 mpi Fire Flex 8V CD,2010,1,G,Gasolina,39484
+001292-0,322,2025,6,1,21,Fiat,5067,Strada Working 1.4 mpi Fire Flex 8V CE,2014,1,G,Gasolina,45772
+001292-0,322,2025,6,1,21,Fiat,5067,Strada Working 1.4 mpi Fire Flex 8V CE,2011,1,G,Gasolina,37351
+001391-9,322,2025,6,1,21,Fiat,6096,Strada Working Celeb.1.4 Fire Flex 8V CD,2014,1,G,Gasolina,56225
+001391-9,322,2025,6,1,21,Fiat,6096,Strada Working Celeb.1.4 Fire Flex 8V CD,2010,1,G,Gasolina,41645
+001433-8,322,2025,6,1,21,Fiat,7136,Strada Working HARD 1.4 Fire Flex 8V CS,2015,1,G,Gasolina,47033
+001537-7,322,2025,6,1,21,Fiat,9493,Toro Endurance 1.3 T270 4x2 Flex Aut.,2023,1,G,Gasolina,112543
+001452-4,322,2025,6,1,21,Fiat,7477,Toro Freedom 2.0 16V 4x4 TB Diesel Mec.,2016,3,D,Diesel,84602
+001484-2,322,2025,6,1,21,Fiat,7950,Toro Freedom Road 1.8 16V Flex Aut.,2018,1,G,Gasolina,83563
+001516-4,322,2025,6,1,21,Fiat,10070,Toro Ranch 2.0 16V 4x4 TB Diesel Aut.,32000,3,D,Diesel,214458
+001516-4,322,2025,6,1,21,Fiat,10070,Toro Ranch 2.0 16V 4x4 TB Diesel Aut.,2025,3,D,Diesel,181775
+001516-4,322,2025,6,1,21,Fiat,10070,Toro Ranch 2.0 16V 4x4 TB Diesel Aut.,2020,3,D,Diesel,118782
+001516-4,322,2025,6,1,21,Fiat,10070,Toro Ranch 2.0 16V 4x4 TB Diesel Aut.,2019,3,D,Diesel,112843
+001587-3,322,2025,6,1,21,Fiat,11346,Toro Ranch 2.2 16V 4x4 TB Diesel Aut.,32000,3,D,Diesel,219119
+001587-3,322,2025,6,1,21,Fiat,11346,Toro Ranch 2.2 16V 4x4 TB Diesel Aut.,2025,3,D,Diesel,186179
+001525-3,322,2025,6,1,21,Fiat,10071,Toro Ultra 2.0 16V 4x4 TB Diesel Aut.,32000,3,D,Diesel,214868
+001525-3,322,2025,6,1,21,Fiat,10071,Toro Ultra 2.0 16V 4x4 TB Diesel Aut.,2025,3,D,Diesel,182883
+001525-3,322,2025,6,1,21,Fiat,10071,Toro Ultra 2.0 16V 4x4 TB Diesel Aut.,2023,3,D,Diesel,154060
+001585-7,322,2025,6,1,21,Fiat,11280,Toro Vol. TRIBUTO 125 1.3 T270 Flex Aut.,2025,1,G,Gasolina,160826
+001453-2,322,2025,6,1,21,Fiat,7479,Toro Volcano 2.0 16V 4x4 TB Diesel Aut.,2024,3,D,Diesel,162959
+001453-2,322,2025,6,1,21,Fiat,7479,Toro Volcano 2.0 16V 4x4 TB Diesel Aut.,2023,3,D,Diesel,141844
+001453-2,322,2025,6,1,21,Fiat,7479,Toro Volcano 2.0 16V 4x4 TB Diesel Aut.,2022,3,D,Diesel,126978
+001453-2,322,2025,6,1,21,Fiat,7479,Toro Volcano 2.0 16V 4x4 TB Diesel Aut.,2020,3,D,Diesel,114041
+001453-2,322,2025,6,1,21,Fiat,7479,Toro Volcano 2.0 16V 4x4 TB Diesel Aut.,2019,3,D,Diesel,105595
+001453-2,322,2025,6,1,21,Fiat,7479,Toro Volcano 2.0 16V 4x4 TB Diesel Aut.,2018,3,D,Diesel,99306
+001054-5,322,2025,6,1,21,Fiat,634,Uno 1.6 mpi 2p e 4p,1996,1,G,Gasolina,8447
+001347-1,322,2025,6,1,21,Fiat,5481,UNO ATTRACTIVE 1.4 EVO Fire Flex 8V 2p,2012,1,G,Gasolina,26532
+001051-0,322,2025,6,1,21,Fiat,637,Uno CS/Top/Sport 1.5 i.e. / 1.5 /1.3,1996,1,G,Gasolina,8447
+001051-0,322,2025,6,1,21,Fiat,637,Uno CS/Top/Sport 1.5 i.e. / 1.5 /1.3,1994,1,G,Gasolina,7729
+001051-0,322,2025,6,1,21,Fiat,637,Uno CS/Top/Sport 1.5 i.e. / 1.5 /1.3,1990,1,G,Gasolina,6121
+001051-0,322,2025,6,1,21,Fiat,637,Uno CS/Top/Sport 1.5 i.e. / 1.5 /1.3,1987,1,G,Gasolina,4029
+001052-9,322,2025,6,1,21,Fiat,638,Uno CS/Top/Sport 1.5 i.e. / 1.5 4p,1995,1,G,Gasolina,8743
+001052-9,322,2025,6,1,21,Fiat,638,Uno CS/Top/Sport 1.5 i.e. / 1.5 4p,1994,1,G,Gasolina,8529
+001368-4,322,2025,6,1,21,Fiat,5666,UNO ECONOMY Celeb. 1.4 EVO F. Flex 8V 2p,2013,1,G,Gasolina,27391
+001368-4,322,2025,6,1,21,Fiat,5666,UNO ECONOMY Celeb. 1.4 EVO F. Flex 8V 2p,2012,1,G,Gasolina,26606
+001021-9,322,2025,6,1,21,Fiat,641,Uno Furgão 1.5 mpi/i.e.,2000,1,G,Gasolina,7230
+001021-9,322,2025,6,1,21,Fiat,641,Uno Furgão 1.5 mpi/i.e.,1997,1,G,Gasolina,5227
+001021-9,322,2025,6,1,21,Fiat,641,Uno Furgão 1.5 mpi/i.e.,1996,2,Á,Álcool,4610
+001049-9,322,2025,6,1,21,Fiat,642,Uno Furgão 1.5/ 1.3,1988,1,G,Gasolina,2281
+001161-4,322,2025,6,1,21,Fiat,644,Uno Mille 1.0 Fire/ F.Flex/ ECONOMY 2p,2012,1,G,Gasolina,21590
+001161-4,322,2025,6,1,21,Fiat,644,Uno Mille 1.0 Fire/ F.Flex/ ECONOMY 2p,2009,1,G,Gasolina,18312
+001161-4,322,2025,6,1,21,Fiat,644,Uno Mille 1.0 Fire/ F.Flex/ ECONOMY 2p,2004,1,G,Gasolina,13453
+001161-4,322,2025,6,1,21,Fiat,644,Uno Mille 1.0 Fire/ F.Flex/ ECONOMY 2p,2002,1,G,Gasolina,10876
+001264-5,322,2025,6,1,21,Fiat,4763,Uno Mille Celeb. WAY ECON. 1.0 F.Flex 2p,2013,1,G,Gasolina,24689
+001264-5,322,2025,6,1,21,Fiat,4763,Uno Mille Celeb. WAY ECON. 1.0 F.Flex 2p,2010,1,G,Gasolina,22232
+001020-0,322,2025,6,1,21,Fiat,650,Uno Mille SX 2p e 4p,1996,1,G,Gasolina,9471
+001050-2,322,2025,6,1,21,Fiat,653,Uno S 1.5 i.e. / 1.5 / 1.3/ SX 1.3,1988,1,G,Gasolina,4740
+001472-9,322,2025,6,1,21,Fiat,7734,UNO SPORTING Dual./GSR 1.3 Flex 8V 5p,2017,1,G,Gasolina,48652
+001349-8,322,2025,6,1,21,Fiat,5486,UNO WAY 1.4 EVO Fire Flex 8V 2p,2012,1,G,Gasolina,29903
+067004-9,322,2025,6,1,149,Fibravan,4890,Buggy Off Road 1.8 8V,2017,1,G,Gasolina,34497
+067004-9,322,2025,6,1,149,Fibravan,4890,Buggy Off Road 1.8 8V,2011,1,G,Gasolina,20226
+003118-6,322,2025,6,1,22,Ford,655,Aerostar Mini-Van 3.8,1990,1,G,Gasolina,9840
+003023-6,322,2025,6,1,22,Ford,678,Del Rey L 1.8 / 1.6 2p e 4p,1986,1,G,Gasolina,2838
+003268-9,322,2025,6,1,22,Ford,680,EcoSport XL 1.6/ 1.6 Flex 8V 5p,2007,1,G,Gasolina,24656
+003269-7,322,2025,6,1,22,Ford,682,EcoSport XLS 1.6/ 1.6 Flex 8V 5p,2008,1,G,Gasolina,31158
+003269-7,322,2025,6,1,22,Ford,682,EcoSport XLS 1.6/ 1.6 Flex 8V 5p,2005,1,G,Gasolina,24288
+003032-5,322,2025,6,1,22,Ford,693,Escort GLX 1.6i,1995,1,G,Gasolina,6219
+003028-7,322,2025,6,1,22,Ford,700,Escort L/LX 1.6,1987,1,G,Gasolina,4588
+003008-2,322,2025,6,1,22,Ford,703,Escort S.W. GLX 1.8i 16V,1997,1,G,Gasolina,7566
+003208-5,322,2025,6,1,22,Ford,705,Escort SW GL 1.6 MPI,2003,2,Á,Álcool,8896
+003208-5,322,2025,6,1,22,Ford,705,Escort SW GL 1.6 MPI,2002,1,G,Gasolina,10705
+003208-5,322,2025,6,1,22,Ford,705,Escort SW GL 1.6 MPI,2001,2,Á,Álcool,8287
+003041-4,322,2025,6,1,22,Ford,709,Escort XR3 2.0i Conversível,1995,2,Á,Álcool,15476
+003041-4,322,2025,6,1,22,Ford,709,Escort XR3 2.0i Conversível,1994,1,G,Gasolina,31405
+003157-7,322,2025,6,1,22,Ford,713,Explorer Sport 4.0 V6,1995,1,G,Gasolina,24412
+003156-9,322,2025,6,1,22,Ford,715,Explorer XL 4x4 4.0 V6,1995,1,G,Gasolina,11729
+003156-9,322,2025,6,1,22,Ford,715,Explorer XL 4x4 4.0 V6,1994,1,G,Gasolina,10999
+003156-9,322,2025,6,1,22,Ford,715,Explorer XL 4x4 4.0 V6,1991,1,G,Gasolina,8644
+003187-9,322,2025,6,1,22,Ford,720,F-100 CD 2.3,1986,1,G,Gasolina,7543
+003162-3,322,2025,6,1,22,Ford,723,F-1000 CD/Blazer 3.6,1994,1,G,Gasolina,16362
+003162-3,322,2025,6,1,22,Ford,723,F-1000 CD/Blazer 3.6,1993,1,G,Gasolina,14621
+003162-3,322,2025,6,1,22,Ford,723,F-1000 CD/Blazer 3.6,1990,1,G,Gasolina,11537
+003162-3,322,2025,6,1,22,Ford,723,F-1000 CD/Blazer 3.6,1988,1,G,Gasolina,10857
+003163-1,322,2025,6,1,22,Ford,724,F-1000 CD/Blazer 3.9 Dies.,1994,3,D,Diesel,71706
+003163-1,322,2025,6,1,22,Ford,724,F-1000 CD/Blazer 3.9 Dies.,1993,3,D,Diesel,69957
+003163-1,322,2025,6,1,22,Ford,724,F-1000 CD/Blazer 3.9 Dies.,1990,3,D,Diesel,64747
+003042-2,322,2025,6,1,22,Ford,730,F-1000 Super 3.6 / Super Série 3.6,1996,2,Á,Álcool,13839
+003042-2,322,2025,6,1,22,Ford,730,F-1000 Super 3.6 / Super Série 3.6,1992,1,G,Gasolina,16223
+003042-2,322,2025,6,1,22,Ford,730,F-1000 Super 3.6 / Super Série 3.6,1987,1,G,Gasolina,10774
+003042-2,322,2025,6,1,22,Ford,730,F-1000 Super 3.6 / Super Série 3.6,1986,1,G,Gasolina,10494
+003046-5,322,2025,6,1,22,Ford,732,F-1000 Super Diesel / Super Diesel Turbo,1993,3,D,Diesel,73048
+003049-0,322,2025,6,1,22,Ford,736,F-1000 Super/ S.Série 4x4 3.9 Diesel,1995,3,D,Diesel,77877
+003241-7,322,2025,6,1,22,Ford,740,F-1000 Tropical SL/ Van T.Diesel (todas),1995,3,D,Diesel,25559
+003197-6,322,2025,6,1,22,Ford,748,F-1000 XLT CE 4.9i,1996,1,G,Gasolina,27844
+003313-8,322,2025,6,1,22,Ford,4161,F-250 TropiCab CE 3.9 TB Diesel,2010,3,D,Diesel,147035
+003313-8,322,2025,6,1,22,Ford,4161,F-250 TropiCab CE 3.9 TB Diesel,2009,3,D,Diesel,143448
+003307-3,322,2025,6,1,22,Ford,4060,F-250 XLT 3.9 4x4 TB Diesel,2008,3,D,Diesel,158760
+003206-9,322,2025,6,1,22,Ford,768,F-250 XLT 4.2 TB Diesel,2002,3,D,Diesel,148721
+003310-3,322,2025,6,1,22,Ford,4135,Fiesta 1.0 8V Flex/Class 1.0 8V Flex 5p,2012,1,G,Gasolina,26627
+003075-9,322,2025,6,1,22,Ford,771,Fiesta 1.3  3p e 5p,1995,1,G,Gasolina,5749
+003387-1,322,2025,6,1,22,Ford,6424,Fiesta 1.6 16V Flex Mec. 5p,2015,1,G,Gasolina,41854
+003143-7,322,2025,6,1,22,Ford,779,Fiesta GL 1.0 3p,2002,1,G,Gasolina,8358
+003289-1,322,2025,6,1,22,Ford,785,Fiesta Sed. 1.6 8V Flex 4p,2008,1,G,Gasolina,23345
+003288-3,322,2025,6,1,22,Ford,787,Fiesta Sed. Supercharger 1.0 8V 4p,2006,1,G,Gasolina,16668
+003245-0,322,2025,6,1,22,Ford,788,Fiesta Sedan Street 1.0 8v 4p,2002,1,G,Gasolina,10611
+003244-1,322,2025,6,1,22,Ford,794,Fiesta Street/ Action 1.0 8v 5p,2003,1,G,Gasolina,12643
+003390-1,322,2025,6,1,22,Ford,6431,Fiesta TIT./TIT.Plus 1.6 16V Flex Aut.,2018,1,G,Gasolina,60922
+003281-6,322,2025,6,1,22,Ford,796,Focus 1.6 S/SE/SE Plus Flex 8V/16V  5p,2016,1,G,Gasolina,54986
+003281-6,322,2025,6,1,22,Ford,796,Focus 1.6 S/SE/SE Plus Flex 8V/16V  5p,2011,1,G,Gasolina,33623
+003281-6,322,2025,6,1,22,Ford,796,Focus 1.6 S/SE/SE Plus Flex 8V/16V  5p,2009,1,G,Gasolina,24716
+003281-6,322,2025,6,1,22,Ford,796,Focus 1.6 S/SE/SE Plus Flex 8V/16V  5p,2006,1,G,Gasolina,17924
+003226-3,322,2025,6,1,22,Ford,801,Focus Ghia Sed. 2.0 16V/ 2.0 16V Flex 4p,2009,1,G,Gasolina,32639
+003226-3,322,2025,6,1,22,Ford,801,Focus Ghia Sed. 2.0 16V/ 2.0 16V Flex 4p,2003,1,G,Gasolina,16846
+003348-0,322,2025,6,1,22,Ford,5450,Focus Sed. TI./TI.Plus 2.0 16V Flex  Aut,2012,1,G,Gasolina,40084
+003347-2,322,2025,6,1,22,Ford,5451,Focus TITA/TITA Plus 2.0  Flex 5p Aut.,2016,1,G,Gasolina,60457
+003347-2,322,2025,6,1,22,Ford,5451,Focus TITA/TITA Plus 2.0  Flex 5p Aut.,2012,1,G,Gasolina,40009
+003347-2,322,2025,6,1,22,Ford,5451,Focus TITA/TITA Plus 2.0  Flex 5p Aut.,2011,1,G,Gasolina,38682
+003173-9,322,2025,6,1,22,Ford,808,Furglaine 3.6,1985,1,G,Gasolina,6375
+003345-6,322,2025,6,1,22,Ford,10006,Fusion 2.5 16V 193cv Aut. (Híbrido),2011,1,G,Gasolina,46730
+003378-2,322,2025,6,1,22,Ford,6381,Fusion 2.5L I-VCT Flex Aut.,2014,1,G,Gasolina,66268
+003378-2,322,2025,6,1,22,Ford,6381,Fusion 2.5L I-VCT Flex Aut.,2013,1,G,Gasolina,62748
+003429-0,322,2025,6,1,22,Ford,7755,Fusion SEL 2.0 Ecobo. 16V 248cv Aut.,2018,1,G,Gasolina,90530
+003402-9,322,2025,6,1,22,Ford,10007,Fusion Titanium 2.0 145cv Aut. (Híbrido),2019,1,G,Gasolina,130923
+003402-9,322,2025,6,1,22,Ford,10007,Fusion Titanium 2.0 145cv Aut. (Híbrido),2018,1,G,Gasolina,109326
+003376-6,322,2025,6,1,22,Ford,6324,Fusion Titanium 2.0 GTDI Eco. Awd Aut.,2015,1,G,Gasolina,76928
+003177-1,322,2025,6,1,22,Ford,812,Ibiza Chat./Exec. 3.9 Diesel,1989,3,D,Diesel,30397
+003448-7,322,2025,6,1,22,Ford,8149,Ka 1.0 S TiVCT Flex 5p,2020,1,G,Gasolina,47989
+003448-7,322,2025,6,1,22,Ford,8149,Ka 1.0 S TiVCT Flex 5p,2018,1,G,Gasolina,40324
+003408-8,322,2025,6,1,22,Ford,6915,Ka 1.0 SE/SE Plus TiVCT Flex 5p,2020,1,G,Gasolina,50063
+003408-8,322,2025,6,1,22,Ford,6915,Ka 1.0 SE/SE Plus TiVCT Flex 5p,2018,1,G,Gasolina,40651
+003409-6,322,2025,6,1,22,Ford,6914,Ka 1.0 SEL TiVCT Flex 5p,2016,1,G,Gasolina,38005
+003018-0,322,2025,6,1,22,Ford,813,Ka 1.0i 3p,2006,1,G,Gasolina,12027
+003018-0,322,2025,6,1,22,Ford,813,Ka 1.0i 3p,2003,1,G,Gasolina,10626
+003018-0,322,2025,6,1,22,Ford,813,Ka 1.0i 3p,2000,1,G,Gasolina,8581
+003018-0,322,2025,6,1,22,Ford,813,Ka 1.0i 3p,1999,1,G,Gasolina,7444
+003018-0,322,2025,6,1,22,Ford,813,Ka 1.0i 3p,1997,1,G,Gasolina,6170
+003460-6,322,2025,6,1,22,Ford,8442,Ka 1.5 SE Plus 12V Flex 5p Aut.,2019,1,G,Gasolina,53444
+003464-9,322,2025,6,1,22,Ford,8444,Ka 1.5 Sedan SE 12V Flex 4p Aut.,2019,1,G,Gasolina,55655
+003465-7,322,2025,6,1,22,Ford,8446,Ka 1.5 Sedan SE Plus 12V Flex 4p Aut.,2021,1,G,Gasolina,62751
+003465-7,322,2025,6,1,22,Ford,8446,Ka 1.5 Sedan SE Plus 12V Flex 4p Aut.,2019,1,G,Gasolina,55713
+003456-8,322,2025,6,1,22,Ford,8403,Ka 1.5 Sedan TITANIUM 12V Flex 4p Aut.,2020,1,G,Gasolina,62636
+003456-8,322,2025,6,1,22,Ford,8403,Ka 1.5 Sedan TITANIUM 12V Flex 4p Aut.,2019,1,G,Gasolina,61108
+003326-0,322,2025,6,1,22,Ford,4515,Ka 1.6 8V Flex 3p,2009,1,G,Gasolina,21692
+003264-6,322,2025,6,1,22,Ford,814,Ka Action 1.6 MPI 8V 95cv,2004,1,G,Gasolina,17332
+003019-8,322,2025,6,1,22,Ford,817,Ka CLX 1.3i 3p,2000,1,G,Gasolina,10301
+003232-8,322,2025,6,1,22,Ford,823,Ka XR 1.6 MPI 8V,2001,1,G,Gasolina,14812
+003054-6,322,2025,6,1,22,Ford,845,Pampa L 1.6,1994,1,G,Gasolina,15884
+003054-6,322,2025,6,1,22,Ford,845,Pampa L 1.6,1988,1,G,Gasolina,7219
+003054-6,322,2025,6,1,22,Ford,845,Pampa L 1.6,1987,1,G,Gasolina,6355
+003106-2,322,2025,6,1,22,Ford,858,Ranger 2.5i CS,1999,1,G,Gasolina,30227
+003364-2,322,2025,6,1,22,Ford,10741,Ranger Limited 3.2 4x4 CD Diesel Aut.,2019,3,D,Diesel,148478
+003392-8,322,2025,6,1,22,Ford,6529,Ranger TROPIVAN 3.2 20V 4X4 TB Diesel,2013,3,D,Diesel,94286
+003426-6,322,2025,6,1,22,Ford,7688,Ranger XL 2.2 4x4 CD Diesel Mec.,2021,3,D,Diesel,147513
+003426-6,322,2025,6,1,22,Ford,7688,Ranger XL 2.2 4x4 CD Diesel Mec.,2014,3,D,Diesel,85733
+003248-4,322,2025,6,1,22,Ford,872,Ranger XL 2.8 8v 135cv 4x4 CS TB Diesel,2004,3,D,Diesel,42486
+003300-6,322,2025,6,1,22,Ford,3816,Ranger XL 3.0 PSE 163cv 4x4 CD TB Diesel,2005,3,D,Diesel,48567
+003500-9,322,2025,6,1,22,Ford,10831,Ranger XLS 3.0 V6 4x4 CD Diesel Aut.,2025,3,D,Diesel,264663
+003321-9,322,2025,6,1,22,Ford,4291,Ranger XLT 2.3 16V 150cv CD Repower.,2012,1,G,Gasolina,63652
+003110-0,322,2025,6,1,22,Ford,888,Ranger XLT 2.5 4x4 CD Diesel,1998,3,D,Diesel,31416
+003295-6,322,2025,6,1,22,Ford,895,Ranger XLT 3.0 PSE 163cv 4x4 CD TB Dies.,2010,3,D,Diesel,65197
+003295-6,322,2025,6,1,22,Ford,895,Ranger XLT 3.0 PSE 163cv 4x4 CD TB Dies.,2008,3,D,Diesel,56552
+003295-6,322,2025,6,1,22,Ford,895,Ranger XLT 3.0 PSE 163cv 4x4 CD TB Dies.,2007,3,D,Diesel,55172
+003295-6,322,2025,6,1,22,Ford,895,Ranger XLT 3.0 PSE 163cv 4x4 CD TB Dies.,2005,3,D,Diesel,51618
+003362-6,322,2025,6,1,22,Ford,6170,Ranger XLT 3.2 20V 4x4 CD Diesel,2014,3,D,Diesel,100485
+003362-6,322,2025,6,1,22,Ford,6170,Ranger XLT 3.2 20V 4x4 CD Diesel,2013,3,D,Diesel,97067
+003088-0,322,2025,6,1,22,Ford,899,Ranger XLT 4.0 4x2 CS,1998,1,G,Gasolina,42935
+003088-0,322,2025,6,1,22,Ford,899,Ranger XLT 4.0 4x2 CS,1996,1,G,Gasolina,39759
+003088-0,322,2025,6,1,22,Ford,899,Ranger XLT 4.0 4x2 CS,1995,1,G,Gasolina,38789
+003111-9,322,2025,6,1,22,Ford,902,Ranger XLT 4.0 4x4 CS,1999,1,G,Gasolina,36125
+003263-8,322,2025,6,1,22,Ford,903,Ranger XLT Limit./L.Cent. 2.8 CD TB Dies,2005,3,D,Diesel,53901
+003061-9,322,2025,6,1,22,Ford,904,Royale Ghia 2.0/2.0i 2p e 4p,1993,1,G,Gasolina,6974
+003061-9,322,2025,6,1,22,Ford,904,Royale Ghia 2.0/2.0i 2p e 4p,1992,1,G,Gasolina,5774
+003059-7,322,2025,6,1,22,Ford,905,Royale GL 1.8/1.8i  2p e 4p,1996,1,G,Gasolina,9346
+003059-7,322,2025,6,1,22,Ford,905,Royale GL 1.8/1.8i  2p e 4p,1995,2,Á,Álcool,5806
+003059-7,322,2025,6,1,22,Ford,905,Royale GL 1.8/1.8i  2p e 4p,1992,1,G,Gasolina,4871
+003060-0,322,2025,6,1,22,Ford,906,Royale GL 2.0/2.0i 2p e 4p,1992,1,G,Gasolina,4985
+003127-5,322,2025,6,1,22,Ford,908,Taurus GL SW 3.0 V6 24V,1995,1,G,Gasolina,22148
+003127-5,322,2025,6,1,22,Ford,908,Taurus GL SW 3.0 V6 24V,1994,1,G,Gasolina,15602
+003127-5,322,2025,6,1,22,Ford,908,Taurus GL SW 3.0 V6 24V,1991,1,G,Gasolina,6350
+003092-9,322,2025,6,1,22,Ford,909,Taurus L/LX 3.0 V6,1996,1,G,Gasolina,22737
+003092-9,322,2025,6,1,22,Ford,909,Taurus L/LX 3.0 V6,1995,1,G,Gasolina,22182
+003092-9,322,2025,6,1,22,Ford,909,Taurus L/LX 3.0 V6,1994,1,G,Gasolina,15411
+003092-9,322,2025,6,1,22,Ford,909,Taurus L/LX 3.0 V6,1991,1,G,Gasolina,6737
+003184-4,322,2025,6,1,22,Ford,912,Thunderbird SC 3.8 V6,1991,1,G,Gasolina,19513
+003494-0,322,2025,6,1,22,Ford,10638,TRANSIT Furgão 2.0 Longo Turbo Die Aut.,32000,3,D,Diesel,302800
+003494-0,322,2025,6,1,22,Ford,10638,TRANSIT Furgão 2.0 Longo Turbo Die Aut.,2026,3,D,Diesel,278878
+003494-0,322,2025,6,1,22,Ford,10638,TRANSIT Furgão 2.0 Longo Turbo Die Aut.,2025,3,D,Diesel,264044
+003491-6,322,2025,6,1,22,Ford,10639,TRANSIT Minibus 15 Lug. 2.0 16V Die Aut.,32000,3,D,Diesel,350833
+003483-5,322,2025,6,1,22,Ford,9650,TRANSIT Minibus 15 Lug. 2.0 16V Diesel,2025,3,D,Diesel,297375
+003483-5,322,2025,6,1,22,Ford,9650,TRANSIT Minibus 15 Lug. 2.0 16V Diesel,2023,3,D,Diesel,245771
+003493-2,322,2025,6,1,22,Ford,10641,TRANSIT Minibus Vidrada 2.0 16V Die Aut.,32000,3,D,Diesel,307667
+003493-2,322,2025,6,1,22,Ford,10641,TRANSIT Minibus Vidrada 2.0 16V Die Aut.,2024,3,D,Diesel,265450
+003065-1,322,2025,6,1,22,Ford,913,Verona Ghia 2.0i 4p,1994,1,G,Gasolina,8359
+003068-6,322,2025,6,1,22,Ford,919,Verona LX 1.8 (Modelo antigo),1990,1,G,Gasolina,6872
+003071-6,322,2025,6,1,22,Ford,923,Versailles GL 2.0i / 2.0 2p e 4p,1993,1,G,Gasolina,10520
+086011-5,322,2025,6,1,190,FOTON,11170,AUMARK S 3.5 4x2 Curto Diesel (E6),2025,3,D,Diesel,226685
+086007-7,322,2025,6,1,190,FOTON,7922,MINITRUCK 3.5-12DT 4x2 Diesel(E5),2018,3,D,Diesel,80842
+088001-9,322,2025,6,1,199,GEELY,6778,EC7 1.8 16V 130cv 4p Mec.,2014,1,G,Gasolina,32648
+004024-0,322,2025,6,1,23,GM - Chevrolet,929,A-20 Custom/ C-20 Luxe 4.1,1993,1,G,Gasolina,14593
+004024-0,322,2025,6,1,23,GM - Chevrolet,929,A-20 Custom/ C-20 Luxe 4.1,1991,1,G,Gasolina,13775
+004024-0,322,2025,6,1,23,GM - Chevrolet,929,A-20 Custom/ C-20 Luxe 4.1,1989,1,G,Gasolina,12665
+004023-1,322,2025,6,1,23,GM - Chevrolet,930,A-20 Custom/ C-20 S 4.1,1992,1,G,Gasolina,14065
+004023-1,322,2025,6,1,23,GM - Chevrolet,930,A-20 Custom/ C-20 S 4.1,1989,1,G,Gasolina,12516
+004169-6,322,2025,6,1,23,GM - Chevrolet,934,Astra 2.0/ CD/ GLS 2.0 MPFI 16V 3p,2001,1,G,Gasolina,17031
+004169-6,322,2025,6,1,23,GM - Chevrolet,934,Astra 2.0/ CD/ GLS 2.0 MPFI 16V 3p,2000,1,G,Gasolina,16615
+004255-2,322,2025,6,1,23,GM - Chevrolet,942,Astra Elegance 2.0 MPFI FlexPower 8V 5p,2008,1,G,Gasolina,26293
+004255-2,322,2025,6,1,23,GM - Chevrolet,942,Astra Elegance 2.0 MPFI FlexPower 8V 5p,2007,1,G,Gasolina,25652
+004081-9,322,2025,6,1,23,GM - Chevrolet,945,Astra GL 1.8 MPFI 3p,2001,1,G,Gasolina,17181
+004258-7,322,2025,6,1,23,GM - Chevrolet,950,Astra Sed.Comf. 2.0 MPFI FlexPower 8V 4p,2005,1,G,Gasolina,21718
+004084-3,322,2025,6,1,23,GM - Chevrolet,9629,Astra Sedan GL 1.8 MPFI 4p,2002,2,Á,Álcool,16967
+004025-8,322,2025,6,1,23,GM - Chevrolet,968,Bonanza S / Luxe 4.1,1989,1,G,Gasolina,21605
+004183-1,322,2025,6,1,23,GM - Chevrolet,969,Brasinca Blazer CD 4.0 Diesel,1992,3,D,Diesel,58386
+004183-1,322,2025,6,1,23,GM - Chevrolet,969,Brasinca Blazer CD 4.0 Diesel,1986,3,D,Diesel,17011
+004128-9,322,2025,6,1,23,GM - Chevrolet,974,C-10 De Luxe CD 2.5/ 4.1,1988,1,G,Gasolina,11412
+004128-9,322,2025,6,1,23,GM - Chevrolet,974,C-10 De Luxe CD 2.5/ 4.1,1986,1,G,Gasolina,9669
+004128-9,322,2025,6,1,23,GM - Chevrolet,974,C-10 De Luxe CD 2.5/ 4.1,1985,1,G,Gasolina,9363
+004129-7,322,2025,6,1,23,GM - Chevrolet,975,C-20 Custom De Luxe 4.1,1991,1,G,Gasolina,23084
+004131-9,322,2025,6,1,23,GM - Chevrolet,976,C-20 Custom De Luxe CD 4.1,1995,1,G,Gasolina,36545
+004131-9,322,2025,6,1,23,GM - Chevrolet,976,C-20 Custom De Luxe CD 4.1,1994,1,G,Gasolina,33199
+004131-9,322,2025,6,1,23,GM - Chevrolet,976,C-20 Custom De Luxe CD 4.1,1993,1,G,Gasolina,30995
+004131-9,322,2025,6,1,23,GM - Chevrolet,976,C-20 Custom De Luxe CD 4.1,1991,1,G,Gasolina,23989
+004131-9,322,2025,6,1,23,GM - Chevrolet,976,C-20 Custom De Luxe CD 4.1,1989,1,G,Gasolina,20551
+004131-9,322,2025,6,1,23,GM - Chevrolet,976,C-20 Custom De Luxe CD 4.1,1987,1,G,Gasolina,14333
+004131-9,322,2025,6,1,23,GM - Chevrolet,976,C-20 Custom De Luxe CD 4.1,1986,1,G,Gasolina,11272
+004130-0,322,2025,6,1,23,GM - Chevrolet,977,C-20 Custom Std. 4.1,1994,1,G,Gasolina,23279
+004130-0,322,2025,6,1,23,GM - Chevrolet,977,C-20 Custom Std. 4.1,1989,1,G,Gasolina,12334
+004130-0,322,2025,6,1,23,GM - Chevrolet,977,C-20 Custom Std. 4.1,1986,1,G,Gasolina,8767
+004130-0,322,2025,6,1,23,GM - Chevrolet,977,C-20 Custom Std. 4.1,1985,1,G,Gasolina,8393
+004074-6,322,2025,6,1,23,GM - Chevrolet,979,Calibra 16V,1994,1,G,Gasolina,29931
+004133-5,322,2025,6,1,23,GM - Chevrolet,983,Caprice 4.3 V8,1994,1,G,Gasolina,9277
+004357-5,322,2025,6,1,23,GM - Chevrolet,4841,CAPTIVA SPORT FWD 2.4 16V 171/185cv,2014,1,G,Gasolina,53505
+004357-5,322,2025,6,1,23,GM - Chevrolet,4841,CAPTIVA SPORT FWD 2.4 16V 171/185cv,2010,1,G,Gasolina,36005
+004351-6,322,2025,6,1,23,GM - Chevrolet,4735,CAPTIVA SPORT FWD 3.6 V6 24V 261cv 4x2,2010,1,G,Gasolina,38650
+004028-2,322,2025,6,1,23,GM - Chevrolet,987,Caravan Diplomata 4.1/2.5,1989,1,G,Gasolina,36729
+004028-2,322,2025,6,1,23,GM - Chevrolet,987,Caravan Diplomata 4.1/2.5,1986,1,G,Gasolina,14631
+004137-8,322,2025,6,1,23,GM - Chevrolet,988,Caravan L/SL/S/SS 2.5/4.1/4.2,1988,1,G,Gasolina,6144
+004137-8,322,2025,6,1,23,GM - Chevrolet,988,Caravan L/SL/S/SS 2.5/4.1/4.2,1985,1,G,Gasolina,4217
+004139-4,322,2025,6,1,23,GM - Chevrolet,990,Cavalier L 2.0,1994,1,G,Gasolina,8313
+004236-6,322,2025,6,1,23,GM - Chevrolet,994,Celta 1.4/ Super/ Energy 1.4 8V 85cv 5p,2004,1,G,Gasolina,17116
+004236-6,322,2025,6,1,23,GM - Chevrolet,994,Celta 1.4/ Super/ Energy 1.4 8V 85cv 5p,2003,1,G,Gasolina,16519
+004318-4,322,2025,6,1,23,GM - Chevrolet,995,Celta Life/ LS 1.0 MPFI 8V FlexPower 3p,2014,1,G,Gasolina,24784
+004318-4,322,2025,6,1,23,GM - Chevrolet,995,Celta Life/ LS 1.0 MPFI 8V FlexPower 3p,2013,1,G,Gasolina,24179
+004318-4,322,2025,6,1,23,GM - Chevrolet,995,Celta Life/ LS 1.0 MPFI 8V FlexPower 3p,2012,1,G,Gasolina,22500
+004318-4,322,2025,6,1,23,GM - Chevrolet,995,Celta Life/ LS 1.0 MPFI 8V FlexPower 3p,2010,1,G,Gasolina,19581
+004318-4,322,2025,6,1,23,GM - Chevrolet,995,Celta Life/ LS 1.0 MPFI 8V FlexPower 3p,2009,1,G,Gasolina,19103
+004318-4,322,2025,6,1,23,GM - Chevrolet,995,Celta Life/ LS 1.0 MPFI 8V FlexPower 3p,2007,1,G,Gasolina,17253
+004319-2,322,2025,6,1,23,GM - Chevrolet,996,Celta Life/ LS 1.0 MPFI 8V FlexPower 5p,2012,1,G,Gasolina,26826
+004319-2,322,2025,6,1,23,GM - Chevrolet,996,Celta Life/ LS 1.0 MPFI 8V FlexPower 5p,2008,1,G,Gasolina,19142
+004319-2,322,2025,6,1,23,GM - Chevrolet,996,Celta Life/ LS 1.0 MPFI 8V FlexPower 5p,2006,1,G,Gasolina,15759
+004267-6,322,2025,6,1,23,GM - Chevrolet,1004,Celta Spirit 1.0 MPFI VHC 8V 5p,2005,1,G,Gasolina,15546
+004316-8,322,2025,6,1,23,GM - Chevrolet,1007,Celta Super 1.0 MPFI 8V FlexPower 3p,2007,1,G,Gasolina,18179
+004031-2,322,2025,6,1,23,GM - Chevrolet,1011,Chevy 500 DL / SL / SE/ Furgão 1.6,1992,1,G,Gasolina,10089
+004031-2,322,2025,6,1,23,GM - Chevrolet,1011,Chevy 500 DL / SL / SE/ Furgão 1.6,1991,1,G,Gasolina,9183
+004031-2,322,2025,6,1,23,GM - Chevrolet,1011,Chevy 500 DL / SL / SE/ Furgão 1.6,1989,1,G,Gasolina,6333
+004161-0,322,2025,6,1,23,GM - Chevrolet,1012,Cheynne 4.3 V6,1993,1,G,Gasolina,17552
+004360-5,322,2025,6,1,23,GM - Chevrolet,4924,Classic Life/LS 1.0 VHC FlexP. 4p,2016,1,G,Gasolina,34577
+004360-5,322,2025,6,1,23,GM - Chevrolet,4924,Classic Life/LS 1.0 VHC FlexP. 4p,2012,1,G,Gasolina,25831
+004385-0,322,2025,6,1,23,GM - Chevrolet,5725,COBALT LTZ 1.4 8V FlexPower/EconoFlex 4p,2013,1,G,Gasolina,38391
+004121-1,322,2025,6,1,23,GM - Chevrolet,1043,Corsa Sed.Wind 1.0/Millenium/Classic VHC,2002,2,Á,Álcool,12372
+004036-3,322,2025,6,1,23,GM - Chevrolet,1076,D-20 S / El Caminho 3.9/4.0 CD T.Dies,1989,3,D,Diesel,59524
+004529-2,322,2025,6,1,23,GM - Chevrolet,9135,EQUINOX Premier 1.5 Turbo 172cv Aut.,2024,1,G,Gasolina,192215
+004038-0,322,2025,6,1,23,GM - Chevrolet,1078,Ipanema GL 1.8 MPFI / EFI /SL 4p,1994,1,G,Gasolina,8676
+004042-8,322,2025,6,1,23,GM - Chevrolet,1081,Kadett GL 2.0 MPFI / EFI,1995,2,Á,Álcool,7885
+004046-0,322,2025,6,1,23,GM - Chevrolet,1087,Kadett Sport 2.0 MPFI / EFI,1995,2,Á,Álcool,8042
+004370-2,322,2025,6,1,23,GM - Chevrolet,5416,MONTANA LS 1.4 ECONOFLEX 8V 2p,2014,1,G,Gasolina,41979
+004519-5,322,2025,6,1,23,GM - Chevrolet,8988,ONIX HATCH 1.0 12V Flex 5p Mec.,32000,1,G,Gasolina,92716
+004519-5,322,2025,6,1,23,GM - Chevrolet,8988,ONIX HATCH 1.0 12V Flex 5p Mec.,2025,1,G,Gasolina,80750
+004519-5,322,2025,6,1,23,GM - Chevrolet,8988,ONIX HATCH 1.0 12V Flex 5p Mec.,2020,1,G,Gasolina,57350
+004460-1,322,2025,6,1,23,GM - Chevrolet,7120,ONIX HATCH EFFECT 1.4 8V F.Power 5p Mec.,2016,1,G,Gasolina,50441
+004473-3,322,2025,6,1,23,GM - Chevrolet,7691,ONIX HATCH Joy 1.0 8V Flex 5p Mec.,2018,1,G,Gasolina,46649
+004514-4,322,2025,6,1,23,GM - Chevrolet,8890,ONIX HATCH LT 1.0 12V TB Flex 5p Aut.,2023,1,G,Gasolina,81231
+004512-8,322,2025,6,1,23,GM - Chevrolet,8891,ONIX HATCH LT 1.0 12V TB Flex 5p Mec.,2020,1,G,Gasolina,65852
+004438-5,322,2025,6,1,23,GM - Chevrolet,6530,ONIX HATCH LT 1.4 8V FlexPower 5p Aut.,2016,1,G,Gasolina,52595
+004438-5,322,2025,6,1,23,GM - Chevrolet,6530,ONIX HATCH LT 1.4 8V FlexPower 5p Aut.,2015,1,G,Gasolina,51312
+004438-5,322,2025,6,1,23,GM - Chevrolet,6530,ONIX HATCH LT 1.4 8V FlexPower 5p Aut.,2014,1,G,Gasolina,48021
+004425-3,322,2025,6,1,23,GM - Chevrolet,6233,ONIX HATCH LT 1.4 8V FlexPower 5p Mec.,2019,1,G,Gasolina,60687
+004515-2,322,2025,6,1,23,GM - Chevrolet,8892,ONIX HATCH LTZ 1.0 12V TB Flex 5p Aut.,2021,1,G,Gasolina,75114
+004439-3,322,2025,6,1,23,GM - Chevrolet,6531,ONIX HATCH LTZ 1.4 8V FlexPower 5p Aut.,2017,1,G,Gasolina,62680
+004426-1,322,2025,6,1,23,GM - Chevrolet,6234,ONIX HATCH LTZ 1.4 8V FlexPower 5p Mec.,2019,1,G,Gasolina,64055
+004426-1,322,2025,6,1,23,GM - Chevrolet,6234,ONIX HATCH LTZ 1.4 8V FlexPower 5p Mec.,2017,1,G,Gasolina,58311
+004426-1,322,2025,6,1,23,GM - Chevrolet,6234,ONIX HATCH LTZ 1.4 8V FlexPower 5p Mec.,2014,1,G,Gasolina,49460
+004504-7,322,2025,6,1,23,GM - Chevrolet,8823,ONIX SED. Plus PREM. 1.0 12V TB Flex Aut,2023,1,G,Gasolina,89403
+004504-7,322,2025,6,1,23,GM - Chevrolet,8823,ONIX SED. Plus PREM. 1.0 12V TB Flex Aut,2022,1,G,Gasolina,82399
+004499-7,322,2025,6,1,23,GM - Chevrolet,8824,ONIX SEDAN Plus 1.0 12V TB Flex Aut.,32000,1,G,Gasolina,115400
+004499-7,322,2025,6,1,23,GM - Chevrolet,8824,ONIX SEDAN Plus 1.0 12V TB Flex Aut.,2022,1,G,Gasolina,78267
+004503-9,322,2025,6,1,23,GM - Chevrolet,8828,ONIX SEDAN Plus LTZ 1.0 12V TB Flex Mec.,2022,1,G,Gasolina,74221
+004503-9,322,2025,6,1,23,GM - Chevrolet,8828,ONIX SEDAN Plus LTZ 1.0 12V TB Flex Mec.,2020,1,G,Gasolina,67958
+004104-1,322,2025,6,1,23,GM - Chevrolet,1116,Opala L/SL/SS/ 2.5/4.1,1986,1,G,Gasolina,11700
+004333-8,322,2025,6,1,23,GM - Chevrolet,4188,PRISMA  Sed. Maxx/ LT 1.4 8V ECONOF. 4p,2009,1,G,Gasolina,25391
+004358-3,322,2025,6,1,23,GM - Chevrolet,4849,PRISMA Sed. Joy/ LS 1.0 8V FlexPower 4p,2009,1,G,Gasolina,21539
+004437-7,322,2025,6,1,23,GM - Chevrolet,6533,PRISMA Sed. LTZ 1.4 8V FlexPower 4p Aut.,2019,1,G,Gasolina,65736
+004437-7,322,2025,6,1,23,GM - Chevrolet,6533,PRISMA Sed. LTZ 1.4 8V FlexPower 4p Aut.,2018,1,G,Gasolina,64132
+004204-8,322,2025,6,1,23,GM - Chevrolet,1118,S10 Blazer 2.4 MPFI 8V 128cv 4p,2003,1,G,Gasolina,31190
+004019-3,322,2025,6,1,23,GM - Chevrolet,1123,S10 Blazer DLX 2.2 MPFI / EFI,1999,1,G,Gasolina,26364
+004020-7,322,2025,6,1,23,GM - Chevrolet,1127,S10 Blazer DLX 4.3 V6,2001,1,G,Gasolina,37958
+004244-7,322,2025,6,1,23,GM - Chevrolet,1128,S10 Blazer Executive 2.8 4x4 TDI Diesel,2007,3,D,Diesel,64532
+004091-6,322,2025,6,1,23,GM - Chevrolet,1129,S10 Blazer Executive 4.3 V6,1997,1,G,Gasolina,27949
+004474-1,322,2025,6,1,23,GM - Chevrolet,7791,S10 Pick-Up Advantage 2.5 Flex 4x2 CD,2019,1,G,Gasolina,107435
+004146-7,322,2025,6,1,23,GM - Chevrolet,1147,S10 Pick-Up Executive CD 4.3,2000,1,G,Gasolina,31454
+004413-0,322,2025,6,1,23,GM - Chevrolet,6101,S10 Pick-Up LS 2.8 TDI 4x4 CD Dies. Mec.,2018,3,D,Diesel,120155
+004413-0,322,2025,6,1,23,GM - Chevrolet,6101,S10 Pick-Up LS 2.8 TDI 4x4 CD Dies. Mec.,2014,3,D,Diesel,98044
+004456-3,322,2025,6,1,23,GM - Chevrolet,7033,S10 Pick-Up LT 2.5 Flex 4x4 CD,2017,1,G,Gasolina,106225
+004392-3,322,2025,6,1,23,GM - Chevrolet,5890,S10 Pick-Up LT 2.8 TDI 4x2 CD Diesel,2014,3,D,Diesel,100405
+004392-3,322,2025,6,1,23,GM - Chevrolet,5890,S10 Pick-Up LT 2.8 TDI 4x2 CD Diesel,2012,3,D,Diesel,79628
+004410-5,322,2025,6,1,23,GM - Chevrolet,6102,S10 Pick-Up LTZ 2.8 TDI 4x2 CD Dies. Mec,2014,3,D,Diesel,102169
+004015-0,322,2025,6,1,23,GM - Chevrolet,1151,S10 Pick-Up Luxe 2.2 MPFI/EFI CE,1997,1,G,Gasolina,25219
+004012-6,322,2025,6,1,23,GM - Chevrolet,1160,S10 Pick-Up Std. 2.2 MPFI / EFI,1995,1,G,Gasolina,19268
+004322-2,322,2025,6,1,23,GM - Chevrolet,1165,S10 P-Up Advant. 2.4/2.4 MPFI F.Power CD,2009,1,G,Gasolina,54341
+004304-4,322,2025,6,1,23,GM - Chevrolet,1166,S10 P-Up Colina 2.8 TDI 4x2/4x4 CD Dies.,2009,3,D,Diesel,62289
+004301-0,322,2025,6,1,23,GM - Chevrolet,1143,S10 P-Up Colina 2.8 TDI 4x2/4x4 CS Dies.,2006,3,D,Diesel,54838
+004164-5,322,2025,6,1,23,GM - Chevrolet,1172,Sierra CE 5.7 V8,1995,1,G,Gasolina,30849
+004095-9,322,2025,6,1,23,GM - Chevrolet,1176,Silverado 4.1 Diesel,1997,3,D,Diesel,62936
+004214-5,322,2025,6,1,23,GM - Chevrolet,1188,Silverado Trop. SL/ Van T.Diesel (todas),1999,3,D,Diesel,80369
+004149-1,322,2025,6,1,23,GM - Chevrolet,1189,Silverado Tropical CD 4.1 Diesel,1998,3,D,Diesel,41066
+004149-1,322,2025,6,1,23,GM - Chevrolet,1189,Silverado Tropical CD 4.1 Diesel,1997,3,D,Diesel,38388
+004150-5,322,2025,6,1,23,GM - Chevrolet,1191,Silverado Tropical CD 4.2 Diesel,1999,3,D,Diesel,66988
+004404-0,322,2025,6,1,23,GM - Chevrolet,6060,SONIC HB LTZ 1.6 16V FlexPower 5p Aut.,2012,1,G,Gasolina,37617
+004107-6,322,2025,6,1,23,GM - Chevrolet,1193,SpaceVan Furgão 2.1 Diesel,1997,3,D,Diesel,11743
+004099-1,322,2025,6,1,23,GM - Chevrolet,1194,SpaceVan Furgão 2.2,1997,1,G,Gasolina,9470
+004100-9,322,2025,6,1,23,GM - Chevrolet,1196,SpaceVan Passageiro 2.2,1997,1,G,Gasolina,11805
+004458-0,322,2025,6,1,23,GM - Chevrolet,7098,SPIN ACTIV 1.8 8V Econo. Flex 5p Aut.,2021,1,G,Gasolina,82207
+004458-0,322,2025,6,1,23,GM - Chevrolet,7098,SPIN ACTIV 1.8 8V Econo. Flex 5p Aut.,2016,1,G,Gasolina,57757
+004415-6,322,2025,6,1,23,GM - Chevrolet,6103,SPIN LT 1.8 8V Econo.Flex 5p Aut.,2025,1,G,Gasolina,114309
+004415-6,322,2025,6,1,23,GM - Chevrolet,6103,SPIN LT 1.8 8V Econo.Flex 5p Aut.,2022,1,G,Gasolina,78452
+004415-6,322,2025,6,1,23,GM - Chevrolet,6103,SPIN LT 1.8 8V Econo.Flex 5p Aut.,2021,1,G,Gasolina,76538
+004415-6,322,2025,6,1,23,GM - Chevrolet,6103,SPIN LT 1.8 8V Econo.Flex 5p Aut.,2019,1,G,Gasolina,64210
+004415-6,322,2025,6,1,23,GM - Chevrolet,6103,SPIN LT 1.8 8V Econo.Flex 5p Aut.,2013,1,G,Gasolina,41449
+004416-4,322,2025,6,1,23,GM - Chevrolet,6106,SPIN LTZ 1.8 8V Econo.Flex 5p Mec.,2017,1,G,Gasolina,57127
+004416-4,322,2025,6,1,23,GM - Chevrolet,6106,SPIN LTZ 1.8 8V Econo.Flex 5p Mec.,2016,1,G,Gasolina,55509
+004494-6,322,2025,6,1,23,GM - Chevrolet,8691,SPIN PREMIER 1.8 8V Econo.Flex 5p Aut.,2024,1,G,Gasolina,108404
+004494-6,322,2025,6,1,23,GM - Chevrolet,8691,SPIN PREMIER 1.8 8V Econo.Flex 5p Aut.,2022,1,G,Gasolina,85237
+004495-4,322,2025,6,1,23,GM - Chevrolet,8692,SPIN PREMIER 1.8 8V Econo.Flex 5p Mec.,2021,1,G,Gasolina,81348
+004153-0,322,2025,6,1,23,GM - Chevrolet,1198,Suburban 5.7/6.5 V8/5.3 V8,2015,1,G,Gasolina,333798
+004153-0,322,2025,6,1,23,GM - Chevrolet,1198,Suburban 5.7/6.5 V8/5.3 V8,2010,1,G,Gasolina,186057
+004153-0,322,2025,6,1,23,GM - Chevrolet,1198,Suburban 5.7/6.5 V8/5.3 V8,1996,1,G,Gasolina,54940
+004153-0,322,2025,6,1,23,GM - Chevrolet,1198,Suburban 5.7/6.5 V8/5.3 V8,1995,1,G,Gasolina,53600
+004153-0,322,2025,6,1,23,GM - Chevrolet,1198,Suburban 5.7/6.5 V8/5.3 V8,1993,1,G,Gasolina,36734
+004061-4,322,2025,6,1,23,GM - Chevrolet,1201,Suprema GL 2.0,1994,1,G,Gasolina,8118
+004062-2,322,2025,6,1,23,GM - Chevrolet,1202,Suprema GLS 2.2 / 2.0,1996,1,G,Gasolina,20109
+004062-2,322,2025,6,1,23,GM - Chevrolet,1202,Suprema GLS 2.2 / 2.0,1994,1,G,Gasolina,13869
+004524-1,322,2025,6,1,23,GM - Chevrolet,9045,TRACKER 1.2 Turbo 12V Flex Aut.,2020,1,G,Gasolina,94596
+004532-2,322,2025,6,1,23,GM - Chevrolet,9213,TRACKER LTZ 1.0 Turbo 12V Flex Aut.,2025,1,G,Gasolina,131982
+004532-2,322,2025,6,1,23,GM - Chevrolet,9213,TRACKER LTZ 1.0 Turbo 12V Flex Aut.,2022,1,G,Gasolina,100989
+004523-3,322,2025,6,1,23,GM - Chevrolet,9047,TRACKER LTZ 1.2 Turbo 12V Flex Aut.,2021,1,G,Gasolina,103035
+004444-0,322,2025,6,1,23,GM - Chevrolet,6612,TRACKER LTZ 1.8 16V Flex 4x2 Aut.,2016,1,G,Gasolina,70441
+004444-0,322,2025,6,1,23,GM - Chevrolet,6612,TRACKER LTZ 1.8 16V Flex 4x2 Aut.,2015,1,G,Gasolina,67606
+004533-0,322,2025,6,1,23,GM - Chevrolet,9230,TRACKER Premier 1.0 Turbo 12V Flex Aut.,2022,1,G,Gasolina,108946
+004078-9,322,2025,6,1,23,GM - Chevrolet,1209,Trafic Furgão Carga 2.1 Diesel,1995,3,D,Diesel,12091
+004078-9,322,2025,6,1,23,GM - Chevrolet,1209,Trafic Furgão Carga 2.1 Diesel,1993,3,D,Diesel,9721
+004071-1,322,2025,6,1,23,GM - Chevrolet,1227,Veraneio S/ Luxe 4.0 Dies./TB Dies.,1991,3,D,Diesel,73492
+014014-7,322,2025,6,1,25,Honda,1242,Accord Sedan EX 2.4/2.3/ 2.2 16V,1993,1,G,Gasolina,16920
+014015-5,322,2025,6,1,25,Honda,1244,Accord Sedan EXR,2000,1,G,Gasolina,23465
+014047-3,322,2025,6,1,25,Honda,3889,Accord Sedan LX 2.0 16V 150/156cv Aut.,2008,1,G,Gasolina,41881
+014019-8,322,2025,6,1,25,Honda,1248,Civic Coupe EX/ EXS 1.6 16V 2p,1996,1,G,Gasolina,31099
+014019-8,322,2025,6,1,25,Honda,1248,Civic Coupe EX/ EXS 1.6 16V 2p,1991,1,G,Gasolina,10809
+014064-3,322,2025,6,1,25,Honda,5148,Civic Sed. LXL/LXL SE 1.8 Flex 16V Mec.,2013,1,G,Gasolina,63524
+014010-4,322,2025,6,1,25,Honda,1257,Civic Sedan LX 1.5/1.6,1992,1,G,Gasolina,7067
+014083-0,322,2025,6,1,25,Honda,6780,Fit DX 1.5 Flexone 16V 5p Mec.,2017,1,G,Gasolina,66105
+014045-7,322,2025,6,1,25,Honda,10815,Fit EX/S 1.5 Flex/Flexone 16V 5p Aut.,2018,1,G,Gasolina,75723
+014045-7,322,2025,6,1,25,Honda,10815,Fit EX/S 1.5 Flex/Flexone 16V 5p Aut.,2012,1,G,Gasolina,47743
+014045-7,322,2025,6,1,25,Honda,10815,Fit EX/S 1.5 Flex/Flexone 16V 5p Aut.,2008,1,G,Gasolina,36993
+014057-0,322,2025,6,1,25,Honda,4800,Fit EXL 1.5 Flex 16V 5p Mec,2012,1,G,Gasolina,46149
+014056-2,322,2025,6,1,25,Honda,4799,Fit EXL 1.5 Flex/Flexone 16V 5p Aut,2018,1,G,Gasolina,79412
+014056-2,322,2025,6,1,25,Honda,4799,Fit EXL 1.5 Flex/Flexone 16V 5p Aut,2017,1,G,Gasolina,72828
+014056-2,322,2025,6,1,25,Honda,4799,Fit EXL 1.5 Flex/Flexone 16V 5p Aut,2015,1,G,Gasolina,64673
+014056-2,322,2025,6,1,25,Honda,4799,Fit EXL 1.5 Flex/Flexone 16V 5p Aut,2010,1,G,Gasolina,45464
+014081-3,322,2025,6,1,25,Honda,6781,Fit LX 1.5 Flexone 16V 5p Aut.,2016,1,G,Gasolina,65085
+014081-3,322,2025,6,1,25,Honda,6781,Fit LX 1.5 Flexone 16V 5p Aut.,2015,1,G,Gasolina,62126
+014042-2,322,2025,6,1,25,Honda,1277,Fit LXL 1.4/ 1.4 Flex 8V/16V 5p Aut.,2009,1,G,Gasolina,41648
+014042-2,322,2025,6,1,25,Honda,1277,Fit LXL 1.4/ 1.4 Flex 8V/16V 5p Aut.,2008,1,G,Gasolina,34169
+014042-2,322,2025,6,1,25,Honda,1277,Fit LXL 1.4/ 1.4 Flex 8V/16V 5p Aut.,2007,1,G,Gasolina,32638
+014041-4,322,2025,6,1,25,Honda,1278,Fit LXL 1.4/ 1.4 Flex 8V/16V 5p Mec.,2009,1,G,Gasolina,39890
+014041-4,322,2025,6,1,25,Honda,1278,Fit LXL 1.4/ 1.4 Flex 8V/16V 5p Mec.,2006,1,G,Gasolina,27792
+014073-2,322,2025,6,1,25,Honda,6270,Fit Twist 1.5 Flex 16V 5p Aut.,2013,1,G,Gasolina,54545
+014087-2,322,2025,6,1,25,Honda,7150,HR-V EX 1.8 Flexone 16V 5p Aut.,2020,1,G,Gasolina,106162
+014087-2,322,2025,6,1,25,Honda,7150,HR-V EX 1.8 Flexone 16V 5p Aut.,2017,1,G,Gasolina,88349
+014086-4,322,2025,6,1,25,Honda,7152,HR-V LX 1.8 Flexone 16V 5p Aut.,2017,1,G,Gasolina,84755
+014012-0,322,2025,6,1,25,Honda,1279,Odyssey EX Van Aut (6 lug.),1995,1,G,Gasolina,11669
+014095-3,322,2025,6,1,25,Honda,7900,WR-V EXL 1.5 Flexone 16V 5p Aut.,2021,1,G,Gasolina,92672
+015032-0,322,2025,6,1,26,Hyundai,1286,Accent GLS 1.5 12V/16V Aut.,1998,1,G,Gasolina,8398
+015033-9,322,2025,6,1,26,Hyundai,1293,Atos Prime GLS 1.0 Mec.,2000,1,G,Gasolina,10701
+015036-3,322,2025,6,1,26,Hyundai,1296,Coupe FX 2.0 Mec.,1997,1,G,Gasolina,17458
+015157-2,322,2025,6,1,26,Hyundai,9589,Creta Attitude 1.6 16V Flex Aut.,2019,1,G,Gasolina,82595
+015243-9,322,2025,6,1,26,Hyundai,10858,Creta Limit. Safety 1.0 TB 12V Flex Aut.,2025,1,G,Gasolina,140284
+015212-9,322,2025,6,1,26,Hyundai,9855,Creta N Line 1.0 TB 12V Flex Aut.,32000,1,G,Gasolina,192033
+015202-1,322,2025,6,1,26,Hyundai,9603,Creta Platinum 1.0 TB 12V Flex Aut.,2024,1,G,Gasolina,140854
+015153-0,322,2025,6,1,26,Hyundai,8125,Creta Sport 2.0 16V Flex Aut.,2019,1,G,Gasolina,91148
+015104-1,322,2025,6,1,26,Hyundai,6433,Elantra GLS 2.0 16V Flex Aut.,2013,1,G,Gasolina,61651
+015008-8,322,2025,6,1,26,Hyundai,1309,Excel LS/ GL,1994,1,G,Gasolina,3853
+015042-8,322,2025,6,1,26,Hyundai,1316,H1 Starex HSV 2.5 Diesel,2001,3,D,Diesel,36458
+015042-8,322,2025,6,1,26,Hyundai,1316,H1 Starex HSV 2.5 Diesel,1999,3,D,Diesel,24732
+015041-0,322,2025,6,1,26,Hyundai,1321,H100 GL Furgão Extra-Longo Diesel,2002,3,D,Diesel,21997
+015039-8,322,2025,6,1,26,Hyundai,1327,H100 Top Diesel,1997,3,D,Diesel,13855
+015090-8,322,2025,6,1,26,Hyundai,6206,HB20 C.Style/C.Plus 1.6 Flex 16V Aut.,2017,1,G,Gasolina,58078
+015090-8,322,2025,6,1,26,Hyundai,6206,HB20 C.Style/C.Plus 1.6 Flex 16V Aut.,2014,1,G,Gasolina,47527
+015245-5,322,2025,6,1,26,Hyundai,10861,HB20 Comfort Plus 1.0 Flex 12V Mec.,32000,1,G,Gasolina,91929
+015170-0,322,2025,6,1,26,Hyundai,8852,HB20 Evolution 1.0 TB Flex 12V Aut.,2020,1,G,Gasolina,69533
+015209-9,322,2025,6,1,26,Hyundai,9617,HB20 Platinum 1.0 TB Flex 12V Aut.,2022,1,G,Gasolina,79637
+015165-3,322,2025,6,1,26,Hyundai,8854,HB20 Sense 1.0 Flex 12V Mec.,2021,1,G,Gasolina,57122
+015168-8,322,2025,6,1,26,Hyundai,8855,HB20 Vision 1.0 Flex 12V Mec.,2020,1,G,Gasolina,59090
+015166-1,322,2025,6,1,26,Hyundai,8856,HB20 Vision 1.6 Flex 16V Aut,2021,1,G,Gasolina,70773
+015148-3,322,2025,6,1,26,Hyundai,8013,HB20S 5 Anos 1.0 Flex 12V Mec.,2018,1,G,Gasolina,53163
+015100-9,322,2025,6,1,26,Hyundai,6436,HB20S C.Plus/C.Style 1.6 Flex 16V Mec.4p,2017,1,G,Gasolina,58238
+015100-9,322,2025,6,1,26,Hyundai,6436,HB20S C.Plus/C.Style 1.6 Flex 16V Mec.4p,2014,1,G,Gasolina,47674
+015101-7,322,2025,6,1,26,Hyundai,6435,HB20S C.Style/C.Plus1.6 Flex 16V Aut. 4p,2017,1,G,Gasolina,63369
+015218-8,322,2025,6,1,26,Hyundai,10012,HB20S Comfort 1.0  Flex 12V Mec.,2024,1,G,Gasolina,78816
+015217-0,322,2025,6,1,26,Hyundai,10013,HB20S Comfort 1.0 TB Flex 12V Aut.,2023,1,G,Gasolina,86027
+015112-2,322,2025,6,1,26,Hyundai,6742,HB20S Copa do Mundo 1.0 Flex 12V Mec.,2019,1,G,Gasolina,59428
+015112-2,322,2025,6,1,26,Hyundai,6742,HB20S Copa do Mundo 1.0 Flex 12V Mec.,2014,1,G,Gasolina,41977
+015114-9,322,2025,6,1,26,Hyundai,6744,HB20S Copa do Mundo 1.6 Flex 16V Aut.,2015,1,G,Gasolina,54542
+015113-0,322,2025,6,1,26,Hyundai,6743,HB20S Copa do Mundo 1.6 Flex 16V Mec.,2014,1,G,Gasolina,46917
+015180-7,322,2025,6,1,26,Hyundai,8897,HB20S Diamond Plus 1.0 TB Flex 12V Aut.,2020,1,G,Gasolina,76207
+015227-7,322,2025,6,1,26,Hyundai,10215,HB20S Edição Especial 1.0 TB Flex Aut.,2023,1,G,Gasolina,81350
+015193-9,322,2025,6,1,26,Hyundai,9476,HB20S Evol. Bluelink 1.0 Flex 12 Mec.,2022,1,G,Gasolina,67991
+015176-9,322,2025,6,1,26,Hyundai,8898,HB20S Evolution 1.0 Flex 12V Mec.,2020,1,G,Gasolina,63511
+015178-5,322,2025,6,1,26,Hyundai,8899,HB20S Evolution 1.0 TB Flex 12V Aut.,2021,1,G,Gasolina,76824
+015252-8,322,2025,6,1,26,Hyundai,11459,HB20S Limited 1.0  TB Flex 12V Aut.,2026,1,G,Gasolina,112718
+015205-6,322,2025,6,1,26,Hyundai,9623,HB20S Platinum Plus 1.0 TB Flex 12V Aut.,32000,1,G,Gasolina,120050
+015205-6,322,2025,6,1,26,Hyundai,9623,HB20S Platinum Plus 1.0 TB Flex 12V Aut.,2023,1,G,Gasolina,95907
+015174-2,322,2025,6,1,26,Hyundai,8858,HB20S Vision 1.0 Flex 12V Mec.,2021,1,G,Gasolina,63483
+015183-1,322,2025,6,1,26,Hyundai,8951,HB20X Diamond 1.6 Flex 16V Aut.,2022,1,G,Gasolina,81488
+015183-1,322,2025,6,1,26,Hyundai,8951,HB20X Diamond 1.6 Flex 16V Aut.,2020,1,G,Gasolina,77114
+015097-5,322,2025,6,1,26,Hyundai,6352,HB20X Premium 1.6 Flex 16V Aut.,2014,1,G,Gasolina,53816
+015065-7,322,2025,6,1,26,Hyundai,1328,HR 2.5 TCI Diesel (RS/RD),2018,3,D,Diesel,112711
+015065-7,322,2025,6,1,26,Hyundai,1328,HR 2.5 TCI Diesel (RS/RD),2015,3,D,Diesel,87650
+015065-7,322,2025,6,1,26,Hyundai,1328,HR 2.5 TCI Diesel (RS/RD),2009,3,D,Diesel,72736
+015065-7,322,2025,6,1,26,Hyundai,1328,HR 2.5 TCI Diesel (RS/RD),2005,3,D,Diesel,56647
+015072-0,322,2025,6,1,26,Hyundai,5071,i30 2.0 16V 145cv 5p Mec.,2010,1,G,Gasolina,39350
+015086-0,322,2025,6,1,26,Hyundai,5931,ix35 GLS 2.0 16V 2WD Flex Aut.,2014,1,G,Gasolina,70350
+015010-0,322,2025,6,1,26,Hyundai,1335,Sonata GL 2.0 4p,1993,1,G,Gasolina,4904
+015064-9,322,2025,6,1,26,Hyundai,1344,Tucson 2.0 16V Aut.,2008,1,G,Gasolina,33948
+016015-6,322,2025,6,1,28,Jaguar,1353,S-Type 4.2/4.2 SE/4.0 V8 32V,2008,1,G,Gasolina,142831
+016015-6,322,2025,6,1,28,Jaguar,1353,S-Type 4.2/4.2 SE/4.0 V8 32V,2001,1,G,Gasolina,74262
+016015-6,322,2025,6,1,28,Jaguar,1353,S-Type 4.2/4.2 SE/4.0 V8 32V,2000,1,G,Gasolina,58461
+016019-9,322,2025,6,1,28,Jaguar,1354,S-Type R 4.2 V8 32V 400cv,2006,1,G,Gasolina,144666
+016044-0,322,2025,6,1,28,Jaguar,7349,XE 2.0 Turbocharged R-Sport Aut.,2019,1,G,Gasolina,165207
+016044-0,322,2025,6,1,28,Jaguar,7349,XE 2.0 Turbocharged R-Sport Aut.,2018,1,G,Gasolina,152217
+016044-0,322,2025,6,1,28,Jaguar,7349,XE 2.0 Turbocharged R-Sport Aut.,2017,1,G,Gasolina,137951
+016048-2,322,2025,6,1,28,Jaguar,7592,XF 2.0 R-SPORT  Aut.,2019,1,G,Gasolina,188113
+016048-2,322,2025,6,1,28,Jaguar,7592,XF 2.0 R-SPORT  Aut.,2017,1,G,Gasolina,152342
+016029-6,322,2025,6,1,28,Jaguar,6465,XF 2.0 Turbo 16V 240cv Aut.,2013,1,G,Gasolina,99352
+016063-6,322,2025,6,1,28,Jaguar,8406,XF 2.0 Turbocharged Pure 250cv Aut.,2018,1,G,Gasolina,177970
+016023-7,322,2025,6,1,28,Jaguar,4704,XF 3.0 V6 24V 240cv Aut.,2011,1,G,Gasolina,82875
+016023-7,322,2025,6,1,28,Jaguar,4704,XF 3.0 V6 24V 240cv Aut.,2009,1,G,Gasolina,77847
+016035-0,322,2025,6,1,28,Jaguar,6751,XJ 2.0 Turbo 16V 240cv Aut.,2014,1,G,Gasolina,234997
+016035-0,322,2025,6,1,28,Jaguar,6751,XJ 2.0 Turbo 16V 240cv Aut.,2013,1,G,Gasolina,192685
+016011-3,322,2025,6,1,28,Jaguar,1364,XJS 4.0 24V,1994,1,G,Gasolina,33031
+016012-1,322,2025,6,1,28,Jaguar,1365,XJS-C 6.0 V12,1994,1,G,Gasolina,45603
+016022-9,322,2025,6,1,28,Jaguar,4437,XKR Conversível 4.2/5.0 32V,2007,1,G,Gasolina,220221
+017081-0,322,2025,6,1,29,Jeep,9611,Commander Limited T270 1.3 TB Flex Aut.,2024,1,G,Gasolina,195644
+017047-0,322,2025,6,1,29,Jeep,7758,COMPASS LIMITED 2.0 4x2 Flex 16V Aut.,2016,1,G,Gasolina,85036
+017045-3,322,2025,6,1,29,Jeep,7760,COMPASS LONGITUDE 2.0 4x4 Dies. 16V Aut.,2018,3,D,Diesel,102870
+017089-5,322,2025,6,1,29,Jeep,9980,COMPASS S 1.3 TB 4XE Aut. (Híbrido),2023,1,G,Gasolina,189144
+017044-5,322,2025,6,1,29,Jeep,7762,COMPASS TRAILHAWK 2.0 4x4 Dies. 16V Aut.,2021,3,D,Diesel,131503
+017044-5,322,2025,6,1,29,Jeep,7762,COMPASS TRAILHAWK 2.0 4x4 Dies. 16V Aut.,2017,3,D,Diesel,104688
+017025-9,322,2025,6,1,29,Jeep,5454,Grand Cherokee Laredo 3.6 4x4 V6 Aut.,2014,1,G,Gasolina,87129
+017040-2,322,2025,6,1,29,Jeep,7306,Renegade 1.8 4x2 Flex 16V Mec.,2016,1,G,Gasolina,62303
+017088-7,322,2025,6,1,29,Jeep,9745,Renegade Long. T270 1.3 TB 4x2 Flex Aut.,2025,1,G,Gasolina,137854
+017033-0,322,2025,6,1,29,Jeep,7189,Renegade Sport 1.8 4x2 Flex 16V Mec.,2016,1,G,Gasolina,62820
+017067-4,322,2025,6,1,29,Jeep,8903,Renegade STD 1.8 4x2 Flex 16v Aut.,2021,1,G,Gasolina,80019
+070002-9,322,2025,6,1,154,JINBEI,4854,TOPIC VAN L 2.2 8V/ 2.0 16V 4p,2011,1,G,Gasolina,25761
+032001-3,322,2025,6,1,30,JPX,1385,Jipe Montez 4x4 CD Teto de Lona Diesel,1998,3,D,Diesel,15734
+032003-0,322,2025,6,1,30,JPX,1389,Picape Montez 1.9 4x4 Diesel,1998,3,D,Diesel,13134
+032003-0,322,2025,6,1,30,JPX,1389,Picape Montez 1.9 4x4 Diesel,1997,3,D,Diesel,12064
+018013-0,322,2025,6,1,31,Kia Motors,1393,Besta Furgão 2.7 Diesel,2000,3,D,Diesel,14749
+018013-0,322,2025,6,1,31,Kia Motors,1393,Besta Furgão 2.7 Diesel,1995,3,D,Diesel,10753
+018013-0,322,2025,6,1,31,Kia Motors,1393,Besta Furgão 2.7 Diesel,1994,3,D,Diesel,9405
+018027-0,322,2025,6,1,31,Kia Motors,1399,Bongo K-2400 2.4 Diesel,1993,3,D,Diesel,6937
+018058-0,322,2025,6,1,31,Kia Motors,4140,Bongo K-2700 2.7 4x4 Basculante Diesel,2006,3,D,Diesel,32059
+018048-3,322,2025,6,1,31,Kia Motors,1401,Bongo K-2700 2.7 4x4 CD Diesel,2012,3,D,Diesel,78627
+018048-3,322,2025,6,1,31,Kia Motors,1401,Bongo K-2700 2.7 4x4 CD Diesel,2010,3,D,Diesel,71650
+018048-3,322,2025,6,1,31,Kia Motors,1401,Bongo K-2700 2.7 4x4 CD Diesel,2008,3,D,Diesel,65268
+018048-3,322,2025,6,1,31,Kia Motors,1401,Bongo K-2700 2.7 4x4 CD Diesel,2006,3,D,Diesel,56934
+018048-3,322,2025,6,1,31,Kia Motors,1401,Bongo K-2700 2.7 4x4 CD Diesel,2005,3,D,Diesel,50546
+018016-5,322,2025,6,1,31,Kia Motors,1405,Carnival 2.5 V6,2005,1,G,Gasolina,41743
+018016-5,322,2025,6,1,31,Kia Motors,1405,Carnival 2.5 V6,2001,1,G,Gasolina,29869
+018016-5,322,2025,6,1,31,Kia Motors,1405,Carnival 2.5 V6,2000,1,G,Gasolina,21202
+018057-2,322,2025,6,1,31,Kia Motors,4119,Carnival EX 3.8 V6 24V 242cv Aut.,2009,1,G,Gasolina,47039
+018085-8,322,2025,6,1,31,Kia Motors,6442,Cerato 1.6 16V  Flex  Aut.,2015,1,G,Gasolina,60908
+018064-5,322,2025,6,1,31,Kia Motors,4440,Cerato 1.6 16V Aut.,2009,1,G,Gasolina,33718
+018054-8,322,2025,6,1,31,Kia Motors,3936,Cerato 1.6 16V Mec.,2011,1,G,Gasolina,38506
+018054-8,322,2025,6,1,31,Kia Motors,3936,Cerato 1.6 16V Mec.,2008,1,G,Gasolina,23505
+018092-0,322,2025,6,1,31,Kia Motors,8862,Cerato SX 2.0 16V Flex Aut.,2020,1,G,Gasolina,89504
+018022-0,322,2025,6,1,31,Kia Motors,1407,Ceres Pick-Up 2.2 Diesel,1996,3,D,Diesel,9376
+018022-0,322,2025,6,1,31,Kia Motors,1407,Ceres Pick-Up 2.2 Diesel,1993,3,D,Diesel,7035
+018030-0,322,2025,6,1,31,Kia Motors,1408,Clarus GLX 2.0 16V Aut.,2000,1,G,Gasolina,10352
+018030-0,322,2025,6,1,31,Kia Motors,1408,Clarus GLX 2.0 16V Aut.,1997,1,G,Gasolina,6975
+018017-3,322,2025,6,1,31,Kia Motors,1411,Clarus Wagon GLX 2.0 16V Mec.,1999,1,G,Gasolina,8011
+018089-0,322,2025,6,1,31,Kia Motors,7351,Grand Carnival EX 3.3 V6 24V 270cv Aut.,2019,1,G,Gasolina,232630
+018089-0,322,2025,6,1,31,Kia Motors,7351,Grand Carnival EX 3.3 V6 24V 270cv Aut.,2016,1,G,Gasolina,183674
+018069-6,322,2025,6,1,31,Kia Motors,4891,MOHAVE EX 3.0 V6 24V 256cv TB Dies. Aut.,2015,3,D,Diesel,111413
+018069-6,322,2025,6,1,31,Kia Motors,4891,MOHAVE EX 3.0 V6 24V 256cv TB Dies. Aut.,2012,3,D,Diesel,87258
+018069-6,322,2025,6,1,31,Kia Motors,4891,MOHAVE EX 3.0 V6 24V 256cv TB Dies. Aut.,2011,3,D,Diesel,81451
+018069-6,322,2025,6,1,31,Kia Motors,4891,MOHAVE EX 3.0 V6 24V 256cv TB Dies. Aut.,2009,3,D,Diesel,67191
+018068-8,322,2025,6,1,31,Kia Motors,4863,MOHAVE EX 3.8 V6 24V 275cv 4x4 Aut.,2013,1,G,Gasolina,72297
+018068-8,322,2025,6,1,31,Kia Motors,4863,MOHAVE EX 3.8 V6 24V 275cv 4x4 Aut.,2009,1,G,Gasolina,48644
+018102-1,322,2025,6,1,31,Kia Motors,10928,Niro SX Rio Limited Edt 1.6 GDI  (Híb.),32000,1,G,Gasolina,221358
+018102-1,322,2025,6,1,31,Kia Motors,10928,Niro SX Rio Limited Edt 1.6 GDI  (Híb.),2024,1,G,Gasolina,185947
+018052-1,322,2025,6,1,31,Kia Motors,1412,Opirus GL 3.5 V6 24V 202cv Aut.,2004,1,G,Gasolina,25137
+018060-2,322,2025,6,1,31,Kia Motors,4141,Picanto EX 1.1/1.0/ 1.0 Flex Aut.,2015,1,G,Gasolina,46347
+018060-2,322,2025,6,1,31,Kia Motors,4141,Picanto EX 1.1/1.0/ 1.0 Flex Aut.,2014,1,G,Gasolina,45216
+018060-2,322,2025,6,1,31,Kia Motors,4141,Picanto EX 1.1/1.0/ 1.0 Flex Aut.,2012,1,G,Gasolina,39392
+018060-2,322,2025,6,1,31,Kia Motors,4141,Picanto EX 1.1/1.0/ 1.0 Flex Aut.,2009,1,G,Gasolina,28940
+018060-2,322,2025,6,1,31,Kia Motors,4141,Picanto EX 1.1/1.0/ 1.0 Flex Aut.,2007,1,G,Gasolina,25247
+018059-9,322,2025,6,1,31,Kia Motors,4142,Picanto EX 1.1/1.0/ 1.0 Flex Mec.,2014,1,G,Gasolina,38958
+018059-9,322,2025,6,1,31,Kia Motors,4142,Picanto EX 1.1/1.0/ 1.0 Flex Mec.,2008,1,G,Gasolina,20862
+018059-9,322,2025,6,1,31,Kia Motors,4142,Picanto EX 1.1/1.0/ 1.0 Flex Mec.,2006,1,G,Gasolina,16442
+018087-4,322,2025,6,1,31,Kia Motors,7073,QUORIS EX 3.8 V6 24V 294cv Aut.,2016,1,G,Gasolina,206280
+018094-7,322,2025,6,1,31,Kia Motors,8990,RIO EX 1.6 Flex Aut.,2021,1,G,Gasolina,80577
+018094-7,322,2025,6,1,31,Kia Motors,8990,RIO EX 1.6 Flex Aut.,2020,1,G,Gasolina,66620
+018019-0,322,2025,6,1,31,Kia Motors,1415,Sephia LS 1.5 16V Aut.,1999,1,G,Gasolina,8484
+018073-4,322,2025,6,1,31,Kia Motors,5249,Sorento 2.4 16V 4x2 Aut.,2018,1,G,Gasolina,112109
+018073-4,322,2025,6,1,31,Kia Motors,5249,Sorento 2.4 16V 4x2 Aut.,2013,1,G,Gasolina,59978
+018070-0,322,2025,6,1,31,Kia Motors,4977,SOUL 1.6/ 1.6 16V FLEX Aut.,2012,1,G,Gasolina,42721
+018024-6,322,2025,6,1,31,Kia Motors,1427,Sportage DLX 2.0 16V Mec.,1997,1,G,Gasolina,12611
+033067-1,322,2025,6,1,33,Land Rover,5555,Defender 110 RAW 2.4 122cv T. Diesel,2011,3,D,Diesel,388552
+033012-4,322,2025,6,1,33,Land Rover,1452,Defender 130 TDI CD Diesel,2001,3,D,Diesel,53935
+033126-0,322,2025,6,1,33,Land Rover,9999,Discovery Sp. SE 2.0 4x4 Dies Aut.(Híb.),2016,3,D,Diesel,113150
+033117-1,322,2025,6,1,33,Land Rover,7393,Discovery Sport SE 2.2 4x4 Diesel Aut.,2016,3,D,Diesel,112242
+033151-1,322,2025,6,1,33,Land Rover,8093,Range R. VELAR R-Dyn. HSE 3.0 4x4 V6 Aut,2020,1,G,Gasolina,387273
+033172-4,322,2025,6,1,33,Land Rover,8961,Range R. VELAR SV Autob. Super.C 5.0 V8,2019,1,G,Gasolina,537735
+033064-7,322,2025,6,1,33,Land Rover,5421,Range R. Vogue 4.4 TDV8/SDV8 Diesel Aut.,2013,3,D,Diesel,236388
+033084-1,322,2025,6,1,33,Land Rover,6391,Range R. Vogue Autob. SUPERCHAR. 5.0 V8,2016,1,G,Gasolina,405143
+033084-1,322,2025,6,1,33,Land Rover,6391,Range R. Vogue Autob. SUPERCHAR. 5.0 V8,2013,1,G,Gasolina,286315
+033077-9,322,2025,6,1,33,Land Rover,5701,Range R.EVOQUE Dynamic 2.0 Aut 5p,2015,1,G,Gasolina,124723
+033077-9,322,2025,6,1,33,Land Rover,5701,Range R.EVOQUE Dynamic 2.0 Aut 5p,2014,1,G,Gasolina,115341
+033077-9,322,2025,6,1,33,Land Rover,5701,Range R.EVOQUE Dynamic 2.0 Aut 5p,2012,1,G,Gasolina,92829
+033074-4,322,2025,6,1,33,Land Rover,5703,Range R.EVOQUE Prestige 2.0 Aut. 5p,2014,1,G,Gasolina,108354
+033074-4,322,2025,6,1,33,Land Rover,5703,Range R.EVOQUE Prestige 2.0 Aut. 5p,2013,1,G,Gasolina,94606
+033074-4,322,2025,6,1,33,Land Rover,5703,Range R.EVOQUE Prestige 2.0 Aut. 5p,2012,1,G,Gasolina,92298
+033122-8,322,2025,6,1,33,Land Rover,7551,Range R.EVOQUE SD4 HSE 2.2 Dies. Aut.5p,2016,3,D,Diesel,119606
+033203-8,322,2025,6,1,33,Land Rover,10177,Range R.Sp. First.Ed.4.4 V8 TB 530cv Aut,2023,1,G,Gasolina,906506
+033160-0,322,2025,6,1,33,Land Rover,8413,Range Rover EVOQUE Autobiography 2.0 Aut,2018,1,G,Gasolina,182436
+033033-7,322,2025,6,1,33,Land Rover,3824,Range Rover Sport HSE 4.4 V8 32V 295cv,2005,1,G,Gasolina,46517
+033061-2,322,2025,6,1,33,Land Rover,5146,Range Rover Vogue SE SUPERCHAR. 5.0 V8,2013,1,G,Gasolina,215669
+033061-2,322,2025,6,1,33,Land Rover,5146,Range Rover Vogue SE SUPERCHAR. 5.0 V8,2012,1,G,Gasolina,122108
+033061-2,322,2025,6,1,33,Land Rover,5146,Range Rover Vogue SE SUPERCHAR. 5.0 V8,2011,1,G,Gasolina,111408
+023012-0,322,2025,6,1,43,Nissan,1787,Frontier AX 3.2 CD Diesel,2000,3,D,Diesel,33001
+023184-3,322,2025,6,1,43,Nissan,9792,Frontier PRO4X CD 4x4 2.3 Bi-TB Die. Aut,2023,3,D,Diesel,214273
+023161-4,322,2025,6,1,43,Nissan,8636,Frontier S CD 4x4 2.3 TB Diesel Mec.,2023,3,D,Diesel,148204
+023161-4,322,2025,6,1,43,Nissan,8636,Frontier S CD 4x4 2.3 TB Diesel Mec.,2019,3,D,Diesel,112339
+023077-4,322,2025,6,1,43,Nissan,4777,Frontier SE/SE Strik CD 4x2 2.5 TB Dies.,2009,3,D,Diesel,66917
+023045-6,322,2025,6,1,43,Nissan,1796,Frontier XE/ XE TIT. CD 4x4 2.8 TDI Dies,2003,3,D,Diesel,48214
+023173-8,322,2025,6,1,43,Nissan,9334,KICKS Active S 1.6 16V Flex Aut.,2021,1,G,Gasolina,84899
+023178-9,322,2025,6,1,43,Nissan,9337,KICKS Sense 1.6 16V Flex Aut.,2024,1,G,Gasolina,103044
+023178-9,322,2025,6,1,43,Nissan,9337,KICKS Sense 1.6 16V Flex Aut.,2022,1,G,Gasolina,93323
+023096-0,322,2025,6,1,43,Nissan,5253,LIVINA GRAND S 1.8 16V Flex Fuel Aut.,2011,1,G,Gasolina,36612
+023089-8,322,2025,6,1,43,Nissan,4984,LIVINA GRAND SL 1.8 16V Flex Fuel Aut.,2012,1,G,Gasolina,40769
+023105-3,322,2025,6,1,43,Nissan,5643,MARCH 1.0 16V Flex Fuel 5p,2014,1,G,Gasolina,34795
+023105-3,322,2025,6,1,43,Nissan,5643,MARCH 1.0 16V Flex Fuel 5p,2012,1,G,Gasolina,28532
+023013-8,322,2025,6,1,43,Nissan,1799,Maxima 30G/ GLE 3.0 V6 24V,1999,1,G,Gasolina,15065
+023058-8,322,2025,6,1,43,Nissan,4193,MURANO SE 3.5 V6 24V 231cv Aut,2009,1,G,Gasolina,51729
+023001-4,322,2025,6,1,43,Nissan,1811,Pathfinder SE 4x4 3.0 12V Aut./Mec.,1992,1,G,Gasolina,12616
+023007-3,322,2025,6,1,43,Nissan,1821,Quest GXE/ GLE/ SER,1994,1,G,Gasolina,18395
+023189-4,322,2025,6,1,43,Nissan,10571,Sentra Exclu. Int. Premium 2.0 16V Aut.,2023,1,G,Gasolina,140352
+023008-1,322,2025,6,1,43,Nissan,1824,Sentra GSX/ EX,1996,1,G,Gasolina,5904
+023008-1,322,2025,6,1,43,Nissan,1824,Sentra GSX/ EX,1994,1,G,Gasolina,4253
+023063-4,322,2025,6,1,43,Nissan,4296,Sentra S 2.0/ 2.0 Flex Fuel 16V Aut.,2013,1,G,Gasolina,38965
+023063-4,322,2025,6,1,43,Nissan,4296,Sentra S 2.0/ 2.0 Flex Fuel 16V Aut.,2009,1,G,Gasolina,30444
+023062-6,322,2025,6,1,43,Nissan,4297,Sentra S 2.0/ 2.0 Flex Fuel 16V Mec.,2015,1,G,Gasolina,43656
+023062-6,322,2025,6,1,43,Nissan,4297,Sentra S 2.0/ 2.0 Flex Fuel 16V Mec.,2010,1,G,Gasolina,29528
+023062-6,322,2025,6,1,43,Nissan,4297,Sentra S 2.0/ 2.0 Flex Fuel 16V Mec.,2007,1,G,Gasolina,24690
+023064-2,322,2025,6,1,43,Nissan,4298,Sentra SL 2.0/ 2.0 Flex Fuel 16V Aut.,2011,1,G,Gasolina,35745
+023064-2,322,2025,6,1,43,Nissan,4298,Sentra SL 2.0/ 2.0 Flex Fuel 16V Aut.,2009,1,G,Gasolina,31648
+023064-2,322,2025,6,1,43,Nissan,4298,Sentra SL 2.0/ 2.0 Flex Fuel 16V Aut.,2008,1,G,Gasolina,28714
+023065-0,322,2025,6,1,43,Nissan,4404,TIIDA S 1.8/1.8 Flex 16V  Mec.,2012,1,G,Gasolina,31915
+023065-0,322,2025,6,1,43,Nissan,4404,TIIDA S 1.8/1.8 Flex 16V  Mec.,2009,1,G,Gasolina,24757
+023067-7,322,2025,6,1,43,Nissan,4406,TIIDA SL 1.8/1.8 Flex 16V  Mec.,2012,1,G,Gasolina,36883
+023067-7,322,2025,6,1,43,Nissan,4406,TIIDA SL 1.8/1.8 Flex 16V  Mec.,2011,1,G,Gasolina,34873
+023067-7,322,2025,6,1,43,Nissan,4406,TIIDA SL 1.8/1.8 Flex 16V  Mec.,2010,1,G,Gasolina,27669
+023175-4,322,2025,6,1,43,Nissan,9231,VERSA Advance 1.6 16V Flex Aut.,2024,1,G,Gasolina,100479
+023174-6,322,2025,6,1,43,Nissan,9232,VERSA Exclusive 1.6 16V Flex Aut.,2021,1,G,Gasolina,85294
+023113-4,322,2025,6,1,43,Nissan,5709,VERSA SL 1.6 16V Flex Fuel 4p Mec.,2014,1,G,Gasolina,39359
+023113-4,322,2025,6,1,43,Nissan,5709,VERSA SL 1.6 16V Flex Fuel 4p Mec.,2012,1,G,Gasolina,32257
+023144-4,322,2025,6,1,43,Nissan,7630,VERSA SV 1.6 16V FlexStart 4p Aut.,2017,1,G,Gasolina,51663
+023141-0,322,2025,6,1,43,Nissan,7632,VERSA UNIQUE 1.6 16V FlexStart 4p Aut.,2017,1,G,Gasolina,57634
+023049-9,322,2025,6,1,43,Nissan,1830,XTerra SE 4x4 2.8 132/140cv TB Int.Dies.,2006,3,D,Diesel,74065
+023049-9,322,2025,6,1,43,Nissan,1830,XTerra SE 4x4 2.8 132/140cv TB Int.Dies.,2003,3,D,Diesel,62445
+023035-9,322,2025,6,1,43,Nissan,1833,ZX 300 3.0 BI-Turbo,1993,1,G,Gasolina,77349
+023035-9,322,2025,6,1,43,Nissan,1833,ZX 300 3.0 BI-Turbo,1992,1,G,Gasolina,60458
+023035-9,322,2025,6,1,43,Nissan,1833,ZX 300 3.0 BI-Turbo,1991,1,G,Gasolina,58983
+005329-5,322,2025,6,1,59,VW - VolksWagen,5585,AMAROK CD2.0 16V/S CD2.0 16V TDI 4x2 Die,2012,3,D,Diesel,69108
+005330-9,322,2025,6,1,59,VW - VolksWagen,5586,AMAROK CD2.0 16V/S CD2.0 16V TDI 4x4 Die,2016,3,D,Diesel,87239
+005330-9,322,2025,6,1,59,VW - VolksWagen,5586,AMAROK CD2.0 16V/S CD2.0 16V TDI 4x4 Die,2014,3,D,Diesel,77845
+005330-9,322,2025,6,1,59,VW - VolksWagen,5586,AMAROK CD2.0 16V/S CD2.0 16V TDI 4x4 Die,2013,3,D,Diesel,74959
+005464-0,322,2025,6,1,59,VW - VolksWagen,7674,AMAROK Hig.ULTIMATE CD 2.0 4x4 Dies. Aut,2016,3,D,Diesel,111394
+005349-0,322,2025,6,1,59,VW - VolksWagen,6277,AMAROK Trendline CD 2.0 TDI 4X4 Dies Aut,2017,3,D,Diesel,105507
+005349-0,322,2025,6,1,59,VW - VolksWagen,6277,AMAROK Trendline CD 2.0 TDI 4X4 Dies Aut,2014,3,D,Diesel,88225
+005026-1,322,2025,6,1,59,VW - VolksWagen,2360,Apolo GLS/ Vip 1.8,1992,1,G,Gasolina,12919
+005026-1,322,2025,6,1,59,VW - VolksWagen,2360,Apolo GLS/ Vip 1.8,1990,1,G,Gasolina,6960
+005154-3,322,2025,6,1,59,VW - VolksWagen,2361,Bora 2.0/ 2.0 Flex 8v Aut.,2008,1,G,Gasolina,33253
+005154-3,322,2025,6,1,59,VW - VolksWagen,2361,Bora 2.0/ 2.0 Flex 8v Aut.,2003,1,G,Gasolina,20741
+005153-5,322,2025,6,1,59,VW - VolksWagen,2364,Bora 2.0/ 2.0 Flex 8v Mec.,2011,1,G,Gasolina,42943
+005153-5,322,2025,6,1,59,VW - VolksWagen,2364,Bora 2.0/ 2.0 Flex 8v Mec.,2007,1,G,Gasolina,25627
+005153-5,322,2025,6,1,59,VW - VolksWagen,2364,Bora 2.0/ 2.0 Flex 8v Mec.,2000,1,G,Gasolina,14625
+005027-0,322,2025,6,1,59,VW - VolksWagen,2380,Fusca,1994,1,G,Gasolina,43519
+005150-0,322,2025,6,1,59,VW - VolksWagen,2384,Gol 1.0 Plus 8v 2p,2001,2,Á,Álcool,8530
+005124-1,322,2025,6,1,59,VW - VolksWagen,2394,Gol 1.6 Mi/ Power 1.6 Mi 4p,2001,1,G,Gasolina,12869
+005124-1,322,2025,6,1,59,VW - VolksWagen,2394,Gol 1.6 Mi/ Power 1.6 Mi 4p,2001,2,Á,Álcool,13383
+005127-6,322,2025,6,1,59,VW - VolksWagen,2405,Gol 1000 Mi 4p,2000,1,G,Gasolina,10307
+005195-0,322,2025,6,1,59,VW - VolksWagen,2417,Gol City (Trend) 1.6 Mi T.Flex 8V 4p,2005,1,G,Gasolina,17848
+005119-5,322,2025,6,1,59,VW - VolksWagen,2423,Gol Furgão 1.6 Mi/ 1.6i/ 1.6,1995,2,Á,Álcool,6442
+005119-5,322,2025,6,1,59,VW - VolksWagen,2423,Gol Furgão 1.6 Mi/ 1.6i/ 1.6,1988,1,G,Gasolina,4200
+005036-9,322,2025,6,1,59,VW - VolksWagen,2428,Gol GT/GTS 1.8,1989,1,G,Gasolina,18324
+005038-5,322,2025,6,1,59,VW - VolksWagen,2436,Gol TSi 2000 2p e 4p,1999,1,G,Gasolina,26136
+005038-5,322,2025,6,1,59,VW - VolksWagen,2436,Gol TSi 2000 2p e 4p,1998,1,G,Gasolina,25498
+005314-7,322,2025,6,1,59,VW - VolksWagen,5115,Golf  BLACK EDITON 2.0 Mi T. Flex 8V Tip,2013,1,G,Gasolina,56470
+005314-7,322,2025,6,1,59,VW - VolksWagen,5115,Golf  BLACK EDITON 2.0 Mi T. Flex 8V Tip,2011,1,G,Gasolina,47581
+005314-7,322,2025,6,1,59,VW - VolksWagen,5115,Golf  BLACK EDITON 2.0 Mi T. Flex 8V Tip,2010,1,G,Gasolina,43634
+005085-7,322,2025,6,1,59,VW - VolksWagen,2438,Golf 1.6Mi/ 1.6Mi Gener./Black & Silver,2003,1,G,Gasolina,26869
+005209-4,322,2025,6,1,59,VW - VolksWagen,2439,Golf 1.8 Mi Sport 150cv Turbo Mec/Aut.,2005,1,G,Gasolina,32241
+005209-4,322,2025,6,1,59,VW - VolksWagen,2439,Golf 1.8 Mi Sport 150cv Turbo Mec/Aut.,2004,1,G,Gasolina,29491
+005141-1,322,2025,6,1,59,VW - VolksWagen,2441,Golf 2.0/2.0 T. Flex Mec.(Black & Silv),2009,1,G,Gasolina,40670
+005141-1,322,2025,6,1,59,VW - VolksWagen,2441,Golf 2.0/2.0 T. Flex Mec.(Black & Silv),2007,1,G,Gasolina,28931
+005141-1,322,2025,6,1,59,VW - VolksWagen,2441,Golf 2.0/2.0 T. Flex Mec.(Black & Silv),2001,1,G,Gasolina,21138
+005466-6,322,2025,6,1,59,VW - VolksWagen,7781,Golf Comfortline 1.0 TSI Total Flex Mec.,2017,1,G,Gasolina,77454
+005369-4,322,2025,6,1,59,VW - VolksWagen,6798,Golf Comfortline 1.4 TSI 140cv Mec.,2014,1,G,Gasolina,70194
+005071-7,322,2025,6,1,59,VW - VolksWagen,2444,Golf GL 1.8/ 2.0i 4p,1997,1,G,Gasolina,12838
+005072-5,322,2025,6,1,59,VW - VolksWagen,2445,Golf GLX 2.0 4p,1997,1,G,Gasolina,24932
+005171-3,322,2025,6,1,59,VW - VolksWagen,2446,Golf GTi 1.8 Mi 180/193cv Turbo 4p Mec.,2007,1,G,Gasolina,51883
+005171-3,322,2025,6,1,59,VW - VolksWagen,2446,Golf GTi 1.8 Mi 180/193cv Turbo 4p Mec.,2003,1,G,Gasolina,42192
+005107-1,322,2025,6,1,59,VW - VolksWagen,2448,Golf GTi 1.8 Mi 20V 2p Turbo Mec.,1999,1,G,Gasolina,19766
+005073-3,322,2025,6,1,59,VW - VolksWagen,2453,Golf GTi 2.0,1994,1,G,Gasolina,18398
+005326-0,322,2025,6,1,59,VW - VolksWagen,5512,JETTA Comfortline  2.0 T.Flex 8V 4p Mec.,2014,1,G,Gasolina,64973
+005327-9,322,2025,6,1,59,VW - VolksWagen,5513,JETTA Comfortline 2.0 T.Flex 8V 4p Tipt.,2015,1,G,Gasolina,67182
+005327-9,322,2025,6,1,59,VW - VolksWagen,5513,JETTA Comfortline 2.0 T.Flex 8V 4p Tipt.,2014,1,G,Gasolina,65543
+005327-9,322,2025,6,1,59,VW - VolksWagen,5513,JETTA Comfortline 2.0 T.Flex 8V 4p Tipt.,2012,1,G,Gasolina,54982
+005327-9,322,2025,6,1,59,VW - VolksWagen,5513,JETTA Comfortline 2.0 T.Flex 8V 4p Tipt.,2011,1,G,Gasolina,52854
+005503-4,322,2025,6,1,59,VW - VolksWagen,8488,JETTA R-Line 250 TSI 1.4 Flex 16V Aut.,2019,1,G,Gasolina,110233
+005137-3,322,2025,6,1,59,VW - VolksWagen,2459,Kombi Escolar 1.6 MPi,2005,2,Á,Álcool,19891
+005137-3,322,2025,6,1,59,VW - VolksWagen,2459,Kombi Escolar 1.6 MPi,2001,1,G,Gasolina,16614
+005137-3,322,2025,6,1,59,VW - VolksWagen,2459,Kombi Escolar 1.6 MPi,2000,1,G,Gasolina,14719
+005241-8,322,2025,6,1,59,VW - VolksWagen,3980,Kombi Escolar/50 anos 1.4 Mi Total Flex,2014,1,G,Gasolina,50332
+005241-8,322,2025,6,1,59,VW - VolksWagen,3980,Kombi Escolar/50 anos 1.4 Mi Total Flex,2012,1,G,Gasolina,46179
+005241-8,322,2025,6,1,59,VW - VolksWagen,3980,Kombi Escolar/50 anos 1.4 Mi Total Flex,2009,1,G,Gasolina,33346
+005024-5,322,2025,6,1,59,VW - VolksWagen,2465,Kombi Standard/ Luxo/ Série Prata,2004,2,Á,Álcool,21217
+005024-5,322,2025,6,1,59,VW - VolksWagen,2465,Kombi Standard/ Luxo/ Série Prata,2002,1,G,Gasolina,33012
+005024-5,322,2025,6,1,59,VW - VolksWagen,2465,Kombi Standard/ Luxo/ Série Prata,2001,2,Á,Álcool,15942
+005024-5,322,2025,6,1,59,VW - VolksWagen,2465,Kombi Standard/ Luxo/ Série Prata,1998,2,Á,Álcool,14025
+005024-5,322,2025,6,1,59,VW - VolksWagen,2465,Kombi Standard/ Luxo/ Série Prata,1997,2,Á,Álcool,13297
+005024-5,322,2025,6,1,59,VW - VolksWagen,2465,Kombi Standard/ Luxo/ Série Prata,1995,2,Á,Álcool,10685
+005024-5,322,2025,6,1,59,VW - VolksWagen,2465,Kombi Standard/ Luxo/ Série Prata,1994,1,G,Gasolina,23819
+005024-5,322,2025,6,1,59,VW - VolksWagen,2465,Kombi Standard/ Luxo/ Série Prata,1990,1,G,Gasolina,18029
+005042-3,322,2025,6,1,59,VW - VolksWagen,2466,Logus 1.6 / CLi / CL/ GL,1997,2,Á,Álcool,6614
+005043-1,322,2025,6,1,59,VW - VolksWagen,2467,Logus 1.8 / CLi / CL,1996,2,Á,Álcool,7156
+005043-1,322,2025,6,1,59,VW - VolksWagen,2467,Logus 1.8 / CLi / CL,1993,1,G,Gasolina,6212
+005160-8,322,2025,6,1,59,VW - VolksWagen,2473,Parati 1.0 Mi FUN/ SunSet 16V 4p,2002,1,G,Gasolina,14371
+005192-6,322,2025,6,1,59,VW - VolksWagen,2478,Parati 1.6Mi/1.6Mi City/T.Field T.Flex,2010,1,G,Gasolina,33694
+005192-6,322,2025,6,1,59,VW - VolksWagen,2478,Parati 1.6Mi/1.6Mi City/T.Field T.Flex,2006,1,G,Gasolina,29735
+005220-5,322,2025,6,1,59,VW - VolksWagen,2481,Parati 1.8 Mi T. Field Total Flex 8V 4p,2007,1,G,Gasolina,32055
+005110-1,322,2025,6,1,59,VW - VolksWagen,2487,Parati 2.0 Mi/ 2.0 Mi Track & Field,2005,1,G,Gasolina,25667
+005009-1,322,2025,6,1,59,VW - VolksWagen,2488,Parati C 1.6/ CL 1.6 Mi 2p e 4p,1997,1,G,Gasolina,12863
+005009-1,322,2025,6,1,59,VW - VolksWagen,2488,Parati C 1.6/ CL 1.6 Mi 2p e 4p,1986,1,G,Gasolina,3377
+005100-4,322,2025,6,1,59,VW - VolksWagen,2501,Parati Plus/ LS/ S,1986,1,G,Gasolina,7088
+005132-2,322,2025,6,1,59,VW - VolksWagen,2504,Passat 1.8 Aut.,1999,1,G,Gasolina,14419
+005292-2,322,2025,6,1,59,VW - VolksWagen,4929,Passat CC 3.6 V6 FSI 300cv Tiptronic,2014,1,G,Gasolina,111767
+005447-0,322,2025,6,1,59,VW - VolksWagen,7466,Passat Highline 2.0 TSI 220cv Tip.,2018,1,G,Gasolina,131782
+005261-2,322,2025,6,1,59,VW - VolksWagen,4323,Passat Variant 3.2 V6 FSI 24V 250cv Tip.,2010,1,G,Gasolina,53451
+005261-2,322,2025,6,1,59,VW - VolksWagen,4323,Passat Variant 3.2 V6 FSI 24V 250cv Tip.,2007,1,G,Gasolina,38313
+005115-2,322,2025,6,1,59,VW - VolksWagen,2520,Passat Variant Turbo 1.8 Tiptronic,2003,1,G,Gasolina,28065
+005115-2,322,2025,6,1,59,VW - VolksWagen,2520,Passat Variant Turbo 1.8 Tiptronic,2000,1,G,Gasolina,19136
+005076-8,322,2025,6,1,59,VW - VolksWagen,2521,Passat Variant VR6 2.8,1994,1,G,Gasolina,8526
+005076-8,322,2025,6,1,59,VW - VolksWagen,2521,Passat Variant VR6 2.8,1992,1,G,Gasolina,7485
+005055-5,322,2025,6,1,59,VW - VolksWagen,2523,Pointer 1.8 / CLi,1995,1,G,Gasolina,6047
+005056-3,322,2025,6,1,59,VW - VolksWagen,2524,Pointer GLi 1.8,1996,2,Á,Álcool,7617
+005056-3,322,2025,6,1,59,VW - VolksWagen,2524,Pointer GLi 1.8,1995,1,G,Gasolina,6576
+005057-1,322,2025,6,1,59,VW - VolksWagen,2525,Pointer GLi 2.0,1995,1,G,Gasolina,10464
+005057-1,322,2025,6,1,59,VW - VolksWagen,2525,Pointer GLi 2.0,1994,1,G,Gasolina,10208
+005213-2,322,2025,6,1,59,VW - VolksWagen,2529,Polo 1.6 Mi/S.Ouro 1.6 Mi Tot.Flex 8V 5p,2013,1,G,Gasolina,40576
+005213-2,322,2025,6,1,59,VW - VolksWagen,2529,Polo 1.6 Mi/S.Ouro 1.6 Mi Tot.Flex 8V 5p,2012,1,G,Gasolina,38747
+005213-2,322,2025,6,1,59,VW - VolksWagen,2529,Polo 1.6 Mi/S.Ouro 1.6 Mi Tot.Flex 8V 5p,2010,1,G,Gasolina,33634
+005213-2,322,2025,6,1,59,VW - VolksWagen,2529,Polo 1.6 Mi/S.Ouro 1.6 Mi Tot.Flex 8V 5p,2007,1,G,Gasolina,29850
+005294-9,322,2025,6,1,59,VW - VolksWagen,4989,Polo I MOTION 1.6 Total Flex  5p,2013,1,G,Gasolina,40890
+005294-9,322,2025,6,1,59,VW - VolksWagen,4989,Polo I MOTION 1.6 Total Flex  5p,2010,1,G,Gasolina,33754
+005186-1,322,2025,6,1,59,VW - VolksWagen,2536,Polo Sed./Sed. COMF. 2.0/2.0 Flex 8V 4p,2013,1,G,Gasolina,45469
+005186-1,322,2025,6,1,59,VW - VolksWagen,2536,Polo Sed./Sed. COMF. 2.0/2.0 Flex 8V 4p,2009,1,G,Gasolina,34076
+005186-1,322,2025,6,1,59,VW - VolksWagen,2536,Polo Sed./Sed. COMF. 2.0/2.0 Flex 8V 4p,2007,1,G,Gasolina,29292
+005186-1,322,2025,6,1,59,VW - VolksWagen,2536,Polo Sed./Sed. COMF. 2.0/2.0 Flex 8V 4p,2005,1,G,Gasolina,24129
+005186-1,322,2025,6,1,59,VW - VolksWagen,2536,Polo Sed./Sed. COMF. 2.0/2.0 Flex 8V 4p,2003,1,G,Gasolina,22965
+005214-0,322,2025,6,1,59,VW - VolksWagen,2535,Polo Sedan 1.6 Mi Total Flex 8V 4p,2012,1,G,Gasolina,38196
+005214-0,322,2025,6,1,59,VW - VolksWagen,2535,Polo Sedan 1.6 Mi Total Flex 8V 4p,2009,1,G,Gasolina,28644
+005214-0,322,2025,6,1,59,VW - VolksWagen,2535,Polo Sedan 1.6 Mi Total Flex 8V 4p,2005,1,G,Gasolina,22956
+005513-1,322,2025,6,1,59,VW - VolksWagen,10994,Polo Sense TSI 1.0 Flex 12V Aut,2026,1,G,Gasolina,99196
+005513-1,322,2025,6,1,59,VW - VolksWagen,10994,Polo Sense TSI 1.0 Flex 12V Aut,2021,1,G,Gasolina,76139
+005540-9,322,2025,6,1,59,VW - VolksWagen,10176,Polo Track 1.0 Flex 12V 5p,2025,1,G,Gasolina,82270
+005059-8,322,2025,6,1,59,VW - VolksWagen,2540,Quantum CLi / CL / C/ CS/ CD/ CG 1.8/2.0,1995,1,G,Gasolina,9809
+005059-8,322,2025,6,1,59,VW - VolksWagen,2540,Quantum CLi / CL / C/ CS/ CD/ CG 1.8/2.0,1993,1,G,Gasolina,6954
+005059-8,322,2025,6,1,59,VW - VolksWagen,2540,Quantum CLi / CL / C/ CS/ CD/ CG 1.8/2.0,1992,1,G,Gasolina,6663
+005059-8,322,2025,6,1,59,VW - VolksWagen,2540,Quantum CLi / CL / C/ CS/ CD/ CG 1.8/2.0,1987,1,G,Gasolina,4369
+005060-1,322,2025,6,1,59,VW - VolksWagen,2543,Quantum GLi / GL 1.8/ 2.0,1995,1,G,Gasolina,12679
+005060-1,322,2025,6,1,59,VW - VolksWagen,2543,Quantum GLi / GL 1.8/ 2.0,1993,1,G,Gasolina,9433
+005060-1,322,2025,6,1,59,VW - VolksWagen,2543,Quantum GLi / GL 1.8/ 2.0,1991,1,G,Gasolina,6732
+005017-2,322,2025,6,1,59,VW - VolksWagen,2545,Santana 1.8 Mi,2006,2,Á,Álcool,25450
+005017-2,322,2025,6,1,59,VW - VolksWagen,2545,Santana 1.8 Mi,2003,2,Á,Álcool,21410
+005017-2,322,2025,6,1,59,VW - VolksWagen,2545,Santana 1.8 Mi,1999,2,Á,Álcool,15333
+005018-0,322,2025,6,1,59,VW - VolksWagen,2546,Santana 2.0 Mi 2p e 4p,2000,1,G,Gasolina,20031
+005018-0,322,2025,6,1,59,VW - VolksWagen,2546,Santana 2.0 Mi 2p e 4p,1994,1,G,Gasolina,9565
+005193-4,322,2025,6,1,59,VW - VolksWagen,2554,Saveiro 1.6 Mi/ 1.6Mi City Total Flex 8V,2003,1,G,Gasolina,22425
+005408-9,322,2025,6,1,59,VW - VolksWagen,6941,Saveiro CROSS 1.6 T.Flex 16V CD,2019,1,G,Gasolina,79953
+005299-0,322,2025,6,1,59,VW - VolksWagen,5010,Saveiro TROOPER 1.6 Mi Total Flex 8V,2012,1,G,Gasolina,41978
+005251-5,322,2025,6,1,59,VW - VolksWagen,4007,SPACEFOX 1.6/ 1.6 Trend Total Flex 8V 5p,2008,1,G,Gasolina,27884
+005510-7,322,2025,6,1,59,VW - VolksWagen,10373,T-Cross 200 TSI 1.0  Flex 12V 5p Aut.,2020,1,G,Gasolina,90336
+005489-5,322,2025,6,1,59,VW - VolksWagen,8302,TIGUAN Allspac R-Line 350 TSI 2.0 4x4,2018,1,G,Gasolina,150536
+005266-3,322,2025,6,1,59,VW - VolksWagen,4442,TOUAREG 3.6 24V V6 280cv Tiptronic 5p,2012,1,G,Gasolina,71622
+005204-3,322,2025,6,1,59,VW - VolksWagen,2569,TOUAREG 4.2 32V V8  Tiptronic 5p,2011,1,G,Gasolina,73125
+005204-3,322,2025,6,1,59,VW - VolksWagen,2569,TOUAREG 4.2 32V V8  Tiptronic 5p,2004,1,G,Gasolina,33347
+005365-1,322,2025,6,1,59,VW - VolksWagen,6718,up! take 1.0 Total Flex 12V 5p,2014,1,G,Gasolina,31288
+005484-4,322,2025,6,1,59,VW - VolksWagen,8186,VIRTUS Highline 200 TSI 1.0 Flex 12V Aut,2020,1,G,Gasolina,80986
+005280-9,322,2025,6,1,59,VW - VolksWagen,4754,VOYAGE COMF/Highli. 1.6 T.Flex 8V 4p,2011,1,G,Gasolina,31239
+005311-2,322,2025,6,1,59,VW - VolksWagen,5116,VOYAGE I MOTION 1.6 Mi Total Flex 8V,2012,1,G,Gasolina,35019
+005311-2,322,2025,6,1,59,VW - VolksWagen,5116,VOYAGE I MOTION 1.6 Mi Total Flex 8V,2010,1,G,Gasolina,29247
+005070-9,322,2025,6,1,59,VW - VolksWagen,2575,VOYAGE L/LS/Plus/GLS/S/Sport/Super L.Ang,1994,1,G,Gasolina,11724
+005070-9,322,2025,6,1,59,VW - VolksWagen,2575,VOYAGE L/LS/Plus/GLS/S/Sport/Super L.Ang,1992,1,G,Gasolina,9660
+005070-9,322,2025,6,1,59,VW - VolksWagen,2575,VOYAGE L/LS/Plus/GLS/S/Sport/Super L.Ang,1987,1,G,Gasolina,7665
